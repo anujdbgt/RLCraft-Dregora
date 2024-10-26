@@ -1,0 +1,4 @@
+RLCraft_BasicSkeleton,-2102,-2102,-1661,-1661
+RLCraft_UndergroundRuin1,-2108,-2099,-1664,-1655
+BlazeSpawnerCrystal,-2207,-2201,-1947,-1941
+ShrineSmallAir,-2119,-2111,-1792,-1784

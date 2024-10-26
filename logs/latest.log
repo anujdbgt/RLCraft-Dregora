@@ -1,0 +1,1413 @@
+[17:50:39] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[17:50:39] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[17:50:39] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[17:50:39] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2860 for Minecraft 1.12.2 loading
+[17:50:39] [main/INFO] [FML]: Java is OpenJDK 64-Bit Server VM, version 1.8.0_432, running on Linux:amd64:6.5.0-1025-azure, installed at /usr/local/sdkman/candidates/java/8.0.432-amzn/jre
+[17:50:40] [main/INFO] [FML]: Searching /workspaces/mcserver/server/./mods for mods
+[17:50:40] [main/INFO] [FML]: Searching /workspaces/mcserver/server/./mods/1.12.2 for mods
+[17:50:40] [main/INFO] [FML]: Loading tweaker net.jan.moddirector.launchwrapper.ModDirectorTweaker from !mod-director-launchwrapper-1.8.3.jar
+[17:50:40] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from [___MixinCompat-1.1-1.12.2___].jar
+[17:50:40] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from _MixinBootstrap-1.1.0.jar
+[17:50:40] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from `FermiumBooter-1.1.1.jar
+[17:50:40] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from BedBreakBegone-1.0.2.jar
+[17:50:40] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in betterbiomeblend-1.12.2-1.1.7-forge.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[17:50:40] [main/WARN] [FML]: The coremod Better Biome Blend (fionathemortal.betterbiomeblend.core.CoreMod) is not signed!
+[17:50:40] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from BHMenu-Forge-1.12.2-2.4.3.jar
+[17:50:40] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in Bloodmoon-MC1.12.2-1.5.3.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[17:50:40] [main/WARN] [FML]: The coremod lumien.bloodmoon.asm.LoadingPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[17:50:40] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in Born In A Barn 1.8-1.12-1.2.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[17:50:40] [main/WARN] [FML]: The coremod com.chocohead.biab.BornInABarn does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[17:50:40] [main/WARN] [FML]: The coremod Born in a Barn (com.chocohead.biab.BornInABarn) is not signed!
+[17:50:40] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in CarbonConfig-1.12.2-1.2.4.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[17:50:40] [main/WARN] [FML]: The coremod carbonconfiglib.impl.internal.CarbonConfigHooks does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[17:50:40] [main/WARN] [FML]: The coremod CarbonConfigHooks (carbonconfiglib.impl.internal.CarbonConfigHooks) is not signed!
+[17:50:40] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in Charm-1.12.2-1.4.1.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[17:50:40] [main/WARN] [FML]: The coremod svenhjol.charm.base.CharmLoadingPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[17:50:40] [main/WARN] [FML]: The coremod CharmLoadingPlugin (svenhjol.charm.base.CharmLoadingPlugin) is not signed!
+[17:50:40] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in ChunkAnimator-1.12.2-1.2.1.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[17:50:40] [main/WARN] [FML]: The coremod lumien.chunkanimator.asm.LoadingPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[17:50:40] [main/WARN] [FML]: The coremod LoadingPlugin (lumien.chunkanimator.asm.LoadingPlugin) is not signed!
+[17:50:40] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in ContentCreator-1.3.7-fix2.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[17:50:40] [main/WARN] [FML]: The coremod Content Creator (surreal.contentcreator.core.CCLoadingPlugin) is not signed!
+[17:50:40] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in CreativeCore_v1.10.71_mc1.12.2.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[17:50:40] [main/WARN] [FML]: The coremod com.creativemd.creativecore.core.CreativePatchingLoader does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[17:50:40] [main/WARN] [FML]: The coremod CreativePatchingLoader (com.creativemd.creativecore.core.CreativePatchingLoader) is not signed!
+[17:50:40] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from DynamicSurroundings-1.12.2-3.6.2.1.jar
+[17:50:40] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from EditableEdibles-1.3.0.jar
+[17:50:40] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from fancymenu_forge_2.14.9_MC_1.12-1.12.2.jar
+[17:50:40] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in fermiumasm-5.23.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[17:50:40] [main/WARN] [FML]: The coremod FermiumASM (mirror.normalasm.core.NormalLoadingPlugin) is not signed!
+[17:50:40] [main/INFO] [FermiumASM]: FermiumASM is on the server-side.
+[17:50:40] [main/INFO] [FermiumASM]: FermiumASM is preparing and loading in mixins
+[17:50:40] [main/WARN] [FermiumASM]: Replacing CA Certs with an updated one...
+[17:50:40] [main/INFO] [FermiumASM]: Initializing StacktraceDeobfuscator...
+[17:50:40] [main/INFO] [FermiumASM]: Found MCP stable-39 method mappings: methods-stable_39.csv
+[17:50:40] [main/INFO] [FermiumASM]: Initialized StacktraceDeobfuscator.
+[17:50:40] [main/INFO] [FermiumASM]: Installing DeobfuscatingRewritePolicy...
+[17:50:40] [main/INFO] [FermiumASM]: Installed DeobfuscatingRewritePolicy.
+[17:50:40] [main/INFO] [FermiumASM]: FermiumASM enqueueing early mixins
+[17:50:40] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.devenv.json" for early mixin enqueue, adding.
+[17:50:40] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.internal.json" for early mixin enqueue, adding.
+[17:50:40] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.vanities.json" for early mixin enqueue, adding.
+[17:50:40] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.registries.json" for early mixin enqueue, adding.
+[17:50:40] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.stripitemstack.json" for early mixin enqueue, adding.
+[17:50:40] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.lockcode.json" for early mixin enqueue, adding.
+[17:50:40] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.recipes.json" for early mixin enqueue, adding.
+[17:50:40] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.misc_fluidregistry.json" for early mixin enqueue, adding.
+[17:50:40] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.forgefixes.json" for early mixin enqueue, adding.
+[17:50:40] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.capability.json" for early mixin enqueue, adding.
+[17:50:40] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.singletonevents.json" for early mixin enqueue, adding.
+[17:50:40] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.efficienthashing.json" for early mixin enqueue, adding.
+[17:50:40] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.crashes.json" for early mixin enqueue, adding.
+[17:50:40] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.fix_mc129057.json" for early mixin enqueue, adding.
+[17:50:40] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.priorities.json" for early mixin enqueue, adding.
+[17:50:40] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.bucket.json" for early mixin enqueue, adding.
+[17:50:40] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.rendering.json" for early mixin enqueue, adding.
+[17:50:40] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.datastructures_modelmanager.json" for early mixin enqueue, adding.
+[17:50:40] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.screenshot.json" for early mixin enqueue, adding.
+[17:50:40] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.ondemand_sprites.json" for early mixin enqueue, adding.
+[17:50:40] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.searchtree_vanilla.json" for early mixin enqueue, adding.
+[17:50:40] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.resolve_mc2071.json" for early mixin enqueue, adding.
+[17:50:40] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.fix_mc_skindownloading.json" for early mixin enqueue, adding.
+[17:50:40] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.fix_mc186052.json" for early mixin enqueue, adding.
+[17:50:40] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.vfix_bugfixes.json" for early mixin enqueue, adding.
+[17:50:40] [main/INFO] [FermiumASM]: FermiumASM enqueueing late mixins
+[17:50:40] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.bakedquadsquasher.json" for late mixin enqueue, adding.
+[17:50:40] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.modfixes_immersiveengineering.json" for late mixin enqueue, adding.
+[17:50:40] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.modfixes_evilcraftcompat.json" for late mixin enqueue, adding.
+[17:50:40] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.modfixes_ebwizardry.json" for late mixin enqueue, adding.
+[17:50:40] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.modfixes_xu2.json" for late mixin enqueue, adding.
+[17:50:40] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.searchtree_mod.json" for late mixin enqueue, adding.
+[17:50:40] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.modfixes_astralsorcery.json" for late mixin enqueue, adding.
+[17:50:40] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.capability_astralsorcery.json" for late mixin enqueue, adding.
+[17:50:40] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.modfixes_b3m.json" for late mixin enqueue, adding.
+[17:50:40] [main/INFO] [FermiumASM]: FermiumASM finished mixin enqueue
+[17:50:40] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in foamfix-0.10.15-1.12.2.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[17:50:40] [main/WARN] [FML]: The coremod pl.asie.foamfix.coremod.FoamFixCore does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[17:50:40] [main/WARN] [FML]: The coremod Do not report to Forge! (If you haven't disabled the FoamFix coremod, try disabling it in the config! Note that this bit of text will still appear.) (pl.asie.foamfix.coremod.FoamFixCore) is not signed!
+[17:50:40] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in ForgeEndertech-1.12.2-4.5.6.1-build.0648.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[17:50:40] [main/WARN] [FML]: The coremod com.endertech.minecraft.forge.coremod.CorePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[17:50:40] [main/WARN] [FML]: The coremod CorePlugin (com.endertech.minecraft.forge.coremod.CorePlugin) is not signed!
+[17:50:40] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in Forgelin-1.8.4.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[17:50:40] [main/WARN] [FML]: The coremod net.shadowfacts.forgelin.preloader.ForgelinPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[17:50:40] [main/WARN] [FML]: The coremod ForgelinPlugin (net.shadowfacts.forgelin.preloader.ForgelinPlugin) is not signed!
+[17:50:40] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from framevoidpatch-1.0.0.jar
+[17:50:40] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in Ice and Fire-2.0.2.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[17:50:40] [main/WARN] [FML]: The coremod IceAndFirePlugin (com.github.alexthe666.iceandfire.asm.IceAndFirePlugin) is not signed!
+[17:50:40] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in InventoryTweaks-1.64+dev.151.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[17:50:40] [main/WARN] [FML]: The coremod invtweaks.forge.asm.FMLPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[17:50:40] [main/WARN] [FML]: The coremod com.creativemd.itemphysic.ItemPatchingLoader does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[17:50:40] [main/WARN] [FML]: The coremod ItemPatchingLoader (com.creativemd.itemphysic.ItemPatchingLoader) is not signed!
+[17:50:40] [main/WARN] [FML]: The coremod ivorius.ivtoolkit.IvToolkitLoadingPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[17:50:40] [main/WARN] [FML]: The coremod IvToolkit (ivorius.ivtoolkit.IvToolkitLoadingPlugin) is not signed!
+[17:50:40] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from konkrete_forge_1.6.1_MC_1.12-1.12.2.jar
+[17:50:40] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in librarianlib-1.12.2-4.22.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[17:50:40] [main/WARN] [FML]: The coremod com.teamwizardry.librarianlib.asm.LibLibCorePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[17:50:40] [main/WARN] [FML]: The coremod LibrarianLib Plugin (com.teamwizardry.librarianlib.asm.LibLibCorePlugin) is not signed!
+[17:50:40] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from Locks-1.12.2-3.0.0.jar
+[17:50:40] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from MaterialTweaker-1.1.1.jar
+[17:50:40] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in MultiMine-1.12.2.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[17:50:40] [main/WARN] [FML]: The coremod atomicstryker.multimine.common.fmlmagic.MMFMLCorePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[17:50:40] [main/WARN] [FML]: The coremod MMFMLCorePlugin (atomicstryker.multimine.common.fmlmagic.MMFMLCorePlugin) is not signed!
+[17:50:40] [main/WARN] [FML]: The coremod OTGCorePlugin (com.pg85.otg.forge.asm.excluded.launch.OTGCorePlugin) is not signed!
+[17:50:40] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from particleculling-1.12.2-v1.4.3.jar
+[17:50:40] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in Quark-r1.6-179.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[17:50:40] [main/WARN] [FML]: The coremod Quark Plugin (vazkii.quark.base.asm.LoadingPlugin) is not signed!
+[17:50:40] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in ReachFix-1.12.2-1.0.10.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[17:50:40] [main/WARN] [FML]: The coremod ReachFixPlugin (meldexun.reachfix.asm.ReachFixPlugin) is not signed!
+[17:50:40] [main/WARN] [FML]: The coremod RBLoadingPlugin (pw.prok.realbench.asm.RBLoadingPlugin) is not signed!
+[17:50:40] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in Reskillable-1.12.2-1.13.0.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[17:50:40] [main/WARN] [FML]: The coremod codersafterdark.reskillable.base.asm.LoadingPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[17:50:40] [main/WARN] [FML]: The coremod LoadingPlugin (codersafterdark.reskillable.base.asm.LoadingPlugin) is not signed!
+[17:50:40] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in ResourceLoader-MC1.12.1-1.5.3.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[17:50:40] [main/WARN] [FML]: The coremod lumien.resourceloader.asm.LoadingPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[17:50:40] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from RLCombat-1.12.2-2.2.1.jar
+[17:50:40] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in RLFoliage-MC1.12-2.4.2.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[17:50:40] [main/WARN] [FML]: The coremod BetterFoliageLoader (mods.betterfoliage.loader.BetterFoliageLoader) is not signed!
+[17:50:40] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from RLMixins-1.3.8.jar
+[17:50:40] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in RLTweaker-1.12.2-0.6.3.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[17:50:40] [main/WARN] [FML]: The coremod com.charles445.rltweaker.asm.CoreLoader does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[17:50:40] [main/WARN] [FML]: The coremod RLTweaker ASM (com.charles445.rltweaker.asm.CoreLoader) is not signed!
+[17:50:40] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in SereneSeasons-1.12.2-1.2.18-universal.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[17:50:40] [main/WARN] [FML]: The coremod sereneseasons.asm.SSLoadingPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[17:50:40] [main/WARN] [FML]: The coremod SSLoadingPlugin (sereneseasons.asm.SSLoadingPlugin) is not signed!
+[17:50:40] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in SimpleDifficulty-1.12.2-0.3.9.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[17:50:40] [main/WARN] [FML]: The coremod com.charles445.simpledifficulty.asm.CoreLoader does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[17:50:40] [main/WARN] [FML]: The coremod SimpleDifficulty ASM (com.charles445.simpledifficulty.asm.CoreLoader) is not signed!
+[17:50:40] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from SnowRealMagic-1.12.2-0.7.1.jar
+[17:50:40] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in SoManyEnchantments-0.5.5.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[17:50:40] [main/WARN] [FML]: The coremod com.Shultrea.Rin.Transformer.CoreLoader does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[17:50:40] [main/WARN] [FML]: The coremod SoManyEnchantments ASM (com.Shultrea.Rin.Transformer.CoreLoader) is not signed!
+[17:50:40] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from spark-unforged-1.11.2-forge.jar
+[17:50:40] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from SpartanWeaponry-1.12.2-1.6.0.jar
+[17:50:40] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from Surge-1.12.2-2.0.79.jar
+[17:50:40] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in tnt_utilities-mc1.12-1.2.3.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[17:50:40] [main/WARN] [FML]: The coremod ljfa.tntutils.asm.TntuPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[17:50:40] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in VerticallyStackedDimensions-1.12.2-0.1.9.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[17:50:40] [main/WARN] [FML]: The coremod Vertically Stacked Dimensions ASM (cd4017be.dimstack.asm.CorePlugin) is not signed!
+[17:50:40] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from WolfArmorAndStorage-3.8.1+1.12.2.alpha.1-SNAPSHOT-signed.jar
+[17:50:40] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from phosphor-1.12.2-0.2.6+build50-universal.jar
+[17:50:40] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[17:50:40] [main/INFO] [LaunchWrapper]: Loading tweak class name net.jan.moddirector.launchwrapper.ModDirectorTweaker
+[17:50:40] [main/WARN] [ModDirector[CORE]]: Successfully replaced CA certificates with updated ones!
+[17:50:40] [main/INFO] [ModDirector[CORE]]: Mod director loaded!
+[17:50:40] [main/INFO] [ModDirector/Tweaker[Launchwrapper]]: ModDirector bootstrapped from Launchwrapper!
+[17:50:40] [main/INFO] [LaunchWrapper]: Loading tweak class name org.spongepowered.asm.launch.MixinTweaker
+[17:50:40] [main/INFO] [mixin]: SpongePowered MIXIN Subsystem Version=0.8 Source=file:/workspaces/mcserver/server/./mods/%5B___MixinCompat-1.1-1.12.2___%5D.jar Service=LaunchWrapper Env=SERVER
+[17:50:40] [main/WARN] [FML]: The coremod FermiumBooter (fermiumbooter.FermiumPlugin) is not signed!
+[17:50:40] [main/INFO] [mixin]: Compatibility level set to JAVA_8
+[17:50:40] [main/WARN] [FML]: The coremod MixinLoader (bedbreakbegone.mixin.MixinLoader) is not signed!
+[17:50:40] [main/WARN] [FML]: The coremod EditableEdiblesPlugin (editableedibles.EditableEdiblesPlugin) is not signed!
+[17:50:40] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.editableedibles.vanilla.json" for early mixin enqueue, adding.
+[17:50:40] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.editableedibles.foodexpansion.json" for late mixin enqueue, adding.
+[17:50:40] [main/WARN] [FML]: The coremod de.keksuccino.fancymenu.core.FMCore does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[17:50:40] [main/WARN] [FML]: The coremod FMCore (de.keksuccino.fancymenu.core.FMCore) is not signed!
+[17:50:40] [main/WARN] [FML]: The coremod MixinLoader (framevoidpatch.mixin.MixinLoader) is not signed!
+[17:50:40] [main/WARN] [FML]: The coremod de.keksuccino.konkrete.core.KonkreteCore does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[17:50:40] [main/WARN] [FML]: The coremod KonkreteCore (de.keksuccino.konkrete.core.KonkreteCore) is not signed!
+[17:50:40] [main/INFO] [de.keksuccino.konkrete.core.KonkreteCore]: [KONKRETE] LOADING CORE PLUGIN!
+[17:50:40] [main/INFO] [STDOUT]: [de.keksuccino.konkrete.core.MixinConfigLoader:loadConfigs:29]: [KONKRETE] Loading Mixin Config: fancymenu.general.mixin.json
+[17:50:40] [main/WARN] [FML]: The coremod MixinLoader (melonslise.locks.mixin.MixinLoader) is not signed!
+[17:50:40] [main/WARN] [FML]: The coremod MaterialTweakerPlugin (materialtweaker.MaterialTweakerPlugin) is not signed!
+[17:50:40] [main/WARN] [FML]: The coremod ParticleCullingLoadingPlugin (bl4ckscor3.mod.particleculling.ParticleCullingLoadingPlugin) is not signed!
+[17:50:40] [main/WARN] [FML]: The coremod BetterCombat (bettercombat.mod.util.BetterCombatPlugin) is not signed!
+[17:50:40] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.bettercombatmod.json" for early mixin enqueue, adding.
+[17:50:40] [main/WARN] [FML]: The coremod RLMixinsPlugin (rlmixins.RLMixinsPlugin) is not signed!
+[17:50:40] [main/INFO] [rlmixins.RLMixins]: RLMixins Early Enqueue Start
+[17:50:40] [main/INFO] [rlmixins.RLMixins]: RLMixins Early Enqueue: Prevent Shulker Crate Insertion (Vanilla/Charm)
+[17:50:40] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.rlmixins.core.shulkerinsertion.json" for early mixin enqueue, adding.
+[17:50:40] [main/INFO] [rlmixins.RLMixins]: RLMixins Early Enqueue: Slowed Item Entity Movement (Vanilla)
+[17:50:40] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.rlmixins.core.itemmovement.json" for early mixin enqueue, adding.
+[17:50:40] [main/INFO] [rlmixins.RLMixins]: RLMixins Early Enqueue: Cache Player Chunk Visibility (Vanilla)
+[17:50:40] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.rlmixins.core.refreshchunkcache.json" for early mixin enqueue, adding.
+[17:50:40] [main/INFO] [rlmixins.RLMixins]: RLMixins Early Enqueue: Quark Rune Optifine Fix (Quark)
+[17:50:40] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.rlmixins.core.quarkruneoptifine.json" for early mixin enqueue, adding.
+[17:50:40] [main/INFO] [rlmixins.RLMixins]: RLMixins Early Enqueue: Advancement Tab Quest Replacement (Vanilla/BetterQuesting)
+[17:50:40] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.rlmixins.core.advancementtabquesting.json" for early mixin enqueue, adding.
+[17:50:40] [main/INFO] [rlmixins.RLMixins]: RLMixins Early Enqueue: Bloodmoon Optifine Patch (Bloodmoon)
+[17:50:40] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.rlmixins.core.bloodmoonoptifine.json" for early mixin enqueue, adding.
+[17:50:40] [main/INFO] [rlmixins.RLMixins]: RLMixins Early Enqueue: BetterSurvival TickDynamic Crash (BetterSurvival)
+[17:50:40] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.rlmixins.core.arrowaccessor.json" for early mixin enqueue, adding.
+[17:50:40] [main/INFO] [rlmixins.RLMixins]: RLMixins Early Enqueue: Lowered Crouch (Vanilla)
+[17:50:40] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.rlmixins.core.lowercrouch.json" for early mixin enqueue, adding.
+[17:50:40] [main/INFO] [rlmixins.RLMixins]: RLMixins Early Enqueue: Untipped Arrow Particles Fix (Vanilla)
+[17:50:40] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.rlmixins.core.untippedarrowparticle.json" for early mixin enqueue, adding.
+[17:50:40] [main/INFO] [rlmixins.RLMixins]: RLMixins Early Enqueue: Anvil Too Expensive (Vanilla/AnvilPatch)
+[17:50:40] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.rlmixins.core.anvilexpensive.json" for early mixin enqueue, adding.
+[17:50:40] [main/INFO] [rlmixins.RLMixins]: RLMixins Early Enqueue: Bloodmoon Loot Pickup Fix (Vanilla/Bloodmoon)
+[17:50:40] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.rlmixins.core.bloodmoonlootpickup.json" for early mixin enqueue, adding.
+[17:50:40] [main/INFO] [rlmixins.RLMixins]: RLMixins Early Enqueue: Giant Zombie Spawn Fix (Vanilla)
+[17:50:40] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.rlmixins.core.giantzombie.json" for early mixin enqueue, adding.
+[17:50:40] [main/INFO] [rlmixins.RLMixins]: RLMixins Early Enqueue: Modify Gamma Max And Min (Vanilla)
+[17:50:40] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.rlmixins.core.modifygamma.json" for early mixin enqueue, adding.
+[17:50:40] [main/INFO] [rlmixins.RLMixins]: RLMixins Early Enqueue: Entity Tracker Desync (Vanilla)
+[17:50:40] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.rlmixins.core.entitytracker.json" for early mixin enqueue, adding.
+[17:50:40] [main/INFO] [rlmixins.RLMixins]: RLMixins Early Enqueue: Missing Particle Rendering (Vanilla)
+[17:50:40] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.rlmixins.core.particlerender.json" for early mixin enqueue, adding.
+[17:50:40] [main/INFO] [rlmixins.RLMixins]: RLMixins Early Enqueue: Nuke Advancements (Vanilla)
+[17:50:40] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.rlmixins.core.advancementnuke.json" for early mixin enqueue, adding.
+[17:50:40] [main/INFO] [rlmixins.RLMixins]: RLMixins Early Enqueue: Configurable Fall (Vanilla)
+[17:50:40] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.rlmixins.core.configfall.json" for early mixin enqueue, adding.
+[17:50:40] [main/INFO] [rlmixins.RLMixins]: RLMixins Early Enqueue: Allow Hoe Repairing (Vanilla)
+[17:50:40] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.rlmixins.core.hoerepair.json" for early mixin enqueue, adding.
+[17:50:40] [main/INFO] [rlmixins.RLMixins]: RLMixins Early Enqueue: Stray/Husk Sky Spawning Fix (Vanilla)
+[17:50:40] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.rlmixins.core.strayhuskspawning.json" for early mixin enqueue, adding.
+[17:50:40] [main/INFO] [rlmixins.RLMixins]: RLMixins Early Enqueue: Overhaul SME (Vanilla/SME/RLCombat)
+[17:50:40] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.rlmixins.core.smeoverhaul.json" for early mixin enqueue, adding.
+[17:50:40] [main/INFO] [rlmixins.RLMixins]: RLMixins Early Enqueue: Smoothed Crouching (Vanilla)
+[17:50:40] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.rlmixins.core.smoothcrouch.json" for early mixin enqueue, adding.
+[17:50:40] [main/INFO] [rlmixins.RLMixins]: RLMixins Early Enqueue: FancyMenu Server Crash (FancyMenu)
+[17:50:40] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.rlmixins.fancymenuservercrash.json" for early mixin enqueue, adding.
+[17:50:40] [main/INFO] [rlmixins.RLMixins]: RLMixins Early Enqueue: Boss Cart/Boat Cheese (Vanilla/InfernalMobs/ScalingHealth/Champions)
+[17:50:40] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.rlmixins.core.bosscart.json" for early mixin enqueue, adding.
+[17:50:40] [main/INFO] [rlmixins.RLMixins]: RLMixins Early Enqueue: Suppress EntityTracker Removed Entity Warnings (Vanilla)
+[17:50:40] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.rlmixins.core.entitytrackersuppress.json" for early mixin enqueue, adding.
+[17:50:40] [main/INFO] [rlmixins.RLMixins]: RLMixins Early Enqueue: Potion Amplifier Visibility (Vanilla)
+[17:50:40] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.rlmixins.core.potionamplifier.json" for early mixin enqueue, adding.
+[17:50:40] [main/INFO] [rlmixins.RLMixins]: RLMixins Early Enqueue: AntiWarp Handling (Vanilla/BetterSurvival)
+[17:50:40] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.rlmixins.core.antiwarp.json" for early mixin enqueue, adding.
+[17:50:40] [main/INFO] [rlmixins.RLMixins]: RLMixins Early Enqueue: Enchantment Item Attributes (Vanilla/SME)
+[17:50:40] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.rlmixins.core.enchantattribute.json" for early mixin enqueue, adding.
+[17:50:40] [main/INFO] [rlmixins.RLMixins]: RLMixins Early Enqueue: Enchantment ItemStack Damage (Vanilla/SME)
+[17:50:40] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.rlmixins.core.enchantdamage.json" for early mixin enqueue, adding.
+[17:50:40] [main/INFO] [rlmixins.RLMixins]: RLMixins Early Enqueue: Fix Player Model Death Shake (Vanilla)
+[17:50:40] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.rlmixins.core.deathshake.json" for early mixin enqueue, adding.
+[17:50:40] [main/INFO] [rlmixins.RLMixins]: RLMixins Early Enqueue: Weather Timing Config (Vanilla)
+[17:50:40] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.rlmixins.core.worldweathertiming.json" for early mixin enqueue, adding.
+[17:50:40] [main/INFO] [rlmixins.RLMixins]: RLMixins Early Enqueue: Particle Collision Defaults (Vanilla)
+[17:50:40] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.rlmixins.core.particlecollision.json" for early mixin enqueue, adding.
+[17:50:40] [main/INFO] [rlmixins.RLMixins]: RLMixins Early Enqueue: Spawn Chunk Radius Patch (Vanilla)
+[17:50:40] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.rlmixins.core.spawnchunkradius.json" for early mixin enqueue, adding.
+[17:50:40] [main/INFO] [rlmixins.RLMixins]: RLMixins Early Enqueue: Tipped Arrow Blacklist (Vanilla)
+[17:50:40] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.rlmixins.core.tippedarrow.json" for early mixin enqueue, adding.
+[17:50:40] [main/INFO] [rlmixins.RLMixins]: RLMixins Early Enqueue: Zombie Curing Ticks Spawners (Vanilla/MobSpawnerControl)
+[17:50:40] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.rlmixins.core.zombiecuring.json" for early mixin enqueue, adding.
+[17:50:40] [main/INFO] [rlmixins.RLMixins]: RLMixins Early Enqueue: Outdated Chunk Data (Vanilla)
+[17:50:40] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.rlmixins.core.chunkdata.json" for early mixin enqueue, adding.
+[17:50:40] [main/INFO] [rlmixins.RLMixins]: RLMixins Early Enqueue: Mineshaft Biome Blacklist Patch (Vanilla)
+[17:50:40] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.rlmixins.core.mineshaftblacklistpatch.json" for early mixin enqueue, adding.
+[17:50:40] [main/INFO] [rlmixins.RLMixins]: RLMixins Early Enqueue: Chunk Entity List (Vanilla)
+[17:50:40] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.rlmixins.core.entitylist.json" for early mixin enqueue, adding.
+[17:50:40] [main/INFO] [rlmixins.RLMixins]: RLMixins Early Enqueue: Remove Water Chunk Gen Ticking (Vanilla)
+[17:50:40] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.rlmixins.core.waterchunkgen.json" for early mixin enqueue, adding.
+[17:50:40] [main/INFO] [rlmixins.RLMixins]: RLMixins Early Enqueue: Prevent Mob spawns in lazy loaded chunks (Vanilla)
+[17:50:40] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.rlmixins.core.preventlazyspawns.json" for early mixin enqueue, adding.
+[17:50:40] [main/INFO] [rlmixins.RLMixins]: RLMixins Early Enqueue: ChunkAnimator XRay (Vanilla/ChunkAnimator)
+[17:50:40] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.rlmixins.core.chunkanimatorxray.json" for early mixin enqueue, adding.
+[17:50:40] [main/INFO] [rlmixins.RLMixins]: RLMixins Early Enqueue: Health Desync Patch (Vanilla)
+[17:50:40] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.rlmixins.core.healthdesync.json" for early mixin enqueue, adding.
+[17:50:40] [main/INFO] [rlmixins.RLMixins]: RLMixins Early Enqueue: MoBends Arrow Trail Patch (MoBends)
+[17:50:40] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.rlmixins.core.arrowaccessor.json" for early mixin enqueue, adding.
+[17:50:40] [main/INFO] [rlmixins.RLMixins]: RLMixins Early Enqueue: Rework Waystone Used Name Check (Waystones)
+[17:50:40] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.rlmixins.core.biomeaccessor.json" for early mixin enqueue, adding.
+[17:50:40] [main/INFO] [rlmixins.RLMixins]: RLMixins Early Enqueue: Random Respawn Attempt Avoid Oceans Config (Vanilla)
+[17:50:40] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.rlmixins.core.randomspawnocean.json" for early mixin enqueue, adding.
+[17:50:40] [main/INFO] [rlmixins.RLMixins]: RLMixins Early Enqueue: Mending Priorities (Vanilla)
+[17:50:40] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.rlmixins.core.mending.json" for early mixin enqueue, adding.
+[17:50:40] [main/INFO] [rlmixins.RLMixins]: RLMixins Early Enqueue: EXPERIMENTAL: Teleporting Lag Patch (Vanilla)
+[17:50:40] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.rlmixins.core.entityteleportcollision.json" for early mixin enqueue, adding.
+[17:50:40] [main/INFO] [rlmixins.RLMixins]: RLMixins Early Enqueue: Furnace XP Limit Fix (Vanilla)
+[17:50:40] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.rlmixins.core.furnacexp.json" for early mixin enqueue, adding.
+[17:50:40] [main/INFO] [rlmixins.RLMixins]: RLMixins Early Enqueue: Suppress Unknown Passengers Warnings (Vanilla)
+[17:50:40] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.rlmixins.core.unknownpassengers.json" for early mixin enqueue, adding.
+[17:50:40] [main/INFO] [rlmixins.RLMixins]: RLMixins Early Enqueue: Blast Protection Knockback Patch MC-198809 (Vanilla)
+[17:50:40] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.rlmixins.core.blastprotknockback.json" for early mixin enqueue, adding.
+[17:50:40] [main/INFO] [rlmixins.RLMixins]: RLMixins Early Enqueue: Forge Suppress Dangerous Prefix Errors (Forge)
+[17:50:40] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.rlmixins.core.dangerousprefix.json" for early mixin enqueue, adding.
+[17:50:40] [main/INFO] [rlmixins.RLMixins]: RLMixins Early Enqueue: Stop Pigmen Portal Spawning (Vanilla)
+[17:50:40] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.rlmixins.core.pigmenportal.json" for early mixin enqueue, adding.
+[17:50:40] [main/INFO] [rlmixins.RLMixins]: RLMixins Early Enqueue: Cache WorldBorder currentTime (Vanilla)
+[17:50:40] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.rlmixins.core.cacheborder.json" for early mixin enqueue, adding.
+[17:50:40] [main/INFO] [rlmixins.RLMixins]: RLMixins Early Enqueue: Broken Advancement Log Spam Silence (Vanilla/Forge)
+[17:50:40] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.rlmixins.core.advancementspam.json" for early mixin enqueue, adding.
+[17:50:40] [main/INFO] [rlmixins.RLMixins]: RLMixins Early Enqueue: World Flammable BlockPos Replacement (Vanilla)
+[17:50:40] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.rlmixins.core.worldflammableblockpos.json" for early mixin enqueue, adding.
+[17:50:40] [main/INFO] [rlmixins.RLMixins]: RLMixins Early Enqueue: Forge Suppress Broken Ore Dictionary Errors (Forge)
+[17:50:40] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.rlmixins.core.brokenoredict.json" for early mixin enqueue, adding.
+[17:50:40] [main/INFO] [rlmixins.RLMixins]: RLMixins Early Enqueue: Stop Sleeping Resetting Weather MC-63340 (Vanilla)
+[17:50:40] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.rlmixins.core.norainreset.json" for early mixin enqueue, adding.
+[17:50:40] [main/INFO] [rlmixins.RLMixins]: RLMixins Late Enqueue Start
+[17:50:40] [main/INFO] [rlmixins.RLMixins]: RLMixins Late Enqueue: Enable AntiDragon Cheese (IceAndFire)
+[17:50:40] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.rlmixins.infdragoncheese.json" for late mixin enqueue, adding.
+[17:50:40] [main/INFO] [rlmixins.RLMixins]: RLMixins Late Enqueue: Lycanite Render Box (LycanitesMobs)
+[17:50:40] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.rlmixins.lycaniterender.json" for late mixin enqueue, adding.
+[17:50:40] [main/INFO] [rlmixins.RLMixins]: RLMixins Late Enqueue: No Infernal Champions (Champions/InfernalMobs)
+[17:50:40] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.rlmixins.infernalchampions.json" for late mixin enqueue, adding.
+[17:50:40] [main/INFO] [rlmixins.RLMixins]: RLMixins Late Enqueue: BetterFoliage Geometry Offset (BetterFoliage)
+[17:50:40] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.rlmixins.betterfoliagegeometry.json" for late mixin enqueue, adding.
+[17:50:40] [main/INFO] [rlmixins.RLMixins]: RLMixins Late Enqueue: Skeleton King Loot Drop Fix (FishsUndeadRising)
+[17:50:40] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.rlmixins.fishsskeletonking.json" for late mixin enqueue, adding.
+[17:50:40] [main/INFO] [rlmixins.RLMixins]: RLMixins Late Enqueue: Vein Pickaxe Patch (ForgottenItems)
+[17:50:40] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.rlmixins.veinpickaxe.json" for late mixin enqueue, adding.
+[17:50:40] [main/INFO] [rlmixins.RLMixins]: RLMixins Late Enqueue: Flare Gun Rework (BountifulBaubles)
+[17:50:40] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.rlmixins.flaregun.json" for late mixin enqueue, adding.
+[17:50:40] [main/INFO] [rlmixins.RLMixins]: RLMixins Late Enqueue: Locks Keyring GUI Dupe Patch (Locks)
+[17:50:40] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.rlmixins.locksguidupe.json" for late mixin enqueue, adding.
+[17:50:40] [main/INFO] [rlmixins.RLMixins]: RLMixins Late Enqueue: Force Cart Unpull Over Distance (AstikorCarts)
+[17:50:40] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.rlmixins.cartdistancelimit.json" for late mixin enqueue, adding.
+[17:50:40] [main/INFO] [rlmixins.RLMixins]: RLMixins Late Enqueue: Parasite Mob Spawner Fix (SRParasites)
+[17:50:40] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.rlmixins.srpspawningmobspawner.json" for late mixin enqueue, adding.
+[17:50:40] [main/INFO] [rlmixins.RLMixins]: RLMixins Late Enqueue: DynamicTrees AABB Cache (DynamicTrees)
+[17:50:40] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.rlmixins.dynamictreescache.json" for late mixin enqueue, adding.
+[17:50:40] [main/INFO] [rlmixins.RLMixins]: RLMixins Late Enqueue: Disable MoBends Online Checks (MoBends)
+[17:50:40] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.rlmixins.nukemobends.json" for late mixin enqueue, adding.
+[17:50:40] [main/INFO] [rlmixins.RLMixins]: RLMixins Late Enqueue: Quark Emotes Force Disable (Quark)
+[17:50:40] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.rlmixins.quarkemote.json" for late mixin enqueue, adding.
+[17:50:40] [main/INFO] [rlmixins.RLMixins]: RLMixins Late Enqueue: Stoned Chicken Feather Fix (Quark/IceAndFire)
+[17:50:40] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.rlmixins.chickenfeather.json" for late mixin enqueue, adding.
+[17:50:40] [main/INFO] [rlmixins.RLMixins]: RLMixins Late Enqueue: ItemPhysics Q CarryOn Fix (CarryOn/ItemPhysics)
+[17:50:40] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.rlmixins.itemphysiccarryonq.json" for late mixin enqueue, adding.
+[17:50:40] [main/INFO] [rlmixins.RLMixins]: RLMixins Late Enqueue: Dummy Damage Value Patch (MmmMmmMmmMmm)
+[17:50:40] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.rlmixins.dummypatch.json" for late mixin enqueue, adding.
+[17:50:40] [main/INFO] [rlmixins.RLMixins]: RLMixins Late Enqueue: Infested Summon Tag (Champions/TrinketsAndBaubles)
+[17:50:40] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.rlmixins.infestedsummon.json" for late mixin enqueue, adding.
+[17:50:40] [main/INFO] [rlmixins.RLMixins]: RLMixins Late Enqueue: Mattock Breaking Patch (NoTreePunching)
+[17:50:40] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.rlmixins.mattockbreaking.json" for late mixin enqueue, adding.
+[17:50:40] [main/INFO] [rlmixins.RLMixins]: RLMixins Late Enqueue: ScalingHealth Bandaged Icon Fix (ScalingHealth)
+[17:50:40] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.rlmixins.bandagedicon.json" for late mixin enqueue, adding.
+[17:50:40] [main/INFO] [rlmixins.RLMixins]: RLMixins Late Enqueue: Allow Changing Lucky Horseshoe Weight (BountifulBaubles)
+[17:50:40] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.rlmixins.bountifulbaublesluckyhorseshoe.json" for late mixin enqueue, adding.
+[17:50:40] [main/INFO] [rlmixins.RLMixins]: RLMixins Late Enqueue: Changeable Nunchaku Combo (BetterSurvival)
+[17:50:40] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.rlmixins.nunchakucombo.json" for late mixin enqueue, adding.
+[17:50:40] [main/INFO] [rlmixins.RLMixins]: RLMixins Late Enqueue: Disenchanting Table Crash Patch (Disenchanter)
+[17:50:40] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.rlmixins.disenchantcrash.json" for late mixin enqueue, adding.
+[17:50:40] [main/INFO] [rlmixins.RLMixins]: RLMixins Late Enqueue: MoBends Memory Leak Fix (MoBends)
+[17:50:40] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.rlmixins.mobendsmemleak.json" for late mixin enqueue, adding.
+[17:50:40] [main/INFO] [rlmixins.RLMixins]: RLMixins Late Enqueue: Quark Chest Boat Dupe (Quark)
+[17:50:40] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.rlmixins.chestboatdupe.json" for late mixin enqueue, adding.
+[17:50:40] [main/INFO] [rlmixins.RLMixins]: RLMixins Late Enqueue: DT Leaves Ignore Light on WorldGen (DynamicTrees)
+[17:50:40] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.rlmixins.dtleavesworldgen.json" for late mixin enqueue, adding.
+[17:50:40] [main/INFO] [rlmixins.RLMixins]: RLMixins Late Enqueue: BetterQuesting Unofficial Memory Leak Fix (BetterQuesting Unofficial)
+[17:50:40] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.rlmixins.bqumemleak.json" for late mixin enqueue, adding.
+[17:50:40] [main/INFO] [rlmixins.RLMixins]: RLMixins Late Enqueue: Remove SME Mortalitas Resurrection Capability (SoManyEnchantments)
+[17:50:40] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.rlmixins.smecapremoval.json" for late mixin enqueue, adding.
+[17:50:40] [main/INFO] [rlmixins.RLMixins]: RLMixins Late Enqueue: Sync Sign Edit Config (Quark)
+[17:50:40] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.rlmixins.quarksignedit.json" for late mixin enqueue, adding.
+[17:50:40] [main/INFO] [rlmixins.RLMixins]: RLMixins Late Enqueue: ForgottenItems Rune Fix (ForgottenItems)
+[17:50:40] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.rlmixins.forgottenitemsrune.json" for late mixin enqueue, adding.
+[17:50:40] [main/INFO] [rlmixins.RLMixins]: RLMixins Late Enqueue: Remove Shield Protection Enchant (Inspirations)
+[17:50:40] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.rlmixins.inspirationsshield.json" for late mixin enqueue, adding.
+[17:50:40] [main/INFO] [rlmixins.RLMixins]: RLMixins Late Enqueue: Quark Reduced Villager Double Door AI Checks (Quark)
+[17:50:40] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.rlmixins.doubledoors.json" for late mixin enqueue, adding.
+[17:50:40] [main/INFO] [rlmixins.RLMixins]: RLMixins Late Enqueue: Battletower Golem Attack Target Patch (Battletowers)
+[17:50:40] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.rlmixins.battletowertarget.json" for late mixin enqueue, adding.
+[17:50:40] [main/INFO] [rlmixins.RLMixins]: RLMixins Late Enqueue: ToolBelt Belt GUI Dupe Patch (ToolBelt)
+[17:50:40] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.rlmixins.toolbeltguidupe.json" for late mixin enqueue, adding.
+[17:50:40] [main/INFO] [rlmixins.RLMixins]: RLMixins Late Enqueue: BetterNether Double Slab Drop Fix (BetterNether)
+[17:50:40] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.rlmixins.betternetherdoubleslab.json" for late mixin enqueue, adding.
+[17:50:40] [main/INFO] [rlmixins.RLMixins]: RLMixins Late Enqueue: Rehandle Sentient Scythe Effect (SRParasites/RLCombat)
+[17:50:40] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.rlmixins.sentientscythe.json" for late mixin enqueue, adding.
+[17:50:40] [main/INFO] [rlmixins.RLMixins]: RLMixins Late Enqueue: BetterFoliage Whitelist/Blacklist Cache (BetterFoliage)
+[17:50:40] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.rlmixins.betterfoliagecache.json" for late mixin enqueue, adding.
+[17:50:40] [main/INFO] [rlmixins.RLMixins]: RLMixins Late Enqueue: CarryOn Passenger Rider Death Fix (CarryOn)
+[17:50:40] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.rlmixins.carryonpositionfix.json" for late mixin enqueue, adding.
+[17:50:40] [main/INFO] [rlmixins.RLMixins]: RLMixins Late Enqueue: Stoneling Dupe Patch (Quark)
+[17:50:40] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.rlmixins.stoneling.json" for late mixin enqueue, adding.
+[17:50:40] [main/INFO] [rlmixins.RLMixins]: RLMixins Late Enqueue: Chat Bubble Config (DSurroundings)
+[17:50:40] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.rlmixins.chatbubble.json" for late mixin enqueue, adding.
+[17:50:40] [main/INFO] [rlmixins.RLMixins]: RLMixins Late Enqueue: InF Bow Multishot patch (IceAndFire/BetterSurvival)
+[17:50:40] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.rlmixins.dragonbow.json" for late mixin enqueue, adding.
+[17:50:40] [main/INFO] [rlmixins.RLMixins]: RLMixins Late Enqueue: Healing Salve Bowl Return Fix (RoughTweaks)
+[17:50:40] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.rlmixins.healingsalvereturn.json" for late mixin enqueue, adding.
+[17:50:40] [main/INFO] [rlmixins.RLMixins]: RLMixins Late Enqueue: Spriggan Growth Rate Override (LycanitesMobs)
+[17:50:40] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.rlmixins.sprigganfarmrate.json" for late mixin enqueue, adding.
+[17:50:40] [main/INFO] [rlmixins.RLMixins]: RLMixins Late Enqueue: Magnetic Dupe Patch (Charm)
+[17:50:40] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.rlmixins.magneticdupe.json" for late mixin enqueue, adding.
+[17:50:40] [main/INFO] [rlmixins.RLMixins]: RLMixins Late Enqueue: Stalagnate Bowl Fix (BetterNether)
+[17:50:40] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.rlmixins.stalagnatebowl.json" for late mixin enqueue, adding.
+[17:50:40] [main/INFO] [rlmixins.RLMixins]: RLMixins Late Enqueue: JSONPaintings Placement Crash Fix (JSONPaintings)
+[17:50:40] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.rlmixins.jsonpaintingcrash.json" for late mixin enqueue, adding.
+[17:50:40] [main/INFO] [rlmixins.RLMixins]: RLMixins Late Enqueue: Broken Heart Rework (BountifulBaubles/FirstAid)
+[17:50:40] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.rlmixins.brokenheart.json" for late mixin enqueue, adding.
+[17:50:40] [main/INFO] [rlmixins.RLMixins]: RLMixins Late Enqueue: Parasite Spawn Fix (SRParasites)
+[17:50:40] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.rlmixins.srpspawning.json" for late mixin enqueue, adding.
+[17:50:40] [main/INFO] [rlmixins.RLMixins]: RLMixins Late Enqueue: EV Death Message Translation (EnhancedVisuals)
+[17:50:40] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.rlmixins.evdeathmessage.json" for late mixin enqueue, adding.
+[17:50:40] [main/INFO] [rlmixins.RLMixins]: RLMixins Late Enqueue: Modify BookWyrm Max Level (DefiledLands)
+[17:50:40] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.rlmixins.bookwyrmlevel.json" for late mixin enqueue, adding.
+[17:50:40] [main/INFO] [rlmixins.RLMixins]: RLMixins Late Enqueue: Stoneling Eyeheight Stall Patch (Quark)
+[17:50:40] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.rlmixins.stonelingloop.json" for late mixin enqueue, adding.
+[17:50:40] [main/INFO] [rlmixins.RLMixins]: RLMixins Late Enqueue: Champion Potion Invis (Champions)
+[17:50:40] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.rlmixins.championpotion.json" for late mixin enqueue, adding.
+[17:50:40] [main/INFO] [rlmixins.RLMixins]: RLMixins Late Enqueue: Parasite Cleaver Effect Config (SRParasites)
+[17:50:40] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.rlmixins.cleaverpotion.json" for late mixin enqueue, adding.
+[17:50:40] [main/INFO] [rlmixins.RLMixins]: RLMixins Late Enqueue: Delayed Launch (PotionCore)
+[17:50:40] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.rlmixins.delayedlaunch.json" for late mixin enqueue, adding.
+[17:50:40] [main/INFO] [rlmixins.RLMixins]: RLMixins Late Enqueue: Penetration Fix (BetterSurvival/SpartanWeaponry/RLCombat)
+[17:50:40] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.rlmixins.bspenetration.json" for late mixin enqueue, adding.
+[17:50:40] [main/INFO] [rlmixins.RLMixins]: RLMixins Late Enqueue: MoBends Arrow Trail Patch (MoBends)
+[17:50:40] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.rlmixins.mobendsarrowtrail.json" for late mixin enqueue, adding.
+[17:50:40] [main/INFO] [rlmixins.RLMixins]: RLMixins Late Enqueue: Reforging Binding Fix (BountifulBaubles)
+[17:50:40] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.rlmixins.reforgebinding.json" for late mixin enqueue, adding.
+[17:50:40] [main/INFO] [rlmixins.RLMixins]: RLMixins Late Enqueue: BetterNether Door Dupe Fix (BetterNether)
+[17:50:40] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.rlmixins.betternetherdoor.json" for late mixin enqueue, adding.
+[17:50:40] [main/INFO] [rlmixins.RLMixins]: RLMixins Late Enqueue: BountifulBaubles isShield Fix (BountifulBaubles)
+[17:50:40] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.rlmixins.bountifulbaublesshieldfix.json" for late mixin enqueue, adding.
+[17:50:40] [main/INFO] [rlmixins.RLMixins]: RLMixins Late Enqueue: Cobalt Shield Increased Resistance (BountifulBaubles)
+[17:50:40] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.rlmixins.cobaltshield.json" for late mixin enqueue, adding.
+[17:50:40] [main/INFO] [rlmixins.RLMixins]: RLMixins Late Enqueue: Education Tweak (BetterSurvival)
+[17:50:40] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.rlmixins.educationtweak.json" for late mixin enqueue, adding.
+[17:50:40] [main/INFO] [rlmixins.RLMixins]: RLMixins Late Enqueue: Parasite Light Level (SRParasites)
+[17:50:40] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.rlmixins.srplightlevel.json" for late mixin enqueue, adding.
+[17:50:40] [main/INFO] [rlmixins.RLMixins]: RLMixins Late Enqueue: Elenai Dodge Better Tick Performance (Elenai Dodge)
+[17:50:40] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.rlmixins.elenaitick.json" for late mixin enqueue, adding.
+[17:50:40] [main/INFO] [rlmixins.RLMixins]: RLMixins Late Enqueue: Parasite Indirect Damage Adaption Fix (SRParasites)
+[17:50:40] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.rlmixins.indirectadaption.json" for late mixin enqueue, adding.
+[17:50:40] [main/INFO] [rlmixins.RLMixins]: RLMixins Late Enqueue: SoManyEnchantments TickDynamic Crash (SoManyEnchantments)
+[17:50:40] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.rlmixins.smetickdynamic.json" for late mixin enqueue, adding.
+[17:50:40] [main/INFO] [rlmixins.RLMixins]: RLMixins Late Enqueue: Jailer Champion Time (Champions)
+[17:50:40] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.rlmixins.jailer.json" for late mixin enqueue, adding.
+[17:50:40] [main/INFO] [rlmixins.RLMixins]: RLMixins Late Enqueue: DSurround Chat Bubble Shaders Patch (DSurround)
+[17:50:40] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.rlmixins.chatbubbleoptifine.json" for late mixin enqueue, adding.
+[17:50:40] [main/INFO] [rlmixins.RLMixins]: RLMixins Late Enqueue: Defiled Corruption Improvements (DefiledLands)
+[17:50:40] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.rlmixins.defiledperformance.json" for late mixin enqueue, adding.
+[17:50:40] [main/INFO] [rlmixins.RLMixins]: RLMixins Late Enqueue: OTG Create World Simplify Fix (OTG)
+[17:50:40] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.rlmixins.otgguibutton.json" for late mixin enqueue, adding.
+[17:50:40] [main/INFO] [rlmixins.RLMixins]: RLMixins Late Enqueue: Prevent Revival Potion on Non-Players (PotionCore)
+[17:50:40] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.rlmixins.potionrevival.json" for late mixin enqueue, adding.
+[17:50:40] [main/INFO] [rlmixins.RLMixins]: RLMixins Late Enqueue: Neat Shaders Patch (Neat)
+[17:50:40] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.rlmixins.neatshaders.json" for late mixin enqueue, adding.
+[17:50:40] [main/INFO] [rlmixins.RLMixins]: RLMixins Late Enqueue: SRP Bush Generation Loaded Checks (SRParasites)
+[17:50:40] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.rlmixins.srpbushcascading.json" for late mixin enqueue, adding.
+[17:50:40] [main/INFO] [rlmixins.RLMixins]: RLMixins Late Enqueue: BetterSurvival TickDynamic Crash (BetterSurvival)
+[17:50:40] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.rlmixins.bstickdynamic.json" for late mixin enqueue, adding.
+[17:50:40] [main/INFO] [rlmixins.RLMixins]: RLMixins Late Enqueue: QualityTools Limit Modifiers (QualtiyTools)
+[17:50:40] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.rlmixins.qtlimitmodifier.json" for late mixin enqueue, adding.
+[17:50:40] [main/INFO] [rlmixins.RLMixins]: RLMixins Late Enqueue: Aquatic Mob Underwater Spawning (FishsUndeadRising)
+[17:50:40] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.rlmixins.lavacowaquaspawn.json" for late mixin enqueue, adding.
+[17:50:40] [main/INFO] [rlmixins.RLMixins]: RLMixins Late Enqueue: EnderWatcher Performance Patch (Quark)
+[17:50:40] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.rlmixins.enderwatcherperf.json" for late mixin enqueue, adding.
+[17:50:40] [main/INFO] [rlmixins.RLMixins]: RLMixins Late Enqueue: ScalingHealth Death Desync (ScalingHealth)
+[17:50:40] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.rlmixins.scalinghealthdesync.json" for late mixin enqueue, adding.
+[17:50:40] [main/INFO] [rlmixins.RLMixins]: RLMixins Late Enqueue: Cauldron Failure Mundane (Inspirations)
+[17:50:40] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.rlmixins.cauldronfailure.json" for late mixin enqueue, adding.
+[17:50:40] [main/INFO] [rlmixins.RLMixins]: RLMixins Late Enqueue: Rusting Curse Negative Durability Patch (Charm)
+[17:50:40] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.rlmixins.rustingnegative.json" for late mixin enqueue, adding.
+[17:50:40] [main/INFO] [rlmixins.RLMixins]: RLMixins Late Enqueue: Player Tracking Patch (Reskillable)
+[17:50:40] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.rlmixins.reskillabletracking.json" for late mixin enqueue, adding.
+[17:50:40] [main/INFO] [rlmixins.RLMixins]: RLMixins Late Enqueue: SeedFood Bypass Lock (Reskillable)
+[17:50:40] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.rlmixins.seedfoodbypass.json" for late mixin enqueue, adding.
+[17:50:40] [main/INFO] [rlmixins.RLMixins]: RLMixins Late Enqueue: Quark Chat Link NBT Crash (Quark)
+[17:50:40] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.rlmixins.chatlinkcrash.json" for late mixin enqueue, adding.
+[17:50:40] [main/INFO] [rlmixins.RLMixins]: RLMixins Late Enqueue: XaT Magic Handler Players Only (Trinkets and Baubles)
+[17:50:40] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.rlmixins.xatmagicperf.json" for late mixin enqueue, adding.
+[17:50:40] [main/INFO] [rlmixins.RLMixins]: RLMixins Late Enqueue: Quark Force Disable Potion Colorizer (Quark)
+[17:50:40] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.rlmixins.quarkcolorizer.json" for late mixin enqueue, adding.
+[17:50:40] [main/INFO] [rlmixins.RLMixins]: RLMixins Late Enqueue: Vampirism Cheese Patch (BetterSurvival)
+[17:50:40] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.rlmixins.bsvampirism.json" for late mixin enqueue, adding.
+[17:50:40] [main/INFO] [rlmixins.RLMixins]: RLMixins Late Enqueue: BetterQuesting Memory Leak Fix (BetterQuesting Standard Expansion)
+[17:50:40] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.rlmixins.bqmemleak.json" for late mixin enqueue, adding.
+[17:50:40] [main/INFO] [rlmixins.RLMixins]: RLMixins Late Enqueue: Coffee Cures Hangover (Rustic/Charm)
+[17:50:40] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.rlmixins.coffeehangover.json" for late mixin enqueue, adding.
+[17:50:40] [main/INFO] [rlmixins.RLMixins]: RLMixins Late Enqueue: Supress DT Branch Errors (DynamicTrees)
+[17:50:40] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.rlmixins.dtfallingerror.json" for late mixin enqueue, adding.
+[17:50:40] [main/INFO] [rlmixins.RLMixins]: RLMixins Late Enqueue: Infernal Particle Spam (InfernalMobs)
+[17:50:40] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.rlmixins.infernalparticle.json" for late mixin enqueue, adding.
+[17:50:40] [main/INFO] [rlmixins.RLMixins]: RLMixins Late Enqueue: Cancel Parasite Reach Packet (SRParasites)
+[17:50:40] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.rlmixins.srppacket.json" for late mixin enqueue, adding.
+[17:50:40] [main/INFO] [rlmixins.RLMixins]: RLMixins Late Enqueue: Trumpet Gluttony (BountifulBaubles/TrumpetSkeleton)
+[17:50:40] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.rlmixins.trumpetglutton.json" for late mixin enqueue, adding.
+[17:50:40] [main/INFO] [rlmixins.RLMixins]: RLMixins Late Enqueue: ForgottenItems Fix Binding NBT (ForgottenItems)
+[17:50:40] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.rlmixins.forgottenitemsbound.json" for late mixin enqueue, adding.
+[17:50:40] [main/INFO] [rlmixins.RLMixins]: RLMixins Late Enqueue: JEI Suppress Varied Commodities Errors (JEI)
+[17:50:40] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.rlmixins.jeivcerror.json" for late mixin enqueue, adding.
+[17:50:40] [main/INFO] [rlmixins.RLMixins]: RLMixins Late Enqueue: JEI Ignore Anvil Recipes (JEI)
+[17:50:40] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.rlmixins.jeianvil.json" for late mixin enqueue, adding.
+[17:50:40] [main/INFO] [rlmixins.RLMixins]: RLMixins Late Enqueue: Overhaul SME (Vanilla/SME/RLCombat)
+[17:50:40] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.rlmixins.smeoverhaul.json" for late mixin enqueue, adding.
+[17:50:40] [main/INFO] [rlmixins.RLMixins]: RLMixins Late Enqueue: Config Alcohol Effects (Rustic)
+[17:50:40] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.rlmixins.alcoholconfig.json" for late mixin enqueue, adding.
+[17:50:40] [main/INFO] [rlmixins.RLMixins]: RLMixins Late Enqueue: Champion Death Message Tweak (Champions)
+[17:50:40] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.rlmixins.championname.json" for late mixin enqueue, adding.
+[17:50:40] [main/INFO] [rlmixins.RLMixins]: RLMixins Late Enqueue: LycanitesMobs Lowercase Performance Patch (LycanitesMobs)
+[17:50:40] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.rlmixins.lycanitelowercase.json" for late mixin enqueue, adding.
+[17:50:40] [main/INFO] [rlmixins.RLMixins]: RLMixins Late Enqueue: BQU Remove Hardcoded Backspace (BetterQuesting Unofficial)
+[17:50:40] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.rlmixins.bqubackspace.json" for late mixin enqueue, adding.
+[17:50:40] [main/INFO] [rlmixins.RLMixins]: RLMixins Late Enqueue: Flowering Oak DT Fix (DynamicTrees/BOP/DTBOP)
+[17:50:40] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.rlmixins.floweringoakleaves.json" for late mixin enqueue, adding.
+[17:50:40] [main/INFO] [rlmixins.RLMixins]: RLMixins Late Enqueue: JEI Revert Bookmark Location Changes (JEI)
+[17:50:40] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.rlmixins.jeibookmark.json" for late mixin enqueue, adding.
+[17:50:40] [main/INFO] [rlmixins.RLMixins]: RLMixins Late Enqueue: Lost Cities No Respawn (Lost Cities)
+[17:50:40] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.rlmixins.lostcityrespawn.json" for late mixin enqueue, adding.
+[17:50:40] [main/INFO] [rlmixins.RLMixins]: RLMixins Late Enqueue: Replace Parasite Armor Models (SRParasites)
+[17:50:40] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.rlmixins.parasitearmor.json" for late mixin enqueue, adding.
+[17:50:40] [main/INFO] [rlmixins.RLMixins]: RLMixins Late Enqueue: Better Foliage Chunk XRay (BetterFoliage/ChunkAnimator)
+[17:50:40] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.rlmixins.betterfoliagechunkanimator.json" for late mixin enqueue, adding.
+[17:50:40] [main/INFO] [rlmixins.RLMixins]: RLMixins Late Enqueue: XaT Cache Config Attributes (Trinkets and Baubles)
+[17:50:40] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.rlmixins.trinketsmemusage.json" for late mixin enqueue, adding.
+[17:50:40] [main/INFO] [rlmixins.RLMixins]: RLMixins Late Enqueue: BetterNether Memory Leak Fix (BetterNether)
+[17:50:40] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.rlmixins.betternethermemleak.json" for late mixin enqueue, adding.
+[17:50:40] [main/INFO] [rlmixins.RLMixins]: RLMixins Late Enqueue: BetterSurvival LivingUpdateHandler Optimization (BetterSurvival)
+[17:50:40] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.rlmixins.bslivingupdate.json" for late mixin enqueue, adding.
+[17:50:40] [main/INFO] [rlmixins.RLMixins]: RLMixins Late Enqueue: Wyrm Osmosis (Reskillable/DefiledLands)
+[17:50:40] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.rlmixins.wyrmosmosis.json" for late mixin enqueue, adding.
+[17:50:40] [main/INFO] [rlmixins.RLMixins]: RLMixins Late Enqueue: CarryOn Pig Saddle Patch (CarryOn)
+[17:50:40] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.rlmixins.carryonpig.json" for late mixin enqueue, adding.
+[17:50:40] [main/INFO] [rlmixins.RLMixins]: RLMixins Late Enqueue: Lycanite Targetting (LycanitesMobs/IceAndFire)
+[17:50:40] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.rlmixins.lycanitetargetting.json" for late mixin enqueue, adding.
+[17:50:40] [main/INFO] [rlmixins.RLMixins]: RLMixins Late Enqueue: SereneSeasons Reflection Caching Patch (SereneSeasons)
+[17:50:40] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.rlmixins.serenereflection.json" for late mixin enqueue, adding.
+[17:50:40] [main/INFO] [rlmixins.RLMixins]: RLMixins Late Enqueue: CorpseComplex XP Death Fix (CorpseComplex)
+[17:50:40] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.rlmixins.corpsecomplexreturn.json" for late mixin enqueue, adding.
+[17:50:40] [main/INFO] [rlmixins.RLMixins]: RLMixins Late Enqueue: Quark Springy Slime Force Disable (Quark)
+[17:50:40] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.rlmixins.quarkslime.json" for late mixin enqueue, adding.
+[17:50:40] [main/INFO] [rlmixins.RLMixins]: RLMixins Late Enqueue: Clay Tool Enchant Patch (NoTreePunching)
+[17:50:40] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.rlmixins.claytoolenchanting.json" for late mixin enqueue, adding.
+[17:50:40] [main/INFO] [rlmixins.RLMixins]: RLMixins Late Enqueue: DSHuds Barometer Patch (DSHuds/Inspirations)
+[17:50:40] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.rlmixins.dshudbarometer.json" for late mixin enqueue, adding.
+[17:50:40] [main/INFO] [rlmixins.RLMixins]: RLMixins Late Enqueue: Horse Meat From Llamas Fix (FoodExpansion)
+[17:50:40] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.rlmixins.llamahorsemeat.json" for late mixin enqueue, adding.
+[17:50:40] [main/INFO] [rlmixins.RLMixins]: RLMixins Late Enqueue: Half Reach (PotionCore)
+[17:50:40] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.rlmixins.halfreach.json" for late mixin enqueue, adding.
+[17:50:40] [main/INFO] [rlmixins.RLMixins]: RLMixins Late Enqueue: Quark Enchanted Book Tooltip Rendering Patch (Quark)
+[17:50:40] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.rlmixins.quarkenchantedtooltip.json" for late mixin enqueue, adding.
+[17:50:40] [main/INFO] [rlmixins.RLMixins]: RLMixins Late Enqueue: Inspirations Bookshelf Color Crash Fix (Inspirations)
+[17:50:40] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.rlmixins.inspirationscolorcheck.json" for late mixin enqueue, adding.
+[17:50:40] [main/INFO] [rlmixins.RLMixins]: RLMixins Late Enqueue: ChunkAnimator XRay (Vanilla/ChunkAnimator)
+[17:50:40] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.rlmixins.chunkanimator.json" for late mixin enqueue, adding.
+[17:50:40] [main/INFO] [rlmixins.RLMixins]: RLMixins Late Enqueue: Obsidian Skull/Shield Rework (BountifulBaubles)
+[17:50:40] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.rlmixins.obsidianskull.json" for late mixin enqueue, adding.
+[17:50:40] [main/INFO] [rlmixins.RLMixins]: RLMixins Late Enqueue: Reskillable Indirect Self Damage Patch (Reskillable)
+[17:50:40] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.rlmixins.reskillableindirect.json" for late mixin enqueue, adding.
+[17:50:40] [main/INFO] [rlmixins.RLMixins]: RLMixins Late Enqueue: Rework Waystone Used Name Check (Waystones)
+[17:50:40] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.rlmixins.waystonename.json" for late mixin enqueue, adding.
+[17:50:40] [main/INFO] [rlmixins.RLMixins]: RLMixins Late Enqueue: Potion Amplifier Visibility (DSHuds)
+[17:50:40] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.rlmixins.dshudpotion.json" for late mixin enqueue, adding.
+[17:50:40] [main/INFO] [rlmixins.RLMixins]: RLMixins Late Enqueue: DregoraRL First Time Setup Progress (DregoraRL)
+[17:50:40] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.rlmixins.dregorarlprogress.json" for late mixin enqueue, adding.
+[17:50:40] [main/INFO] [rlmixins.RLMixins]: RLMixins Late Enqueue: Item Reach Attribute (ItemPhysics)
+[17:50:40] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.rlmixins.itemreach.json" for late mixin enqueue, adding.
+[17:50:40] [main/INFO] [rlmixins.RLMixins]: RLMixins Late Enqueue: CarryOn Ungenerated Chest Patch (CarryOn)
+[17:50:40] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.rlmixins.carryonunlooted.json" for late mixin enqueue, adding.
+[17:50:40] [main/INFO] [rlmixins.RLMixins]: RLMixins Late Enqueue: Boss AstikorCart Cheese (Vanilla/AstikorCarts/InfernalMobs/ScalingHealth/Champions)
+[17:50:40] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.rlmixins.astikorcheese.json" for late mixin enqueue, adding.
+[17:50:40] [main/INFO] [rlmixins.RLMixins]: RLMixins Late Enqueue: Undershirt Rework (Reskillable/FirstAid)
+[17:50:40] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.rlmixins.undershirt.json" for late mixin enqueue, adding.
+[17:50:40] [main/INFO] [rlmixins.RLMixins]: RLMixins Late Enqueue: Strange Bones stack to 16 (SRParasites)
+[17:50:40] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.rlmixins.srpstrangebonestacking.json" for late mixin enqueue, adding.
+[17:50:40] [main/INFO] [rlmixins.RLMixins]: RLMixins Late Enqueue: HungryFarmer Blacklist (Reskillable)
+[17:50:40] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.rlmixins.hungryfarmer.json" for late mixin enqueue, adding.
+[17:50:40] [main/INFO] [rlmixins.RLMixins]: RLMixins Late Enqueue: Scarlite Sword Config Effect (DefiledLands)
+[17:50:40] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.rlmixins.scarlitesword.json" for late mixin enqueue, adding.
+[17:50:40] [main/INFO] [rlmixins.RLMixins]: RLMixins Late Enqueue: Fix LycanitesMobs Charges in Item Frames (LycanitesMobs)
+[17:50:40] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.rlmixins.lycanitechargeframe.json" for late mixin enqueue, adding.
+[17:50:40] [main/INFO] [rlmixins.RLMixins]: RLMixins Late Enqueue: DramaticTrees Falling Overhaul (DramaticTrees)
+[17:50:40] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.rlmixins.dramatictreefalling.json" for late mixin enqueue, adding.
+[17:50:40] [main/INFO] [rlmixins.RLMixins]: RLMixins Late Enqueue: Switchbow Quiver Patch (Switchbow)
+[17:50:40] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.rlmixins.switchbowquiver.json" for late mixin enqueue, adding.
+[17:50:40] [main/INFO] [rlmixins.RLMixins]: RLMixins Late Enqueue: Rain Collector Canteen Fix (SimpleDifficulty)
+[17:50:40] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.rlmixins.raincollector.json" for late mixin enqueue, adding.
+[17:50:40] [main/INFO] [rlmixins.RLMixins]: RLMixins Late Enqueue: Purified Rain Water (SimpleDifficulty)
+[17:50:40] [main/INFO] [FermiumRegistryAPI]: FermiumRegistryAPI supplied "mixins.rlmixins.sdrain.json" for late mixin enqueue, adding.
+[17:50:40] [main/WARN] [FML]: The coremod snownee.snow.core.CoreMod does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[17:50:40] [main/WARN] [FML]: The coremod Snow! Real Magic! (snownee.snow.core.CoreMod) is not signed!
+[17:50:41] [main/WARN] [FML]: The coremod Spark (me.lucko.spark.forge.mixin.SparkMixinPlugin) is not signed!
+[17:50:41] [main/WARN] [FML]: The coremod SpartanWeaponry-MixinLoader (com.oblivioussp.spartanweaponry.mixin.MixinLoader) is not signed!
+[17:50:41] [main/WARN] [LaunchWrapper]: Tweak class name org.spongepowered.asm.launch.MixinTweaker has already been visited -- skipping
+[17:50:41] [main/WARN] [LaunchWrapper]: Tweak class name org.spongepowered.asm.launch.MixinTweaker has already been visited -- skipping
+[17:50:41] [main/WARN] [LaunchWrapper]: Tweak class name org.spongepowered.asm.launch.MixinTweaker has already been visited -- skipping
+[17:50:41] [main/WARN] [LaunchWrapper]: Tweak class name org.spongepowered.asm.launch.MixinTweaker has already been visited -- skipping
+[17:50:41] [main/WARN] [LaunchWrapper]: Tweak class name org.spongepowered.asm.launch.MixinTweaker has already been visited -- skipping
+[17:50:41] [main/WARN] [LaunchWrapper]: Tweak class name org.spongepowered.asm.launch.MixinTweaker has already been visited -- skipping
+[17:50:41] [main/WARN] [LaunchWrapper]: Tweak class name org.spongepowered.asm.launch.MixinTweaker has already been visited -- skipping
+[17:50:41] [main/WARN] [LaunchWrapper]: Tweak class name org.spongepowered.asm.launch.MixinTweaker has already been visited -- skipping
+[17:50:41] [main/WARN] [LaunchWrapper]: Tweak class name org.spongepowered.asm.launch.MixinTweaker has already been visited -- skipping
+[17:50:41] [main/WARN] [LaunchWrapper]: Tweak class name org.spongepowered.asm.launch.MixinTweaker has already been visited -- skipping
+[17:50:41] [main/WARN] [LaunchWrapper]: Tweak class name org.spongepowered.asm.launch.MixinTweaker has already been visited -- skipping
+[17:50:41] [main/WARN] [LaunchWrapper]: Tweak class name org.spongepowered.asm.launch.MixinTweaker has already been visited -- skipping
+[17:50:41] [main/WARN] [LaunchWrapper]: Tweak class name org.spongepowered.asm.launch.MixinTweaker has already been visited -- skipping
+[17:50:41] [main/WARN] [LaunchWrapper]: Tweak class name org.spongepowered.asm.launch.MixinTweaker has already been visited -- skipping
+[17:50:41] [main/WARN] [LaunchWrapper]: Tweak class name org.spongepowered.asm.launch.MixinTweaker has already been visited -- skipping
+[17:50:41] [main/WARN] [LaunchWrapper]: Tweak class name org.spongepowered.asm.launch.MixinTweaker has already been visited -- skipping
+[17:50:41] [main/WARN] [LaunchWrapper]: Tweak class name org.spongepowered.asm.launch.MixinTweaker has already been visited -- skipping
+[17:50:41] [main/WARN] [LaunchWrapper]: Tweak class name org.spongepowered.asm.launch.MixinTweaker has already been visited -- skipping
+[17:50:41] [main/WARN] [LaunchWrapper]: Tweak class name org.spongepowered.asm.launch.MixinTweaker has already been visited -- skipping
+[17:50:41] [main/WARN] [LaunchWrapper]: Tweak class name org.spongepowered.asm.launch.MixinTweaker has already been visited -- skipping
+[17:50:41] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[17:50:41] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[17:50:41] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[17:50:41] [main/INFO] [LaunchWrapper]: Calling tweak class net.jan.moddirector.launchwrapper.ModDirectorTweaker
+[17:50:41] [main/INFO] [ModDirector/ConfigurationController[CORE]]: Loading config config/mod-director/optifine.url.json
+[17:50:41] [main/INFO] [ModDirector/ForgeLateLoader[Launchwrapper]]: Found new CoreModManager at net.minecraftforge.fml.relauncher.CoreModManager!
+[17:50:41] [main/INFO] [ModDirector/ForgeLateLoader[Launchwrapper]]: Found new ModAccessTransformer at net.minecraftforge.fml.common.asm.transformers.ModAccessTransformer!
+[17:50:41] [main/INFO] [ModDirector/ForgeLateLoader[Launchwrapper]]: Trying to late load 0 mods
+[17:50:41] [main/WARN] [ModDirector/ForgeLateLoader[Launchwrapper]]: Failed to find deobf tweaker, injecting after deobf tweaker at first place
+[17:50:41] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[17:50:42] [main/INFO] [FML]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
+[17:50:42] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[17:50:42] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[17:50:42] [main/INFO] [betterbiomeblend]: Found valid Mixin framework! Proceeding to load.
+[17:50:42] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[17:50:42] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[17:50:42] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[17:50:42] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[17:50:42] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[17:50:42] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[17:50:42] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[17:50:42] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[17:50:42] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[17:50:42] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[17:50:42] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[17:50:42] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[17:50:42] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[17:50:42] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[17:50:42] [main/INFO] [LaunchWrapper]: Calling tweak class org.spongepowered.asm.launch.MixinTweaker
+[17:50:42] [main/ERROR] [mixin]: Mixin config mixins.mixincompat.json does not specify "minVersion" property
+[17:50:42] [main/INFO] [FermiumBooter]: FermiumBooter adding "mixins.rlmixins.core.entitytrackersuppress.json" for early mixin application.
+[17:50:42] [main/INFO] [FermiumBooter]: FermiumBooter adding "mixins.recipes.json" for early mixin application.
+[17:50:42] [main/INFO] [FermiumBooter]: FermiumBooter adding "mixins.rlmixins.core.pigmenportal.json" for early mixin application.
+[17:50:42] [main/INFO] [FermiumBooter]: FermiumBooter adding "mixins.internal.json" for early mixin application.
+[17:50:42] [main/INFO] [FermiumBooter]: FermiumBooter adding "mixins.rlmixins.core.mineshaftblacklistpatch.json" for early mixin application.
+[17:50:42] [main/INFO] [FermiumBooter]: FermiumBooter adding "mixins.rlmixins.core.mending.json" for early mixin application.
+[17:50:42] [main/INFO] [FermiumBooter]: FermiumBooter adding "mixins.rlmixins.core.dangerousprefix.json" for early mixin application.
+[17:50:42] [main/INFO] [FermiumBooter]: FermiumBooter adding "mixins.rlmixins.core.worldflammableblockpos.json" for early mixin application.
+[17:50:42] [main/INFO] [FermiumBooter]: FermiumBooter adding "mixins.rlmixins.core.untippedarrowparticle.json" for early mixin application.
+[17:50:42] [main/INFO] [FermiumBooter]: FermiumBooter adding "mixins.rlmixins.core.arrowaccessor.json" for early mixin application.
+[17:50:42] [main/INFO] [FermiumBooter]: FermiumBooter adding "mixins.rlmixins.core.bosscart.json" for early mixin application.
+[17:50:42] [main/INFO] [FermiumBooter]: FermiumBooter adding "mixins.rlmixins.core.deathshake.json" for early mixin application.
+[17:50:42] [main/INFO] [FermiumBooter]: FermiumBooter adding "mixins.rlmixins.core.bloodmoonoptifine.json" for early mixin application.
+[17:50:42] [main/INFO] [FermiumBooter]: FermiumBooter adding "mixins.rlmixins.core.strayhuskspawning.json" for early mixin application.
+[17:50:42] [main/INFO] [FermiumBooter]: FermiumBooter adding "mixins.rlmixins.core.advancementtabquesting.json" for early mixin application.
+[17:50:42] [main/INFO] [FermiumBooter]: FermiumBooter adding "mixins.rlmixins.core.chunkanimatorxray.json" for early mixin application.
+[17:50:42] [main/INFO] [FermiumBooter]: FermiumBooter adding "mixins.rlmixins.core.particlerender.json" for early mixin application.
+[17:50:42] [main/INFO] [FermiumBooter]: FermiumBooter adding "mixins.rlmixins.core.shulkerinsertion.json" for early mixin application.
+[17:50:42] [main/INFO] [FermiumBooter]: FermiumBooter adding "mixins.vfix_bugfixes.json" for early mixin application.
+[17:50:42] [main/INFO] [FermiumBooter]: FermiumBooter adding "mixins.rlmixins.core.particlecollision.json" for early mixin application.
+[17:50:42] [main/INFO] [FermiumBooter]: FermiumBooter adding "mixins.rlmixins.core.refreshchunkcache.json" for early mixin application.
+[17:50:42] [main/INFO] [FermiumBooter]: FermiumBooter adding "mixins.rlmixins.core.lowercrouch.json" for early mixin application.
+[17:50:42] [main/INFO] [FermiumBooter]: FermiumBooter adding "mixins.rlmixins.core.advancementnuke.json" for early mixin application.
+[17:50:42] [main/INFO] [FermiumBooter]: FermiumBooter adding "mixins.capability.json" for early mixin application.
+[17:50:42] [main/INFO] [FermiumBooter]: FermiumBooter adding "mixins.rlmixins.core.unknownpassengers.json" for early mixin application.
+[17:50:42] [main/INFO] [FermiumBooter]: FermiumBooter adding "mixins.rlmixins.core.anvilexpensive.json" for early mixin application.
+[17:50:42] [main/INFO] [FermiumBooter]: FermiumBooter adding "mixins.rlmixins.core.biomeaccessor.json" for early mixin application.
+[17:50:42] [main/INFO] [FermiumBooter]: FermiumBooter adding "mixins.rlmixins.core.preventlazyspawns.json" for early mixin application.
+[17:50:42] [main/INFO] [FermiumBooter]: FermiumBooter adding "mixins.rlmixins.fancymenuservercrash.json" for early mixin application.
+[17:50:42] [main/INFO] [FermiumBooter]: FermiumBooter adding "mixins.rlmixins.core.waterchunkgen.json" for early mixin application.
+[17:50:42] [main/INFO] [FermiumBooter]: FermiumBooter adding "mixins.rlmixins.core.potionamplifier.json" for early mixin application.
+[17:50:42] [main/INFO] [FermiumBooter]: FermiumBooter adding "mixins.rlmixins.core.hoerepair.json" for early mixin application.
+[17:50:42] [main/INFO] [FermiumBooter]: FermiumBooter adding "mixins.rlmixins.core.smeoverhaul.json" for early mixin application.
+[17:50:42] [main/INFO] [FermiumBooter]: FermiumBooter adding "mixins.rlmixins.core.entityteleportcollision.json" for early mixin application.
+[17:50:42] [main/INFO] [FermiumBooter]: FermiumBooter adding "mixins.editableedibles.vanilla.json" for early mixin application.
+[17:50:42] [main/INFO] [FermiumBooter]: FermiumBooter adding "mixins.rlmixins.core.quarkruneoptifine.json" for early mixin application.
+[17:50:42] [main/INFO] [FermiumBooter]: FermiumBooter adding "mixins.rlmixins.core.giantzombie.json" for early mixin application.
+[17:50:42] [main/INFO] [FermiumBooter]: FermiumBooter adding "mixins.misc_fluidregistry.json" for early mixin application.
+[17:50:42] [main/INFO] [FermiumBooter]: FermiumBooter adding "mixins.forgefixes.json" for early mixin application.
+[17:50:42] [main/INFO] [FermiumBooter]: FermiumBooter adding "mixins.crashes.json" for early mixin application.
+[17:50:42] [main/INFO] [FermiumBooter]: FermiumBooter adding "mixins.fix_mc129057.json" for early mixin application.
+[17:50:42] [main/INFO] [FermiumBooter]: FermiumBooter adding "mixins.rlmixins.core.enchantdamage.json" for early mixin application.
+[17:50:42] [main/INFO] [FermiumBooter]: FermiumBooter adding "mixins.rlmixins.core.cacheborder.json" for early mixin application.
+[17:50:42] [main/INFO] [FermiumBooter]: FermiumBooter adding "mixins.efficienthashing.json" for early mixin application.
+[17:50:42] [main/INFO] [FermiumBooter]: FermiumBooter adding "mixins.rlmixins.core.norainreset.json" for early mixin application.
+[17:50:42] [main/INFO] [FermiumBooter]: FermiumBooter adding "mixins.stripitemstack.json" for early mixin application.
+[17:50:42] [main/INFO] [FermiumBooter]: FermiumBooter adding "mixins.lockcode.json" for early mixin application.
+[17:50:42] [main/INFO] [FermiumBooter]: FermiumBooter adding "mixins.rlmixins.core.chunkdata.json" for early mixin application.
+[17:50:42] [main/INFO] [FermiumBooter]: FermiumBooter adding "mixins.vanities.json" for early mixin application.
+[17:50:42] [main/INFO] [FermiumBooter]: FermiumBooter adding "mixins.rlmixins.core.healthdesync.json" for early mixin application.
+[17:50:42] [main/INFO] [FermiumBooter]: FermiumBooter adding "mixins.rlmixins.core.enchantattribute.json" for early mixin application.
+[17:50:42] [main/INFO] [FermiumBooter]: FermiumBooter adding "mixins.bettercombatmod.json" for early mixin application.
+[17:50:42] [main/INFO] [FermiumBooter]: FermiumBooter adding "mixins.rlmixins.core.zombiecuring.json" for early mixin application.
+[17:50:42] [main/INFO] [FermiumBooter]: FermiumBooter adding "mixins.rlmixins.core.entitylist.json" for early mixin application.
+[17:50:42] [main/INFO] [FermiumBooter]: FermiumBooter adding "mixins.rlmixins.core.entitytracker.json" for early mixin application.
+[17:50:42] [main/INFO] [FermiumBooter]: FermiumBooter adding "mixins.rlmixins.core.antiwarp.json" for early mixin application.
+[17:50:42] [main/INFO] [FermiumBooter]: FermiumBooter adding "mixins.rlmixins.core.smoothcrouch.json" for early mixin application.
+[17:50:42] [main/INFO] [FermiumBooter]: FermiumBooter adding "mixins.registries.json" for early mixin application.
+[17:50:42] [main/INFO] [FermiumBooter]: FermiumBooter adding "mixins.rlmixins.core.blastprotknockback.json" for early mixin application.
+[17:50:42] [main/INFO] [FermiumBooter]: FermiumBooter adding "mixins.rlmixins.core.brokenoredict.json" for early mixin application.
+[17:50:42] [main/INFO] [FermiumBooter]: FermiumBooter adding "mixins.rlmixins.core.tippedarrow.json" for early mixin application.
+[17:50:42] [main/INFO] [FermiumBooter]: FermiumBooter adding "mixins.rlmixins.core.spawnchunkradius.json" for early mixin application.
+[17:50:42] [main/INFO] [FermiumBooter]: FermiumBooter adding "mixins.rlmixins.core.bloodmoonlootpickup.json" for early mixin application.
+[17:50:42] [main/INFO] [FermiumBooter]: FermiumBooter adding "mixins.priorities.json" for early mixin application.
+[17:50:42] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[17:50:42] [main/INFO] [FermiumASM]: FermiumASM is now preparing to bytecode manipulate your game.
+[17:50:42] [main/INFO] [FermiumASM]: Adding class net.minecraft.util.ResourceLocation to the transformation queue
+[17:50:42] [main/INFO] [FermiumASM]: Adding class net.minecraft.util.registry.RegistrySimple to the transformation queue
+[17:50:42] [main/INFO] [FermiumASM]: Adding class net.minecraft.nbt.NBTTagString to the transformation queue
+[17:50:42] [main/INFO] [FermiumASM]: Adding class net.minecraftforge.fml.common.discovery.ModCandidate to the transformation queue
+[17:50:42] [main/INFO] [FermiumASM]: Adding class net.minecraftforge.fml.common.discovery.ASMDataTable$ASMData to the transformation queue
+[17:50:42] [main/INFO] [FermiumASM]: Adding class net.minecraft.item.ItemStack to the transformation queue
+[17:50:42] [main/INFO] [FermiumASM]: Adding class net.minecraft.item.crafting.FurnaceRecipes to the transformation queue
+[17:50:42] [main/INFO] [FermiumASM]: Adding class mezz.jei.suffixtree.Edge to the transformation queue
+[17:50:42] [main/INFO] [FermiumASM]: Adding class net.minecraft.item.ItemStack to the transformation queue
+[17:50:42] [main/INFO] [FermiumASM]: Adding class net.minecraft.client.renderer.EntityRenderer to the transformation queue
+[17:50:42] [main/INFO] [FermiumASM]: Adding class net.minecraft.client.renderer.EntityRenderer to the transformation queue
+[17:50:42] [main/INFO] [FermiumASM]: Adding class net.minecraft.nbt.NBTTagCompound to the transformation queue
+[17:50:42] [main/INFO] [STDOUT]: [com.pg85.otg.forge.asm.excluded.OTGClassTransformer:transform:91]: OTG-Core transforming: net.minecraft.entity.EntityLivingBase : vp
+[17:50:43] [main/INFO] [Meson ASM]: Transforming EntityPlayer
+[17:50:43] [main/INFO] [Meson ASM]: Applying Transformation to method (Names [getArmorVisibility, func_82243_bO, cW] Descriptor ()F / ()F)
+[17:50:43] [main/INFO] [Meson ASM]: Located method, patching...
+[17:50:43] [main/INFO] [Meson ASM]: Located target IINC 1 1
+[17:50:43] [main/INFO] [Meson ASM]: Patch result: true
+[17:50:43] [main/INFO] [mixin]: A re-entrant transformer '$wrapper.svenhjol.charm.base.CharmClassTransformer' was detected and will no longer process meta class data
+[17:50:43] [main/INFO] [Service]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[17:50:43] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[17:50:43] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[17:50:43] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[17:50:43] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[17:50:43] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[17:50:43] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[17:50:43] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[17:50:43] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[17:50:43] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[17:50:43] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[17:50:43] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[17:50:43] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[17:50:43] [main/INFO] [RLTweakerASM]: ConfigSetup is running.
+[17:50:43] [main/INFO] [RLTweakerASM]: Server Type: NONE
+[17:50:43] [main/INFO] [RLTweakerASM]: Patcher is enabled
+[17:50:43] [main/INFO] [RLTweakerASM]: RLTweakerASM PatchManager: Concurrent Particles
+[17:50:43] [main/INFO] [RLTweakerASM]: RLTweakerASM PatchManager: Less Collisions
+[17:50:43] [main/INFO] [RLTweakerASM]: RLTweakerASM PatchManager: Real Bench
+[17:50:43] [main/INFO] [RLTweakerASM]: RLTweakerASM PatchManager: Door Pathfinding
+[17:50:43] [main/INFO] [RLTweakerASM]: RLTweakerASM PatchManager: Reduced Search Size
+[17:50:43] [main/INFO] [RLTweakerASM]: RLTweakerASM PatchManager: Broadcast Sounds
+[17:50:43] [main/INFO] [RLTweakerASM]: RLTweakerASM PatchManager: Enchant
+[17:50:43] [main/INFO] [RLTweakerASM]: RLTweakerASM PatchManager: Aggressive Motion Checker
+[17:50:43] [main/INFO] [RLTweakerASM]: RLTweakerASM PatchManager: Entity Breakable
+[17:50:43] [main/INFO] [RLTweakerASM]: RLTweakerASM PatchManager: Item Frame Dupe
+[17:50:43] [main/INFO] [RLTweakerASM]: RLTweakerASM PatchManager: Push Reaction
+[17:50:43] [main/INFO] [RLTweakerASM]: RLTweakerASM PatchManager: Overlay Message
+[17:50:43] [main/INFO] [RLTweakerASM]: RLTweakerASM PatchManager: Anvil Dupe Fix
+[17:50:43] [main/INFO] [RLTweakerASM]: RLTweakerASM PatchManager: Hopper
+[17:50:43] [main/INFO] [RLTweakerASM]: RLTweakerASM PatchManager: Waystone Scroll
+[17:50:43] [main/INFO] [RLTweakerASM]: RLTweakerASM PatchManager: Pathfinding Chunk Cache
+[17:50:43] [main/INFO] [RLTweakerASM]: RLTweakerASM PatchManager: Patch Cure Potion
+[17:50:43] [main/INFO] [RLTweakerASM]: RLTweakerASM PatchManager: Patch Potion Core Resistance
+[17:50:43] [main/INFO] [RLTweakerASM]: RLTweakerASM PatchManager: Patch Custom Attribute Instances
+[17:50:43] [main/INFO] [RLTweakerASM]: RLTweakerASM PatchManager: Patch Falling Block Portal Dupe
+[17:50:43] [main/INFO] [RLTweakerASM]: RLTweakerASM PatchManager: Patch Item Linking
+[17:50:43] [main/INFO] [RLTweakerASM]: RLTweakerASM PatchManager: Patch Faster Block Collision
+[17:50:43] [main/INFO] [RLTweakerASM]: RLTweakerASM PatchManager: Patch Clean Structure Files
+[17:50:43] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[17:50:43] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[17:50:43] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[17:50:43] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[17:50:43] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[17:50:43] [main/INFO] [LaunchWrapper]: Loading tweak class name net.jan.moddirector.launchwrapper.forge.AfterDeobfTweaker
+[17:50:43] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[17:50:43] [main/INFO] [LaunchWrapper]: Loading tweak class name org.spongepowered.asm.mixin.EnvironmentStateTweaker
+[17:50:43] [main/INFO] [LaunchWrapper]: Calling tweak class net.jan.moddirector.launchwrapper.forge.AfterDeobfTweaker
+[17:50:43] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[17:50:43] [main/INFO] [LaunchWrapper]: Calling tweak class org.spongepowered.asm.mixin.EnvironmentStateTweaker
+[17:50:43] [main/WARN] [mixin]: Reference map 'mixins.mixincompat.refmap.json' for mixins.mixincompat.json could not be read. If this is a development environment you can ignore this message
+[17:50:43] [main/INFO] [RLTweakerASM]: Patch exists for net.minecraft.entity.item.EntityItemFrame
+[17:50:43] [main/INFO] [RLTweakerASM]: Writing class net.minecraft.entity.item.EntityItemFrame with flags MAXS
+[17:50:43] [main/INFO] [de.keksuccino.fancymenu.mixin.FMMixinPlugin]: [FANCYMENU] APPLYING MIXIN: de.keksuccino.fancymenu.mixin.client.IMixinStyle | TO TARGET: net.minecraft.util.text.Style
+[17:50:43] [main/INFO] [RLTweakerASM]: Patch exists for net.minecraft.block.Block
+[17:50:43] [main/INFO] [RLTweakerASM]: Writing class net.minecraft.block.Block with flags MAXS | FRAMES
+[17:50:43] [main/INFO] [Quark ASM]: Transforming net.minecraft.block.BlockPistonBase
+[17:50:43] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [canPush, func_185646_a] Descriptor (Lnet/minecraft/block/state/IBlockState;Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/util/EnumFacing;ZLnet/minecraft/util/EnumFacing;)Z)
+[17:50:43] [main/INFO] [Quark ASM]: Located Method, patching...
+[17:50:43] [main/INFO] [Quark ASM]: Located patch target node INVOKEVIRTUAL net/minecraft/block/Block.hasTileEntity (Lnet/minecraft/block/state/IBlockState;)Z
+[17:50:43] [main/INFO] [Quark ASM]: Patch result: true
+[17:50:43] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [doMove, func_176319_a] Descriptor (Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/util/EnumFacing;Z)Z)
+[17:50:43] [main/INFO] [Quark ASM]: Located Method, patching...
+[17:50:43] [main/INFO] [Quark ASM]: Located patch target node INVOKEVIRTUAL net/minecraft/block/state/BlockPistonStructureHelper.func_177254_c ()Ljava/util/List;
+[17:50:43] [main/INFO] [Quark ASM]: Patch result: true
+[17:50:43] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [doMove, func_176319_a] Descriptor (Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/util/EnumFacing;Z)Z)
+[17:50:43] [main/INFO] [Quark ASM]: Located Method, patching...
+[17:50:43] [main/INFO] [Quark ASM]: Located patch target node INVOKESPECIAL net/minecraft/block/state/BlockPistonStructureHelper.<init> (Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/util/EnumFacing;Z)V
+[17:50:43] [main/INFO] [Quark ASM]: Patch result: true
+[17:50:43] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [checkForMove, func_176316_e] Descriptor (Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;)V)
+[17:50:43] [main/INFO] [Quark ASM]: Located Method, patching...
+[17:50:43] [main/INFO] [Quark ASM]: Located patch target node INVOKESPECIAL net/minecraft/block/state/BlockPistonStructureHelper.<init> (Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/util/EnumFacing;Z)V
+[17:50:43] [main/INFO] [Quark ASM]: Patch result: true
+[17:50:43] [main/INFO] [RLTweakerASM]: Patch exists for net.minecraftforge.items.VanillaInventoryCodeHooks
+[17:50:43] [main/INFO] [RLTweakerASM]: Writing class net.minecraftforge.items.VanillaInventoryCodeHooks with flags MAXS
+[17:50:43] [main/INFO] [mixin]: A re-entrant transformer '$wrapper.sereneseasons.asm.transformer.WorldTransformer' was detected and will no longer process meta class data
+[17:50:43] [main/INFO] [mixin]: A re-entrant transformer '$wrapper.lumien.bloodmoon.asm.ClassTransformer' was detected and will no longer process meta class data
+[17:50:43] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:101]: Added INTERFACE: pl/asie/foamfix/coremod/patches/IFoamFixWorldRemovable
+[17:50:43] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:141]: Added METHOD: net.minecraft.world.World.foamfix_removeUnloadedEntities
+[17:50:43] [main/INFO] [LibrarianLib ASM]: Transforming World
+[17:50:43] [main/INFO] [LibrarianLib ASM]: Applying Transformation to method (Names [updateEntities, func_72939_s] Descriptor ()V)
+[17:50:43] [main/INFO] [LibrarianLib ASM]: Attempting to insert: Update hook
+[17:50:43] [main/INFO] [LibrarianLib ASM]: Patch result: Success
+[17:50:43] [main/INFO] [LibrarianLib ASM]: Applying Transformation to method (Names [updateEntityWithOptionalForce, func_72866_a] Descriptor (Lnet/minecraft/entity/Entity;Z)V)
+[17:50:43] [main/INFO] [LibrarianLib ASM]: Attempting to insert: Update hook
+[17:50:43] [main/INFO] [LibrarianLib ASM]: Patch result: Success
+[17:50:43] [main/INFO] [RLTweakerASM]: Patch exists for net.minecraft.world.World
+[17:50:43] [main/INFO] [RLTweakerASM]: Writing class net.minecraft.world.World with flags MAXS | FRAMES
+[17:50:44] [main/INFO] [Quark ASM]: Transforming net.minecraft.entity.Entity
+[17:50:44] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [move, func_70091_d] Descriptor (Lnet/minecraft/entity/MoverType;DDD)V)
+[17:50:44] [main/INFO] [Quark ASM]: Located Method, patching...
+[17:50:44] [main/INFO] [Quark ASM]: Patch result: true
+[17:50:44] [main/INFO] [Quark ASM]: Located Method, patching...
+[17:50:44] [main/INFO] [Quark ASM]: Located patch target node INVOKEVIRTUAL net/minecraft/entity/Entity.func_145775_I ()V
+[17:50:44] [main/INFO] [Quark ASM]: Patch result: true
+[17:50:44] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [onEntityUpdate, func_70030_z] Descriptor ()V)
+[17:50:44] [main/INFO] [Quark ASM]: Located Method, patching...
+[17:50:44] [main/INFO] [Quark ASM]: Patch result: true
+[17:50:44] [main/INFO] [RLTweakerASM]: Patch exists for net.minecraft.entity.Entity
+[17:50:44] [main/INFO] [RLTweakerASM]: Writing class net.minecraft.entity.Entity with flags MAXS
+[17:50:44] [main/INFO] [STDOUT]: [com.pg85.otg.forge.asm.excluded.OTGClassTransformer:transform:91]: OTG-Core transforming: net.minecraft.entity.projectile.EntityArrow : aeh
+[17:50:44] [main/INFO] [STDOUT]: [com.creativemd.creativecore.transformer.CreativeTransformer:transform:49]: [itemphysic] Patched net.minecraft.entity.item.EntityItem ...
+[17:50:44] [main/INFO] [STDOUT]: [com.creativemd.creativecore.transformer.CreativeTransformer:transform:49]: [itemphysic] Patched net.minecraft.entity.item.EntityItem ...
+[17:50:44] [main/INFO] [STDOUT]: [com.pg85.otg.forge.asm.excluded.OTGClassTransformer:transform:91]: OTG-Core transforming: net.minecraft.entity.item.EntityItem : acl
+[17:50:44] [main/INFO] [Quark ASM]: Transforming net.minecraft.entity.item.EntityItem
+[17:50:44] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [onUpdate, func_70071_h_] Descriptor ()V)
+[17:50:44] [main/INFO] [Quark ASM]: Located Method, patching...
+[17:50:44] [main/INFO] [Quark ASM]: Patch result: true
+[17:50:44] [main/INFO] [STDOUT]: [com.pg85.otg.forge.asm.excluded.OTGClassTransformer:transform:91]: OTG-Core transforming: net.minecraftforge.registries.GameData : net/minecraftforge/registries/GameData
+[17:50:44] [main/INFO] [FermiumASM]: Improving FurnaceRecipes. Lookups are now a lot faster.
+[17:50:44] [main/INFO] [Quark ASM]: Transforming net.minecraft.item.ItemStack
+[17:50:44] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [getTextComponent, func_151000_E] Descriptor ()Lnet/minecraft/util/text/ITextComponent;)
+[17:50:44] [main/INFO] [Quark ASM]: Located Method, patching...
+[17:50:44] [main/INFO] [Quark ASM]: Located patch target node ARETURN
+[17:50:44] [main/INFO] [Quark ASM]: Patch result: true
+[17:50:44] [main/INFO] [STDOUT]: [com.pg85.otg.forge.asm.excluded.OTGClassTransformer:transform:91]: OTG-Core transforming: net.minecraft.entity.item.EntityXPOrb : vm
+[17:50:44] [main/INFO] [STDOUT]: [com.pg85.otg.forge.asm.excluded.OTGClassTransformer:transform:91]: OTG-Core transforming: net.minecraft.entity.item.EntityBoat : afd
+[17:50:44] [main/INFO] [Quark ASM]: Transforming net.minecraft.entity.item.EntityBoat
+[17:50:44] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [attackEntityFrom, func_70097_a] Descriptor (Lnet/minecraft/util/DamageSource;F)Z)
+[17:50:44] [main/INFO] [Quark ASM]: Located Method, patching...
+[17:50:44] [main/INFO] [Quark ASM]: Located patch target node INVOKEVIRTUAL net/minecraft/entity/item/EntityBoat.func_145778_a (Lnet/minecraft/item/Item;IF)Lnet/minecraft/entity/item/EntityItem;
+[17:50:44] [main/INFO] [Quark ASM]: Patch result: true
+[17:50:44] [main/INFO] [STDOUT]: [com.pg85.otg.forge.asm.excluded.OTGClassTransformer:transform:91]: OTG-Core transforming: net.minecraft.entity.item.EntityMinecart : afe
+[17:50:44] [main/INFO] [Quark ASM]: Transforming net.minecraft.entity.item.EntityMinecart
+[17:50:44] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [killMinecart, func_94095_a] Descriptor (Lnet/minecraft/util/DamageSource;)V)
+[17:50:44] [main/INFO] [Quark ASM]: Located Method, patching...
+[17:50:44] [main/INFO] [Quark ASM]: Located patch target node INVOKEVIRTUAL net/minecraft/entity/item/EntityMinecart.func_70099_a (Lnet/minecraft/item/ItemStack;F)Lnet/minecraft/entity/item/EntityItem;
+[17:50:44] [main/INFO] [Quark ASM]: Patch result: true
+[17:50:44] [main/INFO] [RLTweakerASM]: Patch exists for net.minecraft.world.ServerWorldEventHandler
+[17:50:44] [main/INFO] [RLTweakerASM]: Writing class net.minecraft.world.ServerWorldEventHandler with flags MAXS
+[17:50:44] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:114]: Spliced in METHOD: net.minecraft.world.chunk.BlockStateContainer.func_186018_a
+[17:50:44] [main/INFO] [STDOUT]: [com.pg85.otg.forge.asm.excluded.OTGClassTransformer:transform:91]: OTG-Core transforming: net.minecraft.world.biome.Biome : anh
+[17:50:44] [main/INFO] [Quark ASM]: Transforming net.minecraft.block.BlockDynamicLiquid
+[17:50:44] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [isBlocked, func_176372_g] Descriptor (Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;)Z)
+[17:50:44] [main/INFO] [Quark ASM]: Located Method, patching...
+[17:50:44] [main/INFO] [Quark ASM]: Located patch target node IRETURN
+[17:50:44] [main/INFO] [Quark ASM]: Located patch target node IRETURN
+[17:50:44] [main/INFO] [Quark ASM]: Patch result: true
+[17:50:44] [main/INFO] [STDOUT]: [pl.asie.patchy.helpers.ConstructorReplacingTransformer$FFMethodVisitor:visitTypeInsn:73]: Replaced NEW for net/minecraft/util/ClassInheritanceMultiMap to pl/asie/foamfix/coremod/common/FoamyClassInheritanceMultiMap
+[17:50:44] [main/INFO] [STDOUT]: [pl.asie.patchy.helpers.ConstructorReplacingTransformer$FFMethodVisitor:visitMethodInsn:85]: Replaced INVOKESPECIAL for net/minecraft/util/ClassInheritanceMultiMap to pl/asie/foamfix/coremod/common/FoamyClassInheritanceMultiMap
+[17:50:44] [main/INFO] [mixin]: A re-entrant transformer '$wrapper.pl.asie.foamfix.coremod.FoamFixTransformer' was detected and will no longer process meta class data
+[17:50:44] [main/INFO] [Quark ASM]: Transforming net.minecraft.world.WorldServer
+[17:50:44] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [areAllPlayersAsleep, func_73056_e] Descriptor ()Z)
+[17:50:44] [main/INFO] [Quark ASM]: Located Method, patching...
+[17:50:44] [main/INFO] [Quark ASM]: Patch result: true
+[17:50:44] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [wakeAllPlayers, func_73053_d] Descriptor ()V)
+[17:50:44] [main/INFO] [Quark ASM]: Located Method, patching...
+[17:50:44] [main/INFO] [Quark ASM]: Patch result: true
+[17:50:44] [main/INFO] [RLTweakerASM]: Patch exists for net.minecraft.world.WorldServer
+[17:50:44] [main/INFO] [RLTweakerASM]: Writing class net.minecraft.world.WorldServer with flags MAXS | FRAMES
+[17:50:44] [main/INFO] [Quark ASM]: Transforming net.minecraft.tileentity.TileEntityPiston
+[17:50:44] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [update, func_73660_a] Descriptor ()V)
+[17:50:44] [main/INFO] [Quark ASM]: Located Method, patching...
+[17:50:44] [main/INFO] [Quark ASM]: Patch result: true
+[17:50:44] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [clearPistonTileEntity, func_145866_f] Descriptor ()V)
+[17:50:44] [main/INFO] [Quark ASM]: Located Method, patching...
+[17:50:44] [main/INFO] [Quark ASM]: Located patch target node INVOKEVIRTUAL net/minecraft/world/World.func_180501_a (Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;I)Z
+[17:50:44] [main/INFO] [Quark ASM]: Patch result: true
+[17:50:44] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [update, func_73660_a] Descriptor ()V)
+[17:50:44] [main/INFO] [Quark ASM]: Located Method, patching...
+[17:50:44] [main/INFO] [Quark ASM]: Located patch target node INVOKEVIRTUAL net/minecraft/world/World.func_180501_a (Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;I)Z
+[17:50:44] [main/INFO] [Quark ASM]: Patch result: true
+[17:50:44] [main/INFO] [STDOUT]: [com.pg85.otg.forge.asm.excluded.OTGClassTransformer:transform:91]: OTG-Core transforming: net.minecraft.server.management.PlayerList : pl
+[17:50:44] [main/INFO] [STDOUT]: [com.pg85.otg.forge.asm.excluded.OTGClassTransformer:transformPlayerList:999]: OTG-Core transforming PlayerList.transformPlayerListUpdateTimeAndWeather
+[17:50:44] [main/INFO] [STDOUT]: [com.pg85.otg.forge.asm.excluded.OTGClassTransformer:transformPlayerList:1001]: OTG-Core transforming PlayerList.setPlayerManager
+[17:50:44] [main/INFO] [STDOUT]: [com.Shultrea.Rin.Transformer.SMEASM:transform:54]: Patching EnchantmentProtection
+[17:50:44] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:101]: Added INTERFACE: pl/asie/foamfix/coremod/patches/IFoamFixWorldRemovable
+[17:50:44] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:141]: Added METHOD: net.minecraft.world.World.foamfix_removeUnloadedEntities
+[17:50:44] [main/INFO] [LibrarianLib ASM]: Transforming World
+[17:50:44] [main/INFO] [LibrarianLib ASM]: Applying Transformation to method (Names [updateEntities, func_72939_s] Descriptor ()V)
+[17:50:44] [main/INFO] [LibrarianLib ASM]: Attempting to insert: Update hook
+[17:50:44] [main/INFO] [LibrarianLib ASM]: Patch result: Success
+[17:50:44] [main/INFO] [LibrarianLib ASM]: Applying Transformation to method (Names [updateEntityWithOptionalForce, func_72866_a] Descriptor (Lnet/minecraft/entity/Entity;Z)V)
+[17:50:44] [main/INFO] [LibrarianLib ASM]: Attempting to insert: Update hook
+[17:50:44] [main/INFO] [LibrarianLib ASM]: Patch result: Success
+[17:50:44] [main/INFO] [RLTweakerASM]: Patch exists for net.minecraft.world.World
+[17:50:44] [main/INFO] [RLTweakerASM]: Writing class net.minecraft.world.World with flags MAXS | FRAMES
+[17:50:45] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.patches.WorldServerRemovalPatch:apply:57]: Patched updateEntities in net/minecraft/world/WorldServer func_72939_s
+[17:50:45] [main/INFO] [Quark ASM]: Transforming net.minecraft.world.WorldServer
+[17:50:45] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [areAllPlayersAsleep, func_73056_e] Descriptor ()Z)
+[17:50:45] [main/INFO] [Quark ASM]: Located Method, patching...
+[17:50:45] [main/INFO] [Quark ASM]: Patch result: true
+[17:50:45] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [wakeAllPlayers, func_73053_d] Descriptor ()V)
+[17:50:45] [main/INFO] [Quark ASM]: Located Method, patching...
+[17:50:45] [main/INFO] [Quark ASM]: Patch result: true
+[17:50:45] [main/INFO] [RLTweakerASM]: Patch exists for net.minecraft.world.WorldServer
+[17:50:45] [main/INFO] [RLTweakerASM]: Writing class net.minecraft.world.WorldServer with flags MAXS | FRAMES
+[17:50:45] [main/INFO] [STDOUT]: [com.pg85.otg.forge.asm.excluded.OTGClassTransformer:transform:91]: OTG-Core transforming: net.minecraft.server.management.PlayerList : pl
+[17:50:45] [main/INFO] [STDOUT]: [com.pg85.otg.forge.asm.excluded.OTGClassTransformer:transformPlayerList:999]: OTG-Core transforming PlayerList.transformPlayerListUpdateTimeAndWeather
+[17:50:45] [main/INFO] [STDOUT]: [com.pg85.otg.forge.asm.excluded.OTGClassTransformer:transformPlayerList:1001]: OTG-Core transforming PlayerList.setPlayerManager
+[17:50:45] [main/INFO] [Meson ASM]: Transforming EntityPlayer
+[17:50:45] [main/INFO] [Meson ASM]: Applying Transformation to method (Names [getArmorVisibility, func_82243_bO, cW] Descriptor ()F / ()F)
+[17:50:45] [main/INFO] [Meson ASM]: Located method, patching...
+[17:50:45] [main/INFO] [Meson ASM]: Located target IINC 1 1
+[17:50:45] [main/INFO] [Meson ASM]: Patch result: true
+[17:50:45] [main/INFO] [STDOUT]: [com.pg85.otg.forge.asm.excluded.OTGClassTransformer:transform:91]: OTG-Core transforming: net.minecraft.entity.EntityLivingBase : vp
+[17:50:45] [main/INFO] [RLTweakerASM]: Patch exists for net.minecraft.entity.EntityLivingBase
+[17:50:45] [main/INFO] [RLTweakerASM]: Writing class net.minecraft.entity.EntityLivingBase with flags MAXS | FRAMES
+[17:50:45] [main/INFO] [Quark ASM]: Transforming net.minecraft.util.DamageSource
+[17:50:45] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [causePlayerDamage, func_76365_a] Descriptor (Lnet/minecraft/entity/player/EntityPlayer;)Lnet/minecraft/util/DamageSource;)
+[17:50:45] [main/INFO] [Quark ASM]: Located Method, patching...
+[17:50:45] [main/INFO] [Quark ASM]: Patch result: true
+[17:50:45] [main/INFO] [RLTweakerASM]: Patch exists for net.minecraft.potion.PotionEffect
+[17:50:45] [main/INFO] [RLTweakerASM]: Writing class net.minecraft.potion.PotionEffect with flags MAXS | FRAMES
+[17:50:45] [main/INFO] [Quark ASM]: Transforming net.minecraft.entity.Entity
+[17:50:45] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [move, func_70091_d] Descriptor (Lnet/minecraft/entity/MoverType;DDD)V)
+[17:50:45] [main/INFO] [Quark ASM]: Located Method, patching...
+[17:50:45] [main/INFO] [Quark ASM]: Patch result: true
+[17:50:45] [main/INFO] [Quark ASM]: Located Method, patching...
+[17:50:45] [main/INFO] [Quark ASM]: Located patch target node INVOKEVIRTUAL net/minecraft/entity/Entity.func_145775_I ()V
+[17:50:45] [main/INFO] [Quark ASM]: Patch result: true
+[17:50:45] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [onEntityUpdate, func_70030_z] Descriptor ()V)
+[17:50:45] [main/INFO] [Quark ASM]: Located Method, patching...
+[17:50:45] [main/INFO] [Quark ASM]: Patch result: true
+[17:50:45] [main/INFO] [RLTweakerASM]: Patch exists for net.minecraft.entity.Entity
+[17:50:45] [main/INFO] [RLTweakerASM]: Writing class net.minecraft.entity.Entity with flags MAXS
+[17:50:45] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
+[17:50:45] [main/INFO] [STDOUT]: [com.pg85.otg.forge.asm.excluded.OTGClassTransformer:transform:91]: OTG-Core transforming: net.minecraftforge.registries.GameData : net/minecraftforge/registries/GameData
+[17:50:45] [main/INFO] [FermiumASM]: Injecting calls in net/minecraft/util/ResourceLocation<init> to canonicalize strings
+[17:50:45] [main/INFO] [FermiumASM]: Injecting calls in net/minecraft/util/ResourceLocation<init> to canonicalize strings
+[17:50:45] [main/INFO] [FermiumASM]: Injecting calls in net/minecraft/util/ResourceLocation<init> to canonicalize strings
+[17:50:45] [main/INFO] [FermiumASM]: Injecting calls in net/minecraft/util/ResourceLocation<init> to canonicalize strings
+[17:50:45] [main/INFO] [RLTweakerASM]: Patch exists for net.minecraft.block.Block
+[17:50:45] [main/INFO] [RLTweakerASM]: Writing class net.minecraft.block.Block with flags MAXS | FRAMES
+[17:50:45] [main/INFO] [TNTUtils Core]: About to patch obfuscated class amp (net.minecraft.world.Explosion)
+[17:50:45] [main/INFO] [TNTUtils Core]: Successfully injected into func_77279_a(Z)V
+[17:50:45] [main/INFO] [STDOUT]: [com.pg85.otg.forge.asm.excluded.OTGClassTransformer:transform:91]: OTG-Core transforming: net.minecraft.world.biome.Biome : anh
+[17:50:45] [main/INFO] [Quark ASM]: Transforming net.minecraft.enchantment.Enchantment
+[17:50:45] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [canApply, func_92089_a] Descriptor (Lnet/minecraft/item/ItemStack;)Z)
+[17:50:45] [main/INFO] [Quark ASM]: Located Method, patching...
+[17:50:45] [main/INFO] [Quark ASM]: Located patch target node IRETURN
+[17:50:45] [main/INFO] [Quark ASM]: Patch result: true
+[17:50:45] [main/INFO] [STDOUT]: [com.creativemd.creativecore.transformer.CreativeTransformer:transform:49]: [itemphysic] Patched net.minecraft.entity.item.EntityItem ...
+[17:50:45] [main/INFO] [STDOUT]: [com.creativemd.creativecore.transformer.CreativeTransformer:transform:49]: [itemphysic] Patched net.minecraft.entity.item.EntityItem ...
+[17:50:46] [main/INFO] [STDOUT]: [com.pg85.otg.forge.asm.excluded.OTGClassTransformer:transform:91]: OTG-Core transforming: net.minecraft.entity.item.EntityItem : acl
+[17:50:46] [main/INFO] [Quark ASM]: Transforming net.minecraft.entity.item.EntityItem
+[17:50:46] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [onUpdate, func_70071_h_] Descriptor ()V)
+[17:50:46] [main/INFO] [Quark ASM]: Located Method, patching...
+[17:50:46] [main/INFO] [Quark ASM]: Patch result: true
+[17:50:46] [main/INFO] [STDOUT]: [com.pg85.otg.forge.asm.excluded.OTGClassTransformer:transform:91]: OTG-Core transforming: net.minecraft.entity.item.EntityXPOrb : vm
+[17:50:46] [main/INFO] [Quark ASM]: Transforming net.minecraft.enchantment.Enchantment
+[17:50:46] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [canApply, func_92089_a] Descriptor (Lnet/minecraft/item/ItemStack;)Z)
+[17:50:46] [main/INFO] [Quark ASM]: Located Method, patching...
+[17:50:46] [main/INFO] [Quark ASM]: Located patch target node IRETURN
+[17:50:46] [main/INFO] [Quark ASM]: Patch result: true
+[17:50:46] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:114]: Spliced in METHOD: net.minecraft.block.state.BlockStateContainer.createState
+[17:50:46] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:165]: Added FIELD: net.minecraft.block.state.BlockStateContainer.foamfix_mapper
+[17:50:46] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:114]: Spliced in METHOD: net.minecraft.block.properties.PropertyEnum.equals
+[17:50:46] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:114]: Spliced in METHOD: net.minecraft.block.properties.PropertyEnum.hashCode
+[17:50:46] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:165]: Added FIELD: net.minecraft.block.properties.PropertyEnum.foamfix_hashCode
+[17:50:46] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:165]: Added FIELD: net.minecraft.block.properties.PropertyEnum.foamfix_hashCode_calced
+[17:50:46] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:114]: Spliced in METHOD: net.minecraft.block.properties.PropertyInteger.hashCode
+[17:50:46] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:165]: Added FIELD: net.minecraft.block.properties.PropertyInteger.foamfix_hashCode
+[17:50:46] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:165]: Added FIELD: net.minecraft.block.properties.PropertyInteger.foamfix_hashCode_calced
+[17:50:46] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:114]: Spliced in METHOD: net.minecraft.block.properties.PropertyBool.equals
+[17:50:46] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:114]: Spliced in METHOD: net.minecraft.block.properties.PropertyBool.hashCode
+[17:50:46] [main/INFO] [Quark ASM]: Transforming net.minecraft.item.ItemStack
+[17:50:46] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [getTextComponent, func_151000_E] Descriptor ()Lnet/minecraft/util/text/ITextComponent;)
+[17:50:46] [main/INFO] [Quark ASM]: Located Method, patching...
+[17:50:46] [main/INFO] [Quark ASM]: Located patch target node ARETURN
+[17:50:46] [main/INFO] [Quark ASM]: Patch result: true
+[17:50:46] [main/INFO] [Quark ASM]: Transforming net.minecraft.block.BlockDynamicLiquid
+[17:50:46] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [isBlocked, func_176372_g] Descriptor (Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;)Z)
+[17:50:46] [main/INFO] [Quark ASM]: Located Method, patching...
+[17:50:46] [main/INFO] [Quark ASM]: Located patch target node IRETURN
+[17:50:46] [main/INFO] [Quark ASM]: Located patch target node IRETURN
+[17:50:46] [main/INFO] [Quark ASM]: Patch result: true
+[17:50:46] [main/INFO] [STDOUT]: [com.pg85.otg.forge.asm.excluded.OTGClassTransformer:transform:91]: OTG-Core transforming: net.minecraft.entity.item.EntityFallingBlock : ack
+[17:50:46] [main/INFO] [RLTweakerASM]: Patch exists for net.minecraft.entity.item.EntityFallingBlock
+[17:50:46] [main/INFO] [RLTweakerASM]: Writing class net.minecraft.entity.item.EntityFallingBlock with flags MAXS | FRAMES
+[17:50:46] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:114]: Spliced in METHOD: net.minecraft.tileentity.TileEntity.func_190559_a
+[17:50:46] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:114]: Spliced in METHOD: net.minecraft.block.BlockBed.func_189540_a
+[17:50:46] [main/INFO] [Quark ASM]: Transforming net.minecraft.block.BlockPistonBase
+[17:50:46] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [canPush, func_185646_a] Descriptor (Lnet/minecraft/block/state/IBlockState;Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/util/EnumFacing;ZLnet/minecraft/util/EnumFacing;)Z)
+[17:50:46] [main/INFO] [Quark ASM]: Located Method, patching...
+[17:50:46] [main/INFO] [Quark ASM]: Located patch target node INVOKEVIRTUAL net/minecraft/block/Block.hasTileEntity (Lnet/minecraft/block/state/IBlockState;)Z
+[17:50:46] [main/INFO] [Quark ASM]: Patch result: true
+[17:50:46] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [doMove, func_176319_a] Descriptor (Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/util/EnumFacing;Z)Z)
+[17:50:46] [main/INFO] [Quark ASM]: Located Method, patching...
+[17:50:46] [main/INFO] [Quark ASM]: Located patch target node INVOKEVIRTUAL net/minecraft/block/state/BlockPistonStructureHelper.func_177254_c ()Ljava/util/List;
+[17:50:46] [main/INFO] [Quark ASM]: Patch result: true
+[17:50:46] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [doMove, func_176319_a] Descriptor (Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/util/EnumFacing;Z)Z)
+[17:50:46] [main/INFO] [Quark ASM]: Located Method, patching...
+[17:50:46] [main/INFO] [Quark ASM]: Located patch target node INVOKESPECIAL net/minecraft/block/state/BlockPistonStructureHelper.<init> (Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/util/EnumFacing;Z)V
+[17:50:46] [main/INFO] [Quark ASM]: Patch result: true
+[17:50:46] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [checkForMove, func_176316_e] Descriptor (Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;)V)
+[17:50:46] [main/INFO] [Quark ASM]: Located Method, patching...
+[17:50:46] [main/INFO] [Quark ASM]: Located patch target node INVOKESPECIAL net/minecraft/block/state/BlockPistonStructureHelper.<init> (Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/util/EnumFacing;Z)V
+[17:50:46] [main/INFO] [Quark ASM]: Patch result: true
+[17:50:46] [main/INFO] [Quark ASM]: Transforming net.minecraft.tileentity.TileEntityPiston
+[17:50:46] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [update, func_73660_a] Descriptor ()V)
+[17:50:46] [main/INFO] [Quark ASM]: Located Method, patching...
+[17:50:46] [main/INFO] [Quark ASM]: Patch result: true
+[17:50:46] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [clearPistonTileEntity, func_145866_f] Descriptor ()V)
+[17:50:46] [main/INFO] [Quark ASM]: Located Method, patching...
+[17:50:46] [main/INFO] [Quark ASM]: Located patch target node INVOKEVIRTUAL net/minecraft/world/World.func_180501_a (Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;I)Z
+[17:50:46] [main/INFO] [Quark ASM]: Patch result: true
+[17:50:46] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [update, func_73660_a] Descriptor ()V)
+[17:50:46] [main/INFO] [Quark ASM]: Located Method, patching...
+[17:50:46] [main/INFO] [Quark ASM]: Located patch target node INVOKEVIRTUAL net/minecraft/world/World.func_180501_a (Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;I)Z
+[17:50:46] [main/INFO] [Quark ASM]: Patch result: true
+[17:50:46] [main/INFO] [STDOUT]: [com.pg85.otg.forge.asm.excluded.OTGClassTransformer:transform:91]: OTG-Core transforming: net.minecraft.entity.item.EntityTNTPrimed : acm
+[17:50:46] [main/INFO] [RB-Transformer]: Injecting into apr (net.minecraft.block.BlockWorkbench)
+[17:50:46] [main/INFO] [RB-Transformer]:  - ITileEntityProvider
+[17:50:46] [main/INFO] [RB-Transformer]:  - createNewTileEntity
+[17:50:46] [main/INFO] [RB-Transformer]:  - breakBlock
+[17:50:46] [main/INFO] [RB-Transformer]:  - <clinit>
+[17:50:46] [main/INFO] [RB-Transformer]:  - Done
+[17:50:46] [main/INFO] [RLTweakerASM]: Patch exists for pw.prok.realbench.WorkbenchTile
+[17:50:46] [main/INFO] [RLTweakerASM]: Writing class pw.prok.realbench.WorkbenchTile with flags MAXS | FRAMES
+[17:50:46] [main/INFO] [RB-Transformer]: Injecting into pw.prok.realbench.asm.ASMHooks (pw.prok.realbench.asm.ASMHooks)
+[17:50:46] [main/INFO] [RB-Transformer]:  - getTile
+[17:50:46] [main/INFO] [RB-Transformer]:  - Done
+[17:50:46] [main/INFO] [RLTweakerASM]: Patch exists for pw.prok.realbench.asm.ASMHooks
+[17:50:46] [main/INFO] [RLTweakerASM]: Writing class pw.prok.realbench.asm.ASMHooks with flags MAXS | FRAMES
+[17:50:46] [main/INFO] [Meson ASM]: Transforming TileEntityFurnace
+[17:50:46] [main/INFO] [Meson ASM]: Applying Transformation to method (Names [smeltItem, func_145949_j, o] Descriptor ()V / ()V)
+[17:50:46] [main/INFO] [Meson ASM]: Located method, patching...
+[17:50:46] [main/INFO] [Meson ASM]: Located target ASTORE 2
+[17:50:46] [main/INFO] [Meson ASM]: Patch result: true
+[17:50:46] [main/INFO] [Meson ASM]: Applying Transformation to method (Names [isItemValidForSlot, func_94041_b, b] Descriptor (ILnet/minecraft/item/ItemStack;)Z / (ILaip;)Z)
+[17:50:46] [main/INFO] [Meson ASM]: Located method, patching...
+[17:50:46] [main/INFO] [Meson ASM]: Located target ILOAD 1
+[17:50:46] [main/INFO] [Meson ASM]: Patch result: true
+[17:50:46] [main/INFO] [Meson ASM]: Transforming TileEntityBeacon
+[17:50:46] [main/INFO] [Meson ASM]: Applying Transformation to method (Names [addEffectsToPlayers, func_146000_x, E] Descriptor ()V / ()V)
+[17:50:46] [main/INFO] [Meson ASM]: Located method, patching...
+[17:50:46] [main/INFO] [Meson ASM]: Located target ALOAD 9
+[17:50:46] [main/INFO] [Meson ASM]: Patch result: true
+[17:50:46] [main/INFO] [RLTweakerASM]: Patch exists for net.minecraft.tileentity.TileEntityHopper
+[17:50:46] [main/INFO] [RLTweakerASM]: Writing class net.minecraft.tileentity.TileEntityHopper with flags MAXS
+[17:50:46] [main/INFO] [Meson ASM]: Transforming TileEntityShulkerBox
+[17:50:46] [main/INFO] [Meson ASM]: Applying Transformation to method (Names [canInsertItem, func_180462_a, a] Descriptor (ILnet/minecraft/item/ItemStack;Lnet/minecraft/util/EnumFacing;)Z / (ILaip;Lnet/minecraft/util/EnumFacing;)Z)
+[17:50:46] [main/INFO] [Meson ASM]: Failed to locate the method!
+[17:50:46] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.patches.GhostBusterBlockStateAccessPatch$FFMethodVisitor:visitMethodInsn:93]: Added ghost buster patch (getBlockState call wrapped) in net/minecraft/block/BlockFarmland func_176530_e (net/minecraft/world/World func_180495_p (Lnet/minecraft/util/math/BlockPos;)Lnet/minecraft/block/state/IBlockState;)
+[17:50:46] [main/INFO] [RLTweakerASM]: Patch exists for net.minecraft.entity.monster.EntityMob
+[17:50:46] [main/INFO] [RLTweakerASM]: Writing class net.minecraft.entity.monster.EntityMob with flags MAXS
+[17:50:46] [main/INFO] [Meson ASM]: Transforming EntityWither
+[17:50:46] [main/INFO] [Meson ASM]: Applying Transformation to method (Names [canDestroyBlock, func_181033_a, a] Descriptor (Lnet/minecraft/block/Block;)Z / (Lnet/minecraft/block/Block;)Z)
+[17:50:46] [main/INFO] [Meson ASM]: Failed to locate the method!
+[17:50:46] [main/INFO] [STDOUT]: [pl.asie.patchy.helpers.ConstructorReplacingTransformer$FFMethodVisitor:visitTypeInsn:73]: Replaced NEW for net/minecraft/tileentity/TileEntityHopper to pl/asie/foamfix/common/TileEntityFasterHopper
+[17:50:46] [main/INFO] [STDOUT]: [pl.asie.patchy.helpers.ConstructorReplacingTransformer$FFMethodVisitor:visitMethodInsn:85]: Replaced INVOKESPECIAL for net/minecraft/tileentity/TileEntityHopper to pl/asie/foamfix/common/TileEntityFasterHopper
+[17:50:46] [main/INFO] [STDOUT]: [com.Shultrea.Rin.Transformer.SMEASM:transform:54]: Patching EnchantmentProtection
+[17:50:46] [main/INFO] [Quark ASM]: Transforming net.minecraft.enchantment.EnchantmentDamage
+[17:50:46] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [canApply, func_92089_a] Descriptor (Lnet/minecraft/item/ItemStack;)Z)
+[17:50:46] [main/INFO] [Quark ASM]: Located Method, patching...
+[17:50:46] [main/INFO] [Quark ASM]: Located patch target node IRETURN
+[17:50:46] [main/INFO] [Quark ASM]: Located patch target node IRETURN
+[17:50:46] [main/INFO] [Quark ASM]: Patch result: true
+[17:50:46] [main/INFO] [Meson ASM]: Transforming ItemToolMaterial
+[17:50:46] [main/INFO] [Meson ASM]: Applying Transformation to method (Names [getMaxUses, func_77997_a, a] Descriptor ()I / ()I)
+[17:50:46] [main/INFO] [Meson ASM]: Located method, patching...
+[17:50:46] [main/INFO] [Meson ASM]: Located target GETFIELD ain$a.g : I
+[17:50:46] [main/INFO] [Meson ASM]: Patch result: true
+[17:50:46] [main/INFO] [Meson ASM]: Applying Transformation to method (Names [getEfficiency, func_77998_b, b] Descriptor ()F / ()F)
+[17:50:46] [main/INFO] [Meson ASM]: Located method, patching...
+[17:50:46] [main/INFO] [Meson ASM]: Located target GETFIELD ain$a.h : F
+[17:50:46] [main/INFO] [Meson ASM]: Patch result: true
+[17:50:46] [main/INFO] [Meson ASM]: Applying Transformation to method (Names [getAttackDamage, func_78000_c, c] Descriptor ()F / ()F)
+[17:50:46] [main/INFO] [Meson ASM]: Located method, patching...
+[17:50:46] [main/INFO] [Meson ASM]: Located target GETFIELD ain$a.i : F
+[17:50:46] [main/INFO] [Meson ASM]: Patch result: true
+[17:50:46] [main/INFO] [Meson ASM]: Applying Transformation to method (Names [getHarvestLevel, func_77996_d, d] Descriptor ()I / ()I)
+[17:50:46] [main/INFO] [Meson ASM]: Located method, patching...
+[17:50:46] [main/INFO] [Meson ASM]: Located target GETFIELD ain$a.f : I
+[17:50:46] [main/INFO] [Meson ASM]: Patch result: true
+[17:50:46] [main/INFO] [Meson ASM]: Applying Transformation to method (Names [getEnchantability, func_77995_e, e] Descriptor ()I / ()I)
+[17:50:46] [main/INFO] [Meson ASM]: Located method, patching...
+[17:50:46] [main/INFO] [Meson ASM]: Located target GETFIELD ain$a.j : I
+[17:50:46] [main/INFO] [Meson ASM]: Patch result: true
+[17:50:47] [main/INFO] [STDOUT]: [com.pg85.otg.forge.asm.excluded.OTGClassTransformer:transform:91]: OTG-Core transforming: net.minecraft.entity.projectile.EntityArrow : aeh
+[17:50:47] [main/INFO] [RLTweakerASM]: Patch exists for net.minecraft.entity.item.EntityItemFrame
+[17:50:47] [main/INFO] [RLTweakerASM]: Writing class net.minecraft.entity.item.EntityItemFrame with flags MAXS
+[17:50:47] [main/INFO] [STDOUT]: [com.pg85.otg.forge.asm.excluded.OTGClassTransformer:transform:91]: OTG-Core transforming: net.minecraft.entity.item.EntityMinecart : afe
+[17:50:47] [main/INFO] [Quark ASM]: Transforming net.minecraft.entity.item.EntityMinecart
+[17:50:47] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [killMinecart, func_94095_a] Descriptor (Lnet/minecraft/util/DamageSource;)V)
+[17:50:47] [main/INFO] [Quark ASM]: Located Method, patching...
+[17:50:47] [main/INFO] [Quark ASM]: Located patch target node INVOKEVIRTUAL net/minecraft/entity/item/EntityMinecart.func_70099_a (Lnet/minecraft/item/ItemStack;F)Lnet/minecraft/entity/item/EntityItem;
+[17:50:47] [main/INFO] [Quark ASM]: Patch result: true
+[17:50:47] [main/INFO] [STDOUT]: [com.pg85.otg.forge.asm.excluded.OTGClassTransformer:transform:91]: OTG-Core transforming: net.minecraft.entity.projectile.EntityThrowable : aev
+[17:50:47] [main/INFO] [STDOUT]: [com.pg85.otg.forge.asm.excluded.OTGClassTransformer:transform:91]: OTG-Core transforming: net.minecraft.entity.item.EntityBoat : afd
+[17:50:47] [main/INFO] [Quark ASM]: Transforming net.minecraft.entity.item.EntityBoat
+[17:50:47] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [attackEntityFrom, func_70097_a] Descriptor (Lnet/minecraft/util/DamageSource;F)Z)
+[17:50:47] [main/INFO] [Quark ASM]: Located Method, patching...
+[17:50:47] [main/INFO] [Quark ASM]: Located patch target node INVOKEVIRTUAL net/minecraft/entity/item/EntityBoat.func_145778_a (Lnet/minecraft/item/Item;IF)Lnet/minecraft/entity/item/EntityItem;
+[17:50:47] [main/INFO] [Quark ASM]: Patch result: true
+[17:50:47] [main/INFO] [RLTweakerASM]: Patch exists for net.minecraft.entity.player.EntityPlayerMP
+[17:50:47] [main/INFO] [RLTweakerASM]: Writing class net.minecraft.entity.player.EntityPlayerMP with flags FRAMES
+[17:50:47] [main/INFO] [RLTweakerASM]: Patch exists for net.minecraft.potion.PotionEffect
+[17:50:47] [main/INFO] [RLTweakerASM]: Writing class net.minecraft.potion.PotionEffect with flags MAXS | FRAMES
+[17:50:47] [main/INFO] [Quark ASM]: Transforming net.minecraft.item.ItemBanner
+[17:50:47] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [appendHoverTextFromTileEntityTag, func_185054_a] Descriptor (Lnet/minecraft/item/ItemStack;Ljava/util/List;)V)
+[17:50:47] [main/INFO] [Quark ASM]: Failed to locate the method!
+[17:50:47] [main/INFO] [Meson ASM]: Transforming ItemChorusFruit
+[17:50:47] [main/INFO] [Meson ASM]: Applying Transformation to method (Names [onItemUseFinish, func_77654_b, a] Descriptor (Lnet/minecraft/item/ItemStack;Lnet/minecraft/world/World;Lnet/minecraft/entity/EntityLivingBase;)Lnet/minecraft/item/ItemStack; / (Laip;Lamu;Lvp;)Laip;)
+[17:50:47] [main/INFO] [Meson ASM]: Located method, patching...
+[17:50:47] [main/INFO] [Meson ASM]: Located target IFNE L0
+[17:50:47] [main/INFO] [Meson ASM]: Patch result: true
+[17:50:47] [main/INFO] [RLTweakerASM]: Patch exists for net.minecraft.entity.ai.attributes.AttributeMap
+[17:50:47] [main/INFO] [RLTweakerASM]: Writing class net.minecraft.entity.ai.attributes.AttributeMap with flags MAXS | FRAMES
+[17:50:47] [main/INFO] [RLTweakerASM]: Patch exists for net.minecraft.pathfinding.PathNavigate
+[17:50:47] [main/INFO] [RLTweakerASM]: Writing class net.minecraft.pathfinding.PathNavigate with flags MAXS
+[17:50:47] [main/INFO] [Quark ASM]: Transforming net.minecraft.entity.ai.EntityAITarget
+[17:50:47] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [isSuitableTarget, func_179445_a] Descriptor (Lnet/minecraft/entity/EntityLiving;Lnet/minecraft/entity/EntityLivingBase;ZZ)Z)
+[17:50:47] [main/INFO] [Quark ASM]: Located Method, patching...
+[17:50:47] [main/INFO] [Quark ASM]: Patch result: true
+[17:50:47] [main/INFO] [RLTweakerASM]: Patch exists for net.minecraft.entity.monster.EntityMob
+[17:50:47] [main/INFO] [RLTweakerASM]: Writing class net.minecraft.entity.monster.EntityMob with flags MAXS
+[17:50:47] [main/INFO] [STDOUT]: [com.pg85.otg.forge.asm.excluded.OTGClassTransformer:transform:91]: OTG-Core transforming: net.minecraft.entity.projectile.EntityShulkerBullet : aer
+[17:50:47] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:101]: Added INTERFACE: pl/asie/foamfix/api/IFoamFixMobSpawnerLogic
+[17:50:47] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:114]: Spliced in METHOD: net.minecraft.tileentity.MobSpawnerBaseLogic.func_98279_f
+[17:50:47] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:165]: Added FIELD: net.minecraft.tileentity.MobSpawnerBaseLogic.foamfix_activatedCache
+[17:50:47] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:165]: Added FIELD: net.minecraft.tileentity.MobSpawnerBaseLogic.foamfix_activatedCachePESize
+[17:50:47] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:165]: Added FIELD: net.minecraft.tileentity.MobSpawnerBaseLogic.foamfix_activatedCacheTime
+[17:50:47] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:165]: Added FIELD: net.minecraft.tileentity.MobSpawnerBaseLogic.foamfix_forcedCache
+[17:50:47] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:165]: Added FIELD: net.minecraft.tileentity.MobSpawnerBaseLogic.foamfix_forcedCacheTime
+[17:50:47] [main/INFO] [RLTweakerASM]: Patch exists for net.minecraft.pathfinding.PathNavigate
+[17:50:47] [main/INFO] [RLTweakerASM]: Writing class net.minecraft.pathfinding.PathNavigate with flags MAXS
+[17:50:48] [main/INFO] [STDOUT]: [com.pg85.otg.forge.asm.excluded.OTGClassTransformer:transform:91]: OTG-Core transforming: net.minecraft.entity.projectile.EntityLlamaSpit : aeo
+[17:50:48] [main/INFO] [RLTweakerASM]: Patch exists for net.minecraft.entity.passive.EntityVillager$ListEnchantedBookForEmeralds
+[17:50:48] [main/INFO] [RLTweakerASM]: Writing class net.minecraft.entity.passive.EntityVillager$ListEnchantedBookForEmeralds with flags MAXS
+[17:50:48] [main/INFO] [Quark ASM]: Transforming net.minecraft.item.crafting.RecipesBanners$RecipeAddPattern
+[17:50:48] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [matches, func_77569_a] Descriptor (Lnet/minecraft/inventory/InventoryCrafting;Lnet/minecraft/world/World;)Z)
+[17:50:48] [main/INFO] [Quark ASM]: Located Method, patching...
+[17:50:48] [main/INFO] [Quark ASM]: Located patch target node INVOKESTATIC net/minecraft/tileentity/TileEntityBanner.func_175113_c (Lnet/minecraft/item/ItemStack;)I
+[17:50:48] [main/INFO] [Quark ASM]: Patch result: true
+[17:50:48] [main/INFO] [FermiumASM]: Improving FurnaceRecipes. Lookups are now a lot faster.
+[17:50:48] [main/INFO] [Quark ASM]: Transforming net.minecraft.inventory.ContainerMerchant
+[17:50:48] [main/INFO] [Quark ASM]: Applying Transformation to method (Names [transferStackInSlot, func_82846_b] Descriptor (Lnet/minecraft/entity/player/EntityPlayer;I)Lnet/minecraft/item/ItemStack;)
+[17:50:48] [main/INFO] [Quark ASM]: Located Method, patching...
+[17:50:48] [main/INFO] [Quark ASM]: Located patch target node INVOKEVIRTUAL net/minecraft/inventory/ContainerMerchant.func_75135_a (Lnet/minecraft/item/ItemStack;IIZ)Z
+[17:50:48] [main/INFO] [Quark ASM]: Located patch target node INVOKEVIRTUAL net/minecraft/inventory/ContainerMerchant.func_75135_a (Lnet/minecraft/item/ItemStack;IIZ)Z
+[17:50:48] [main/INFO] [Quark ASM]: Located patch target node INVOKEVIRTUAL net/minecraft/inventory/ContainerMerchant.func_75135_a (Lnet/minecraft/item/ItemStack;IIZ)Z
+[17:50:48] [main/INFO] [Quark ASM]: Located patch target node INVOKEVIRTUAL net/minecraft/inventory/ContainerMerchant.func_75135_a (Lnet/minecraft/item/ItemStack;IIZ)Z
+[17:50:48] [main/INFO] [Quark ASM]: Patch result: true
+[17:50:48] [main/INFO] [Meson ASM]: Transforming ContainerFurnace
+[17:50:48] [main/INFO] [Meson ASM]: Applying Transformation to method (Names [<init>, <init>, ] Descriptor (Lnet/minecraft/entity/player/InventoryPlayer;Lnet/minecraft/inventory/IInventory;)V / (Laec;Ltv;)V)
+[17:50:48] [main/INFO] [Meson ASM]: Located method, patching...
+[17:50:48] [main/INFO] [Meson ASM]: Located target NEW agr
+[17:50:48] [main/INFO] [Meson ASM]: Patch result: true
+[17:50:48] [main/INFO] [Meson ASM]: Applying Transformation to method (Names [<init>, <init>, ] Descriptor (Lnet/minecraft/entity/player/InventoryPlayer;Lnet/minecraft/inventory/IInventory;)V / (Laec;Ltv;)V)
+[17:50:48] [main/INFO] [Meson ASM]: Located method, patching...
+[17:50:48] [main/INFO] [Meson ASM]: Located target INVOKESPECIAL agr.<init> (Ltv;III)V
+[17:50:48] [main/INFO] [Meson ASM]: Patch result: true
+[17:50:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting minecraft server version 1.12.2
+[17:50:48] [Server thread/INFO] [FML]: MinecraftForge v14.23.5.2860 Initialized
+[17:50:49] [Server thread/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
+[17:50:49] [Server thread/INFO] [FML]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
+[17:50:49] [Server thread/INFO] [FML]: Replaced 1227 ore ingredients
+[17:50:49] [Server thread/INFO] [RLTweakerASM]: Patch exists for net.minecraftforge.common.ForgeHooks
+[17:50:49] [Server thread/INFO] [RLTweakerASM]: Writing class net.minecraftforge.common.ForgeHooks with flags MAXS
+[17:50:49] [Server thread/WARN] [FML]: Enabling removal of erroring Entities - USE AT YOUR OWN RISK
+[17:50:49] [Server thread/WARN] [FML]: Enabling removal of erroring Tile Entities - USE AT YOUR OWN RISK
+[17:50:49] [Server thread/INFO] [FML]: Searching /workspaces/mcserver/server/./mods for mods
+[17:50:49] [Server thread/INFO] [FML]: Searching /workspaces/mcserver/server/./mods/1.12.2 for mods
+[17:50:49] [Server thread/INFO] [FML]: Disabling mod bhmenu it is client side only.
+[17:50:49] [Server thread/INFO] [FML]: Disabling mod antiqueatlasoverlay it is client side only.
+[17:50:49] [Server thread/INFO] [FML]: Disabling mod betterbiomeblend it is client side only.
+[17:50:49] [Server thread/WARN] [FML]: Mod bettermineshafts is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.12.2-2.2.1
+[17:50:49] [Server thread/INFO] [FML]: Disabling mod bhmenu it is client side only.
+[17:50:50] [Server thread/WARN] [FML]: Mod cd4017be_lib is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 6.5.1
+[17:50:50] [Server thread/INFO] [FML]: Disabling mod chunkanimator it is client side only.
+[17:50:50] [Server thread/INFO] [FML]: Disabling mod controlling it is client side only.
+[17:50:50] [Server thread/WARN] [FML]: Mod craftablechainmail is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.0
+[17:50:50] [Server thread/INFO] [FML]: Disabling mod ctgui it is client side only.
+[17:50:50] [Server thread/WARN] [FML]: Mod dynamictreesdefiledlands is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.12.2-1.0.0
+[17:50:50] [Server thread/INFO] [FML]: Disabling mod enchdesc it is client side only.
+[17:50:50] [Server thread/INFO] [FML]: Disabling mod fbp it is client side only.
+[17:50:51] [Server thread/WARN] [FML]: Mod fancymenu is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 2.14.9
+[17:50:51] [Server thread/INFO] [FML]: Disabling mod googlyeyes it is client side only.
+[17:50:51] [Server thread/WARN] [FML]: Mod helpfixer is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.12.1-1.5.18
+[17:50:51] [Server thread/WARN] [FML]: Mod konkrete is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.6.1
+[17:50:51] [Server thread/INFO] [FML]: Disabling mod legendarytooltips it is client side only.
+[17:50:52] [Server thread/INFO] [FML]: Disabling mod loadingscreens it is client side only.
+[17:50:52] [Server thread/WARN] [FML]: Mod mobends is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.2.1
+[17:50:52] [Server thread/INFO] [FML]: Disabling mod mousetweaks it is client side only.
+[17:50:52] [Server thread/INFO] [FML]: Disabling mod neat it is client side only.
+[17:50:52] [Server thread/INFO] [FML]: Disabling mod particleculling it is client side only.
+[17:50:52] [Server thread/INFO] [FML]: Mod playerbosses is missing the required element 'name'. Substituting playerbosses
+[17:50:52] [Server thread/WARN] [FML]: Mod playerbosses is missing the required element 'version' and no fallback can be found. Substituting '1.0'.
+[17:50:52] [Server thread/INFO] [FML]: Disabling mod potiondescriptions it is client side only.
+[17:50:52] [Server thread/WARN] [FML]: Mod reachfix is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.0.10
+[17:50:52] [Server thread/INFO] [FML]: Disabling mod resourceloader it is client side only.
+[17:50:52] [Server thread/INFO] [FML]: Disabling mod betterfoliage it is client side only.
+[17:50:53] [Server thread/INFO] [FML]: Disabling mod soundfilters it is client side only.
+[17:50:53] [Server thread/INFO] [FML]: Disabling mod spartanhudbaubles it is client side only.
+[17:50:53] [Server thread/INFO] [FML]: Disabling mod toastcontrol it is client side only.
+[17:50:53] [Server thread/WARN] [FML]: Mod dimstack is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 0.1.9
+[17:50:53] [Server thread/WARN] [FML]: Mod waystones is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 4.1.0
+[17:50:53] [Server thread/INFO] [FML]: Disabling mod dshuds it is client side only.
+[17:50:53] [Server thread/INFO] [FML]: Forge Mod Loader has identified 178 mods to load
+[17:50:53] [Server thread/WARN] [FML]: Missing English translation for FML: assets/fml/lang/en_us.lang
+[17:50:53] [Server thread/WARN] [FML]: Missing English translation for fermiumbooter: assets/fermiumbooter/lang/en_us.lang
+[17:50:53] [Server thread/WARN] [FML]: Missing English translation for aireducer: assets/aireducer/lang/en_us.lang
+[17:50:53] [Server thread/WARN] [FML]: Missing English translation for alcatrazcore: assets/alcatrazcore/lang/en_us.lang
+[17:50:53] [Server thread/WARN] [FML]: Missing English translation for antiquecities: assets/antiquecities/lang/en_us.lang
+[17:50:53] [Server thread/WARN] [FML]: Missing English translation for anvilpatch: assets/anvilpatch/lang/en_us.lang
+[17:50:53] [Server thread/WARN] [FML]: Missing English translation for attributefix: assets/attributefix/lang/en_us.lang
+[17:50:53] [Server thread/WARN] [FML]: Missing English translation for bedbreakbegone: assets/bedbreakbegone/lang/en_us.lang
+[17:50:53] [Server thread/WARN] [FML]: Missing English translation for bettercaves: assets/bettercaves/lang/en_us.lang
+[17:50:53] [Server thread/WARN] [FML]: Missing English translation for bettermineshafts: assets/bettermineshafts/lang/en_us.lang
+[17:50:53] [Server thread/WARN] [FML]: Missing English translation for collisiondamage: assets/collisiondamage/lang/en_us.lang
+[17:50:53] [Server thread/WARN] [FML]: Missing English translation for contenttweaker: assets/contenttweaker/lang/en_us.lang
+[17:50:53] [Server thread/WARN] [FML]: Missing English translation for crafttweakerjei: assets/crafttweakerjei/lang/en_us.lang
+[17:50:53] [Server thread/WARN] [FML]: Missing English translation for crafttweakerutils: assets/crafttweakerutils/lang/en_us.lang
+[17:50:53] [Server thread/WARN] [FML]: Missing English translation for ctintegration: assets/ctintegration/lang/en_us.lang
+[17:50:53] [Server thread/WARN] [FML]: Missing English translation for dldungeonsjbg: assets/dldungeonsjbg/lang/en_us.lang
+[17:50:53] [Server thread/WARN] [FML]: Missing English translation for dregorarl: assets/dregorarl/lang/en_us.lang
+[17:50:53] [Server thread/WARN] [FML]: Missing English translation for editableedibles: assets/editableedibles/lang/en_us.lang
+[17:50:53] [Server thread/WARN] [FML]: Missing English translation for enhancedvisuals: assets/enhancedvisuals/lang/en_us.lang
+[17:50:53] [Server thread/WARN] [FML]: Missing English translation for epicsiegemod: assets/epicsiegemod/lang/en_us.lang
+[17:50:53] [Server thread/WARN] [FML]: Missing English translation for fancymenu: assets/fancymenu/lang/en_us.lang
+[17:50:53] [Server thread/WARN] [FML]: Missing English translation for foamfix: assets/foamfix/lang/en_us.lang
+[17:50:53] [Server thread/WARN] [FML]: Missing English translation for forgeendertech: assets/forgeendertech/lang/en_us.lang
+[17:50:53] [Server thread/WARN] [FML]: Missing English translation for forgelin: assets/forgelin/lang/en_us.lang
+[17:50:53] [Server thread/WARN] [FML]: Missing English translation for framevoidpatch: assets/framevoidpatch/lang/en_us.lang
+[17:50:53] [Server thread/WARN] [FML]: Missing English translation for friendlyendermite: assets/friendlyendermite/lang/en_us.lang
+[17:50:53] [Server thread/WARN] [FML]: Missing English translation for fxcontrol: assets/fxcontrol/lang/en_us.lang
+[17:50:53] [Server thread/WARN] [FML]: Missing English translation for helpfixer: assets/helpfixer/lang/en_us.lang
+[17:50:53] [Server thread/WARN] [FML]: Missing English translation for incontrol: assets/incontrol/lang/en_us.lang
+[17:50:53] [Server thread/WARN] [FML]: Missing English translation for itlt: assets/itlt/lang/en_us.lang
+[17:50:53] [Server thread/WARN] [FML]: Missing English translation for konkrete: assets/konkrete/lang/en_us.lang
+[17:50:53] [Server thread/WARN] [FML]: Missing English translation for lagbgonrevived: assets/lagbgonrevived/lang/en_us.lang
+[17:50:53] [Server thread/WARN] [FML]: Missing English translation for librarianliblate: assets/librarianliblate/lang/en_us.lang
+[17:50:53] [Server thread/WARN] [FML]: Missing English translation for mantle: assets/mantle/lang/en_us.lang
+[17:50:53] [Server thread/WARN] [FML]: Missing English translation for materialtweaker: assets/materialtweaker/lang/en_us.lang
+[17:50:53] [Server thread/WARN] [FML]: Missing English translation for modtweaker: assets/modtweaker/lang/en_us.lang
+[17:50:53] [Server thread/WARN] [FML]: Missing English translation for mtlib: assets/mtlib/lang/en_us.lang
+[17:50:53] [Server thread/WARN] [FML]: Missing English translation for multimine: assets/multimine/lang/en_us.lang
+[17:50:53] [Server thread/WARN] [FML]: Missing English translation for placebo: assets/placebo/lang/en_us.lang
+[17:50:53] [Server thread/WARN] [FML]: Missing English translation for playerbosses: assets/playerbosses/lang/en_us.lang
+[17:50:53] [Server thread/WARN] [FML]: Missing English translation for portaldupebegone: assets/portaldupebegone/lang/en_us.lang
+[17:50:53] [Server thread/WARN] [FML]: Missing English translation for reachfix: assets/reachfix/lang/en_us.lang
+[17:50:53] [Server thread/WARN] [FML]: Missing English translation for bettercombatmod: assets/bettercombatmod/lang/en_us.lang
+[17:50:53] [Server thread/WARN] [FML]: Missing English translation for rltweaker: assets/rltweaker/lang/en_us.lang
+[17:50:53] [Server thread/WARN] [FML]: Missing English translation for sit: assets/sit/lang/en_us.lang
+[17:50:54] [Server thread/WARN] [FML]: Missing English translation for spark: assets/spark/lang/en_us.lang
+[17:50:54] [Server thread/WARN] [FML]: Missing English translation for surge: assets/surge/lang/en_us.lang
+[17:50:54] [Server thread/WARN] [FML]: Missing English translation for tschipplib: assets/tschipplib/lang/en_us.lang
+[17:50:54] [Server thread/WARN] [FML]: Missing English translation for underneath: assets/underneath/lang/en_us.lang
+[17:50:54] [Server thread/WARN] [FML]: Missing English translation for xpfromharvest: assets/xpfromharvest/lang/en_us.lang
+[17:50:54] [Server thread/WARN] [FML]: Missing English translation for yungslaw: assets/yungslaw/lang/en_us.lang
+[17:50:54] [Server thread/WARN] [FML]: Missing English translation for phosphor-lighting: assets/phosphor-lighting/lang/en_us.lang
+[17:50:54] [Server thread/INFO] [FML]: FML has found a non-mod file betterbiomeblend-1.12.2-1.1.7-forge.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+[17:50:54] [Server thread/INFO] [FML]: FML has found a non-mod file BHMenu-Forge-1.12.2-2.4.3.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+[17:50:54] [Server thread/INFO] [FML]: FML has found a non-mod file Born In A Barn 1.8-1.12-1.2.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+[17:50:54] [Server thread/INFO] [FML]: FML has found a non-mod file ChunkAnimator-1.12.2-1.2.1.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+[17:50:54] [Server thread/INFO] [FML]: FML has found a non-mod file Controlling-3.0.12.4.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+[17:50:54] [Server thread/INFO] [FML]: FML has found a non-mod file EnchantmentDescriptions-1.12.2-1.1.20.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+[17:50:54] [Server thread/INFO] [FML]: FML has found a non-mod file FancyBlockParticles-1.12.x-2.4.1.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+[17:50:54] [Server thread/INFO] [FML]: FML has found a non-mod file GooglyEyes-1.12.2-7.1.1.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+[17:50:54] [Server thread/INFO] [FML]: FML has found a non-mod file LegendaryTooltips-1.12.2-1.1.11.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+[17:50:54] [Server thread/INFO] [FML]: FML has found a non-mod file LoadingScreens-1.12.2-0.3.1.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+[17:50:54] [Server thread/INFO] [FML]: FML has found a non-mod file MouseTweaks-2.10.1-mc1.12.2.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+[17:50:54] [Server thread/INFO] [FML]: FML has found a non-mod file Neat 1.4-17.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+[17:50:54] [Server thread/INFO] [FML]: FML has found a non-mod file particleculling-1.12.2-v1.4.3.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+[17:50:54] [Server thread/INFO] [FML]: FML has found a non-mod file potiondescriptions-1.12.2-1.2.4.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+[17:50:54] [Server thread/INFO] [FML]: FML has found a non-mod file ResourceLoader-MC1.12.1-1.5.3.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+[17:50:54] [Server thread/INFO] [FML]: FML has found a non-mod file RLFoliage-MC1.12-2.4.2.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+[17:50:54] [Server thread/INFO] [FML]: FML has found a non-mod file SoundFilters-0.12.1_for_1.12.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+[17:50:54] [Server thread/INFO] [FML]: FML has found a non-mod file SpartanHUDBaubles-1.12.2-1.0.0.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+[17:50:54] [Server thread/INFO] [FML]: FML has found a non-mod file Toast Control-1.12.2-1.8.1.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+[17:50:54] [Server thread/INFO] [FML]: FML has found a non-mod file mcjtytools-0.0.21.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+[17:50:54] [Server thread/INFO] [FML]: FML has found a non-mod file DynamicSurroundingsHuds-1.12.2-3.6.0.0.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+[17:50:54] [Server thread/INFO] [FermiumBooter]: FermiumBooter adding "mixins.rlmixins.reforgebinding.json" for late mixin application.
+[17:50:54] [Server thread/INFO] [FermiumBooter]: FermiumBooter adding "mixins.rlmixins.dtleavesworldgen.json" for late mixin application.
+[17:50:54] [Server thread/INFO] [FermiumBooter]: FermiumBooter adding "mixins.rlmixins.educationtweak.json" for late mixin application.
+[17:50:54] [Server thread/INFO] [FermiumBooter]: FermiumBooter adding "mixins.rlmixins.chestboatdupe.json" for late mixin application.
+[17:50:54] [Server thread/INFO] [FermiumBooter]: FermiumBooter adding "mixins.rlmixins.quarkenchantedtooltip.json" for late mixin application.
+[17:50:54] [Server thread/INFO] [FermiumBooter]: FermiumBooter adding "mixins.rlmixins.bqmemleak.json" for late mixin application.
+[17:50:54] [Server thread/INFO] [FermiumBooter]: FermiumBooter adding "mixins.rlmixins.sdrain.json" for late mixin application.
+[17:50:54] [Server thread/INFO] [FermiumBooter]: FermiumBooter adding "mixins.rlmixins.jeibookmark.json" for late mixin application.
+[17:50:54] [Server thread/INFO] [FermiumBooter]: FermiumBooter adding "mixins.rlmixins.cauldronfailure.json" for late mixin application.
+[17:50:54] [Server thread/INFO] [FermiumBooter]: FermiumBooter adding "mixins.rlmixins.betterfoliagecache.json" for late mixin application.
+[17:50:54] [Server thread/INFO] [FermiumBooter]: FermiumBooter adding "mixins.rlmixins.raincollector.json" for late mixin application.
+[17:50:54] [Server thread/INFO] [FermiumBooter]: FermiumBooter adding "mixins.rlmixins.carryonpig.json" for late mixin application.
+[17:50:54] [Server thread/INFO] [FermiumBooter]: FermiumBooter adding "mixins.rlmixins.inspirationscolorcheck.json" for late mixin application.
+[17:50:54] [Server thread/INFO] [FermiumBooter]: FermiumBooter adding "mixins.rlmixins.itemphysiccarryonq.json" for late mixin application.
+[17:50:54] [Server thread/INFO] [FermiumBooter]: FermiumBooter adding "mixins.rlmixins.delayedlaunch.json" for late mixin application.
+[17:50:54] [Server thread/INFO] [FermiumBooter]: FermiumBooter adding "mixins.rlmixins.chatlinkcrash.json" for late mixin application.
+[17:50:54] [Server thread/INFO] [FermiumBooter]: FermiumBooter adding "mixins.rlmixins.chatbubbleoptifine.json" for late mixin application.
+[17:50:54] [Server thread/INFO] [FermiumBooter]: FermiumBooter adding "mixins.rlmixins.dregorarlprogress.json" for late mixin application.
+[17:50:54] [Server thread/INFO] [FermiumBooter]: FermiumBooter adding "mixins.rlmixins.locksguidupe.json" for late mixin application.
+[17:50:54] [Server thread/INFO] [FermiumBooter]: FermiumBooter adding "mixins.rlmixins.trinketsmemusage.json" for late mixin application.
+[17:50:54] [Server thread/INFO] [FermiumBooter]: FermiumBooter adding "mixins.rlmixins.betternetherdoubleslab.json" for late mixin application.
+[17:50:54] [Server thread/INFO] [FermiumBooter]: FermiumBooter adding "mixins.rlmixins.betternethermemleak.json" for late mixin application.
+[17:50:54] [Server thread/INFO] [FermiumBooter]: FermiumBooter adding "mixins.rlmixins.quarkemote.json" for late mixin application.
+[17:50:54] [Server thread/INFO] [FermiumBooter]: FermiumBooter adding "mixins.rlmixins.elenaitick.json" for late mixin application.
+[17:50:54] [Server thread/INFO] [FermiumBooter]: FermiumBooter adding "mixins.rlmixins.mobendsmemleak.json" for late mixin application.
+[17:50:54] [Server thread/INFO] [FermiumBooter]: FermiumBooter adding "mixins.rlmixins.corpsecomplexreturn.json" for late mixin application.
+[17:50:54] [Server thread/INFO] [FermiumBooter]: FermiumBooter adding "mixins.rlmixins.indirectadaption.json" for late mixin application.
+[17:50:54] [Server thread/INFO] [FermiumBooter]: FermiumBooter adding "mixins.rlmixins.alcoholconfig.json" for late mixin application.
+[17:50:54] [Server thread/INFO] [FermiumBooter]: FermiumBooter adding "mixins.rlmixins.quarkcolorizer.json" for late mixin application.
+[17:50:54] [Server thread/INFO] [FermiumBooter]: FermiumBooter adding "mixins.rlmixins.jailer.json" for late mixin application.
+[17:50:54] [Server thread/INFO] [FermiumBooter]: FermiumBooter adding "mixins.rlmixins.waystonename.json" for late mixin application.
+[17:50:54] [Server thread/INFO] [FermiumBooter]: FermiumBooter adding "mixins.rlmixins.carryonpositionfix.json" for late mixin application.
+[17:50:54] [Server thread/INFO] [FermiumBooter]: FermiumBooter adding "mixins.rlmixins.battletowertarget.json" for late mixin application.
+[17:50:54] [Server thread/INFO] [FermiumBooter]: FermiumBooter adding "mixins.rlmixins.infernalparticle.json" for late mixin application.
+[17:50:54] [Server thread/INFO] [FermiumBooter]: FermiumBooter adding "mixins.rlmixins.fishsskeletonking.json" for late mixin application.
+[17:50:54] [Server thread/INFO] [FermiumBooter]: FermiumBooter adding "mixins.rlmixins.quarksignedit.json" for late mixin application.
+[17:50:54] [Server thread/INFO] [FermiumBooter]: FermiumBooter adding "mixins.rlmixins.switchbowquiver.json" for late mixin application.
+[17:50:54] [Server thread/INFO] [FermiumBooter]: FermiumBooter adding "mixins.rlmixins.seedfoodbypass.json" for late mixin application.
+[17:50:54] [Server thread/INFO] [FermiumBooter]: FermiumBooter adding "mixins.rlmixins.sentientscythe.json" for late mixin application.
+[17:50:54] [Server thread/INFO] [FermiumBooter]: FermiumBooter adding "mixins.rlmixins.flaregun.json" for late mixin application.
+[17:50:54] [Server thread/INFO] [FermiumBooter]: FermiumBooter adding "mixins.rlmixins.llamahorsemeat.json" for late mixin application.
+[17:50:54] [Server thread/INFO] [FermiumBooter]: FermiumBooter adding "mixins.rlmixins.serenereflection.json" for late mixin application.
+[17:50:54] [Server thread/INFO] [FermiumBooter]: FermiumBooter adding "mixins.rlmixins.forgottenitemsbound.json" for late mixin application.
+[17:50:54] [Server thread/INFO] [FermiumBooter]: FermiumBooter adding "mixins.rlmixins.cleaverpotion.json" for late mixin application.
+[17:50:54] [Server thread/INFO] [FermiumBooter]: FermiumBooter adding "mixins.rlmixins.lycanitetargetting.json" for late mixin application.
+[17:50:54] [Server thread/INFO] [FermiumBooter]: FermiumBooter adding "mixins.rlmixins.championname.json" for late mixin application.
+[17:50:54] [Server thread/INFO] [FermiumBooter]: FermiumBooter adding "mixins.rlmixins.inspirationsshield.json" for late mixin application.
+[17:50:54] [Server thread/INFO] [FermiumBooter]: FermiumBooter adding "mixins.searchtree_mod.json" for late mixin application.
+[17:50:54] [Server thread/INFO] [FermiumBooter]: FermiumBooter adding "mixins.rlmixins.potionrevival.json" for late mixin application.
+[17:50:54] [Server thread/INFO] [FermiumBooter]: FermiumBooter adding "mixins.rlmixins.veinpickaxe.json" for late mixin application.
+[17:50:54] [Server thread/INFO] [FermiumBooter]: FermiumBooter adding "mixins.rlmixins.lycaniterender.json" for late mixin application.
+[17:50:54] [Server thread/INFO] [FermiumBooter]: FermiumBooter adding "mixins.rlmixins.neatshaders.json" for late mixin application.
+[17:50:54] [Server thread/INFO] [FermiumBooter]: FermiumBooter adding "mixins.rlmixins.bookwyrmlevel.json" for late mixin application.
+[17:50:54] [Server thread/INFO] [FermiumBooter]: FermiumBooter adding "mixins.editableedibles.foodexpansion.json" for late mixin application.
+[17:50:54] [Server thread/INFO] [FermiumBooter]: FermiumBooter adding "mixins.rlmixins.claytoolenchanting.json" for late mixin application.
+[17:50:54] [Server thread/INFO] [FermiumBooter]: FermiumBooter adding "mixins.rlmixins.coffeehangover.json" for late mixin application.
+[17:50:54] [Server thread/INFO] [FermiumBooter]: FermiumBooter adding "mixins.rlmixins.evdeathmessage.json" for late mixin application.
+[17:50:54] [Server thread/INFO] [FermiumBooter]: FermiumBooter adding "mixins.rlmixins.betterfoliagegeometry.json" for late mixin application.
+[17:50:54] [Server thread/INFO] [FermiumBooter]: FermiumBooter adding "mixins.rlmixins.lycanitelowercase.json" for late mixin application.
+[17:50:54] [Server thread/INFO] [FermiumBooter]: FermiumBooter adding "mixins.rlmixins.jeianvil.json" for late mixin application.
+[17:50:54] [Server thread/INFO] [FermiumBooter]: FermiumBooter adding "mixins.rlmixins.stonelingloop.json" for late mixin application.
+[17:50:54] [Server thread/INFO] [FermiumBooter]: FermiumBooter adding "mixins.rlmixins.astikorcheese.json" for late mixin application.
+[17:50:54] [Server thread/INFO] [FermiumBooter]: FermiumBooter adding "mixins.rlmixins.infernalchampions.json" for late mixin application.
+[17:50:54] [Server thread/INFO] [FermiumBooter]: FermiumBooter adding "mixins.rlmixins.undershirt.json" for late mixin application.
+[17:50:54] [Server thread/INFO] [FermiumBooter]: FermiumBooter adding "mixins.rlmixins.mobendsarrowtrail.json" for late mixin application.
+[17:50:54] [Server thread/INFO] [FermiumBooter]: FermiumBooter adding "mixins.rlmixins.magneticdupe.json" for late mixin application.
+[17:50:54] [Server thread/INFO] [FermiumBooter]: FermiumBooter adding "mixins.rlmixins.doubledoors.json" for late mixin application.
+[17:50:54] [Server thread/INFO] [FermiumBooter]: FermiumBooter adding "mixins.rlmixins.smecapremoval.json" for late mixin application.
+[17:50:54] [Server thread/INFO] [FermiumBooter]: FermiumBooter adding "mixins.rlmixins.betternetherdoor.json" for late mixin application.
+[17:50:54] [Server thread/INFO] [FermiumBooter]: FermiumBooter adding "mixins.rlmixins.smetickdynamic.json" for late mixin application.
+[17:50:54] [Server thread/INFO] [FermiumBooter]: FermiumBooter adding "mixins.rlmixins.brokenheart.json" for late mixin application.
+[17:50:54] [Server thread/INFO] [FermiumBooter]: FermiumBooter adding "mixins.rlmixins.dynamictreescache.json" for late mixin application.
+[17:50:54] [Server thread/INFO] [FermiumBooter]: FermiumBooter adding "mixins.rlmixins.sprigganfarmrate.json" for late mixin application.
+[17:50:54] [Server thread/INFO] [FermiumBooter]: FermiumBooter adding "mixins.rlmixins.chickenfeather.json" for late mixin application.
+[17:50:54] [Server thread/INFO] [FermiumBooter]: FermiumBooter adding "mixins.rlmixins.reskillabletracking.json" for late mixin application.
+[17:50:54] [Server thread/INFO] [FermiumBooter]: FermiumBooter adding "mixins.rlmixins.defiledperformance.json" for late mixin application.
+[17:50:54] [Server thread/INFO] [FermiumBooter]: FermiumBooter adding "mixins.rlmixins.infestedsummon.json" for late mixin application.
+[17:50:54] [Server thread/INFO] [FermiumBooter]: FermiumBooter adding "mixins.rlmixins.xatmagicperf.json" for late mixin application.
+[17:50:54] [Server thread/INFO] [FermiumBooter]: FermiumBooter adding "mixins.rlmixins.dshudpotion.json" for late mixin application.
+[17:50:54] [Server thread/INFO] [FermiumBooter]: FermiumBooter adding "mixins.rlmixins.nunchakucombo.json" for late mixin application.
+[17:50:54] [Server thread/INFO] [FermiumBooter]: FermiumBooter adding "mixins.rlmixins.srplightlevel.json" for late mixin application.
+[17:50:54] [Server thread/INFO] [FermiumBooter]: FermiumBooter adding "mixins.rlmixins.parasitearmor.json" for late mixin application.
+[17:50:54] [Server thread/INFO] [FermiumBooter]: FermiumBooter adding "mixins.rlmixins.forgottenitemsrune.json" for late mixin application.
+[17:50:54] [Server thread/INFO] [FermiumBooter]: FermiumBooter adding "mixins.rlmixins.scalinghealthdesync.json" for late mixin application.
+[17:50:54] [Server thread/INFO] [FermiumBooter]: FermiumBooter adding "mixins.rlmixins.chatbubble.json" for late mixin application.
+[17:50:54] [Server thread/INFO] [FermiumBooter]: FermiumBooter adding "mixins.rlmixins.qtlimitmodifier.json" for late mixin application.
+[17:50:54] [Server thread/INFO] [FermiumBooter]: FermiumBooter adding "mixins.rlmixins.lycanitechargeframe.json" for late mixin application.
+[17:50:54] [Server thread/INFO] [FermiumBooter]: FermiumBooter adding "mixins.rlmixins.srpstrangebonestacking.json" for late mixin application.
+[17:50:54] [Server thread/INFO] [FermiumBooter]: FermiumBooter adding "mixins.rlmixins.carryonunlooted.json" for late mixin application.
+[17:50:54] [Server thread/INFO] [FermiumBooter]: FermiumBooter adding "mixins.rlmixins.obsidianskull.json" for late mixin application.
+[17:50:54] [Server thread/INFO] [FermiumBooter]: FermiumBooter adding "mixins.rlmixins.srppacket.json" for late mixin application.
+[17:50:54] [Server thread/INFO] [FermiumBooter]: FermiumBooter adding "mixins.rlmixins.bstickdynamic.json" for late mixin application.
+[17:50:54] [Server thread/INFO] [FermiumBooter]: FermiumBooter adding "mixins.rlmixins.jsonpaintingcrash.json" for late mixin application.
+[17:50:54] [Server thread/INFO] [FermiumBooter]: FermiumBooter adding "mixins.rlmixins.reskillableindirect.json" for late mixin application.
+[17:50:54] [Server thread/INFO] [FermiumBooter]: FermiumBooter adding "mixins.rlmixins.srpbushcascading.json" for late mixin application.
+[17:50:54] [Server thread/INFO] [FermiumBooter]: FermiumBooter adding "mixins.rlmixins.enderwatcherperf.json" for late mixin application.
+[17:50:54] [Server thread/INFO] [FermiumBooter]: FermiumBooter adding "mixins.rlmixins.dtfallingerror.json" for late mixin application.
+[17:50:54] [Server thread/INFO] [FermiumBooter]: FermiumBooter adding "mixins.rlmixins.stalagnatebowl.json" for late mixin application.
+[17:50:54] [Server thread/INFO] [FermiumBooter]: FermiumBooter adding "mixins.rlmixins.toolbeltguidupe.json" for late mixin application.
+[17:50:54] [Server thread/INFO] [FermiumBooter]: FermiumBooter adding "mixins.rlmixins.chunkanimator.json" for late mixin application.
+[17:50:54] [Server thread/INFO] [FermiumBooter]: FermiumBooter adding "mixins.rlmixins.bountifulbaublesshieldfix.json" for late mixin application.
+[17:50:54] [Server thread/INFO] [FermiumBooter]: FermiumBooter adding "mixins.rlmixins.hungryfarmer.json" for late mixin application.
+[17:50:54] [Server thread/INFO] [FermiumBooter]: FermiumBooter adding "mixins.rlmixins.itemreach.json" for late mixin application.
+[17:50:54] [Server thread/INFO] [FermiumBooter]: FermiumBooter adding "mixins.rlmixins.otgguibutton.json" for late mixin application.
+[17:50:54] [Server thread/INFO] [FermiumBooter]: FermiumBooter adding "mixins.rlmixins.dragonbow.json" for late mixin application.
+[17:50:54] [Server thread/INFO] [FermiumBooter]: FermiumBooter adding "mixins.rlmixins.infdragoncheese.json" for late mixin application.
+[17:50:54] [Server thread/INFO] [FermiumBooter]: FermiumBooter adding "mixins.rlmixins.trumpetglutton.json" for late mixin application.
+[17:50:54] [Server thread/INFO] [FermiumBooter]: FermiumBooter adding "mixins.rlmixins.wyrmosmosis.json" for late mixin application.
+[17:50:54] [Server thread/INFO] [FermiumBooter]: FermiumBooter adding "mixins.rlmixins.bsvampirism.json" for late mixin application.
+[17:50:54] [Server thread/INFO] [FermiumBooter]: FermiumBooter adding "mixins.rlmixins.stoneling.json" for late mixin application.
+[17:50:54] [Server thread/INFO] [FermiumBooter]: FermiumBooter adding "mixins.rlmixins.betterfoliagechunkanimator.json" for late mixin application.
+[17:50:54] [Server thread/INFO] [FermiumBooter]: FermiumBooter adding "mixins.rlmixins.bandagedicon.json" for late mixin application.
+[17:50:54] [Server thread/INFO] [FermiumBooter]: FermiumBooter adding "mixins.rlmixins.dummypatch.json" for late mixin application.
+[17:50:54] [Server thread/INFO] [FermiumBooter]: FermiumBooter adding "mixins.rlmixins.scarlitesword.json" for late mixin application.
+[17:50:54] [Server thread/INFO] [FermiumBooter]: FermiumBooter adding "mixins.rlmixins.quarkslime.json" for late mixin application.
+[17:50:54] [Server thread/INFO] [FermiumBooter]: FermiumBooter adding "mixins.rlmixins.rustingnegative.json" for late mixin application.
+[17:50:54] [Server thread/INFO] [FermiumBooter]: FermiumBooter adding "mixins.rlmixins.lavacowaquaspawn.json" for late mixin application.
+[17:50:54] [Server thread/INFO] [FermiumBooter]: FermiumBooter adding "mixins.rlmixins.srpspawningmobspawner.json" for late mixin application.
+[17:50:54] [Server thread/INFO] [FermiumBooter]: FermiumBooter adding "mixins.rlmixins.halfreach.json" for late mixin application.
+[17:50:54] [Server thread/INFO] [FermiumBooter]: FermiumBooter adding "mixins.rlmixins.srpspawning.json" for late mixin application.
+[17:50:54] [Server thread/INFO] [FermiumBooter]: FermiumBooter adding "mixins.rlmixins.disenchantcrash.json" for late mixin application.
+[17:50:54] [Server thread/INFO] [FermiumBooter]: FermiumBooter adding "mixins.rlmixins.bslivingupdate.json" for late mixin application.
+[17:50:54] [Server thread/INFO] [FermiumBooter]: FermiumBooter adding "mixins.rlmixins.cartdistancelimit.json" for late mixin application.
+[17:50:54] [Server thread/INFO] [FermiumBooter]: FermiumBooter adding "mixins.rlmixins.healingsalvereturn.json" for late mixin application.
+[17:50:54] [Server thread/INFO] [FermiumBooter]: FermiumBooter adding "mixins.rlmixins.mattockbreaking.json" for late mixin application.
+[17:50:54] [Server thread/INFO] [FermiumBooter]: FermiumBooter adding "mixins.rlmixins.championpotion.json" for late mixin application.
+[17:50:54] [Server thread/INFO] [FermiumBooter]: FermiumBooter adding "mixins.rlmixins.jeivcerror.json" for late mixin application.
+[17:50:54] [Server thread/INFO] [FermiumBooter]: FermiumBooter adding "mixins.rlmixins.dshudbarometer.json" for late mixin application.
+[17:50:54] [Server thread/INFO] [FermiumBooter]: FermiumBooter adding "mixins.rlmixins.smeoverhaul.json" for late mixin application.
+[17:50:54] [Server thread/INFO] [RLTweakerASM]: Patch exists for vazkii.quark.management.feature.LinkItems
+[17:50:54] [Server thread/INFO] [RLTweakerASM]: Writing class vazkii.quark.management.feature.LinkItems with flags FRAMES
+[17:50:54] [Server thread/INFO] [RLTweakerASM]: Patch exists for com.tmtravlr.potioncore.PotionCoreEventHandler
+[17:50:54] [Server thread/INFO] [RLTweakerASM]: Writing class com.tmtravlr.potioncore.PotionCoreEventHandler with flags MAXS | FRAMES
+[17:50:54] [Server thread/WARN] [mixin]: Error loading class: git/jbredwards/jsonpaintings/common/EventHandler (java.lang.ClassNotFoundException: The specified class 'git.jbredwards.jsonpaintings.common.EventHandler' was not found)
+[17:50:54] [Server thread/WARN] [mixin]: @Mixin target git.jbredwards.jsonpaintings.common.EventHandler was not found mixins.rlmixins.jsonpaintingcrash.json:jsonpainting.EventHandlerMixin
+[17:50:54] [Server console handler/INFO] [STDERR]: [java.lang.ThreadGroup:uncaughtException:1052]: java.io.IOError: java.io.IOException: Error executing 'stty -a': stty: 'standard input': Input/output error
+[17:50:54] [Server console handler/INFO] [STDERR]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at org.jline.terminal.impl.AbstractPosixTerminal.setAttributes(AbstractPosixTerminal.java:54)
+[17:50:54] [Server console handler/INFO] [STDERR]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at org.jline.reader.impl.LineReaderImpl.readLine(LineReaderImpl.java:592)
+[17:50:54] [Server console handler/INFO] [STDERR]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at org.jline.reader.impl.LineReaderImpl.readLine(LineReaderImpl.java:390)
+[17:50:54] [Server console handler/INFO] [STDERR]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at net.minecraftforge.server.console.TerminalHandler.handleCommands(TerminalHandler.java:61)
+[17:50:54] [Server console handler/INFO] [STDERR]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at net.minecraft.server.dedicated.DedicatedServer$2.run(DedicatedServer.java:99)
+[17:50:54] [Server console handler/INFO] [STDERR]: [java.lang.ThreadGroup:uncaughtException:1061]: Caused by: java.io.IOException: Error executing 'stty -a': stty: 'standard input': Input/output error
+[17:50:54] [Server console handler/INFO] [STDERR]: [java.lang.ThreadGroup:uncaughtException:1061]: 	at org.jline.utils.ExecHelper.exec(ExecHelper.java:42)
+[17:50:54] [Server console handler/INFO] [STDERR]: [java.lang.ThreadGroup:uncaughtException:1061]: 	at org.jline.terminal.impl.ExecPty.doGetConfig(ExecPty.java:175)
+[17:50:54] [Server console handler/INFO] [STDERR]: [java.lang.ThreadGroup:uncaughtException:1061]: 	at org.jline.terminal.impl.ExecPty.getAttr(ExecPty.java:87)
+[17:50:54] [Server console handler/INFO] [STDERR]: [java.lang.ThreadGroup:uncaughtException:1061]: 	at org.jline.terminal.impl.ExecPty.setAttr(ExecPty.java:93)
+[17:50:54] [Server console handler/INFO] [STDERR]: [java.lang.ThreadGroup:uncaughtException:1061]: 	at org.jline.terminal.impl.AbstractPosixTerminal.setAttributes(AbstractPosixTerminal.java:52)
+[17:50:54] [Server console handler/INFO] [STDERR]: [java.lang.ThreadGroup:uncaughtException:1061]: 	... 4 more
+[17:50:54] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server

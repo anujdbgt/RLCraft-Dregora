@@ -1,0 +1,11 @@
+RLCraft_DecentWitch,-1287,-1287,1611,1611
+RLCraft_UndergroundRuin2,-1292,-1285,1606,1616
+RLCraft_SmallUndergroundSkeleton,-1364,-1356,1723,1731
+RLCraft_DecentSpider,-1137,-1137,1569,1569
+RLCraft_UndergroundRuin2,-1142,-1132,1567,1574
+UndergroundTreeoid,-1388,-1365,1584,1610
+RLCraft_SmallUndergroundSkeleton,-1317,-1309,1537,1545
+ShrineSmallAir,-1152,-1144,2041,2049
+P_MayanTemple4,-1499,-1401,1936,2034
+P_WitchDungeon,-1407,-1373,1899,1916
+StonePlantMound1,-1508,-1502,1603,1609
