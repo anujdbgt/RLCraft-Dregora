@@ -1,7 +1,0 @@
-StoneLeafMound,-1479,-1472,556,565
-BlazeSpawnerCrystal,-1348,-1342,513,519
-StonePlantBoulder,-1498,-1488,542,552
-RLCraft_UndergroundFarm,-1315,-1273,701,744
-RLCraft_BasicZombie,-1525,-1525,741,741
-RLCraft_UndergroundRuin1,-1528,-1519,735,744
-StonePlantBoulder,-1100,-1090,946,956

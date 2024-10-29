@@ -1,8 +1,0 @@
-RLCraft_AgentStarbuck_WaterBase,-2394,-2377,415,427
-RLCraft_DecentSpider,-2377,-2377,166,166
-RLCraft_UndergroundRuin3,-2380,-2372,164,172
-P_SmallShip,-2335,-2315,92,98
-ShrineSmallAir,-2293,-2285,193,201
-RLCraft_DecentWitch,-2259,-2259,-28,-28
-RLCraft_UndergroundRuin3,-2265,-2257,-31,-23
-ShrineSmallAir,-2150,-2142,122,130

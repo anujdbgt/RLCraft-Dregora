@@ -1,0 +1,2 @@
+StonePlantBoulder,-1062,-1052,-2502,-2492
+StonePlantMound2,-1224,-1212,-2400,-2387

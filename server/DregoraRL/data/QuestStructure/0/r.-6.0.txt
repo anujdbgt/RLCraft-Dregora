@@ -1,0 +1,8 @@
+RLCraft_DecentCaveSpider,-3108,-3108,243,243
+RLCraft_UndergroundRuin2,-3113,-3106,238,248
+StonePlantMound2,-3114,-3102,282,295
+UndergroundCrypt,-3142,-3114,217,231
+StonePlantMound2,-3161,-3149,303,316
+StoneLeafMound,-3175,-3166,161,168
+RLCraft_DecentZombie,-3174,-3174,104,104
+RLCraft_UndergroundRuin2,-3179,-3169,99,106

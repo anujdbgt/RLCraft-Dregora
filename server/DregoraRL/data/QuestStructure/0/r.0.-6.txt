@@ -1,0 +1,13 @@
+RLCraft_DecentZombie,-46,-46,-3082,-3082
+RLCraft_UndergroundRuin3,-49,-41,-3088,-3080
+BrickHenge,-67,-51,-3089,-3073
+StoneLeafMound,-69,-60,-3110,-3103
+StoneLeafMound,-96,-89,-3094,-3085
+StoneBoulder,-162,-153,-3118,-3109
+RLCraft_SmallUndergroundSkeleton,-305,-297,-3079,-3071
+StonePlantMound,117,122,-3145,-3140
+StoneLeafMound,-312,-303,-3127,-3120
+GiganticTree1,-320,-257,-3268,-3190
+StonePlantMound4,-335,-328,-3179,-3172
+StoneBoulder,-452,-443,-3095,-3086
+OldWatchtower,-473,-460,-3096,-3084

@@ -1,4 +1,0 @@
-RLCraft_BasicZombie,410,410,-371,-371
-RLCraft_UndergroundRuin1,404,413,-374,-365
-ShrineSmallAir,-423,-415,-477,-469
-RLCraft_SmallUndergroundSkeleton,-204,-196,506,514

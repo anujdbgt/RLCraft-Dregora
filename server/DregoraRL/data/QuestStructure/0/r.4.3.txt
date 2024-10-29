@@ -1,0 +1,15 @@
+RLCraft_SmallUndergroundSkeleton,2417,2425,1632,1640
+IceThorn1,2406,2422,1719,1740
+ShrineSmallAir,2384,2392,1728,1736
+RLCraft_BasicWitch,2336,2336,1641,1641
+RLCraft_UndergroundRuin1,2333,2342,1638,1647
+WoodWallRemains,2537,2565,1786,1794
+RLCraft_BasicWitch,2290,2290,1644,1644
+RLCraft_UndergroundRuin1,2287,2296,1638,1647
+IceThorn3,2549,2563,1802,1816
+P_Tent,2352,2361,1842,1851
+ShrineSmallFire,2193,2203,1820,1830
+RLCraft_SmallUndergroundSkeleton,2358,2366,1880,1888
+RLCraft_BasicCaveSpider,2490,2490,1898,1898
+RLCraft_UndergroundRuin1,2487,2496,1895,1904
+RLCraft_LargeUndergroundTown,2391,2504,1919,2056

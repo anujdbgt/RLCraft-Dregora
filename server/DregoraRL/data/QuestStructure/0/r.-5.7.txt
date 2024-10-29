@@ -1,0 +1,13 @@
+StoneLeafMound,-2966,-2957,3581,3588
+StonePlantMound3,-3016,-3007,3598,3609
+StoneBoulder,-3064,-3055,3595,3604
+StonePlantBoulder,-2948,-2938,3594,3604
+StoneLeafMound,-2855,-2846,3607,3614
+WoodThorn,-2986,-2975,3639,3650
+DinosaurSkeleton,-3073,-3027,3661,3670
+StonePlantBoulder,-2971,-2961,3656,3666
+StonePlantMound4,-3008,-3001,3690,3697
+RLCraft_BasicZombie,-2982,-2982,3742,3742
+RLCraft_UndergroundRuin1,-2988,-2979,3736,3745
+StonePlantBoulder,-3025,-3015,3807,3817
+SmallWoodenCottage1,-3013,-3007,3876,3887
