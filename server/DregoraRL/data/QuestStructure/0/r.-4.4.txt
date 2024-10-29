@@ -36,3 +36,5 @@ StonePlantMound2,-2447,-2435,2524,2537
 RLCraft_DecentZombie,-2294,-2294,2528,2528
 RLCraft_UndergroundRuin3,-2300,-2292,2525,2533
 StoneLeafMound,-2526,-2519,2547,2556
+ClayWaterMound,-2293,-2286,2541,2549
+RLCraft_SmallUndergroundSkeleton,-2104,-2096,2496,2504

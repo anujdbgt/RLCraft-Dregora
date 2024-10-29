@@ -1,0 +1,3 @@
+RLCraft_SmallUndergroundSkeleton,-2015,-2007,2959,2967
+RLCraft_SmallUndergroundSkeleton,-1994,-1986,2786,2794
+PirateChest,-1939,-1935,2814,2818
