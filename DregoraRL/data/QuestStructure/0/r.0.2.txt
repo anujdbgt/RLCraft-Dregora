@@ -27,3 +27,6 @@ StonePlantMound1,-479,-473,1334,1340
 StoneLeafMound,-496,-489,1362,1371
 StonePlantMound4,-478,-471,1388,1395
 StoneBoulder,-356,-347,1393,1402
+StoneLeafMound,-349,-340,1444,1451
+StonePlantBoulder,-282,-272,1523,1533
+StonePlantBoulder,-406,-396,1455,1465

@@ -1,24 +1,24 @@
 [PREINITIALIZATION][SERVER][INFO] Thank you to the Patreon supporters below and others who make CraftTweaker possible!
-Jessie Sims
-Zuniroa
-Jellycraft
-DreamThorn
-Quaternary
-Ncc1702
-NickT
-NerdyWhiteGuy
-embeddedt
-Genryu
-Spencer Gilbert
-Hooley
-Jonathan McManus
-Phillip Swearingain
-Belathus
-Pongo Sapiens
-Peregrinus11
-Jordan Pineo
-Lucas
 Ivy_
+Jonathan McManus
+Spencer Gilbert
+NickT
+Belathus
+Hooley
+Peregrinus11
+Pongo Sapiens
+DreamThorn
+Ncc1702
+Zuniroa
+Phillip Swearingain
+Jellycraft
+Lucas
+Jessie Sims
+Jordan Pineo
+Quaternary
+Genryu
+embeddedt
+NerdyWhiteGuy
 If you want to support the mod, checkout https://patreon.com/jaredlll08?s=crtmod
 
 [PREINITIALIZATION][SERVER][INFO] Current loaders after merging: [[preinit]]
@@ -41,7 +41,7 @@ If you want to support the mod, checkout https://patreon.com/jaredlll08?s=crtmod
 [PREINITIALIZATION][SERVER][INFO] [preinit | SIDE_SERVER]: Skipping file {[0:crafttweaker]: Shiv.zs} as we are currently loading with a different loader
 [PREINITIALIZATION][SERVER][INFO] [preinit | SIDE_SERVER]: Skipping file {[0:crafttweaker]: Shiv2.zs} as we are currently loading with a different loader
 [PREINITIALIZATION][SERVER][INFO] [preinit | SIDE_SERVER]: Skipping file {[0:contenttweaker]: why.zs} as we are currently loading with a different loader
-[PREINITIALIZATION][SERVER][INFO] Completed script loading in: 196ms
+[PREINITIALIZATION][SERVER][INFO] Completed script loading in: 152ms
 [PREINITIALIZATION][SERVER][INFO] Current loaders after merging: [[preinit], [contenttweaker]]
 [PREINITIALIZATION][SERVER][INFO] Loading scripts for loader with names [contenttweaker]
 [PREINITIALIZATION][SERVER][INFO] [contenttweaker | SIDE_SERVER]: Skipping file {[0:crafttweaker]: Dregora.zs} as we are currently loading with a different loader
@@ -62,7 +62,7 @@ If you want to support the mod, checkout https://patreon.com/jaredlll08?s=crtmod
 [PREINITIALIZATION][SERVER][INFO] [contenttweaker | SIDE_SERVER]: Skipping file {[0:crafttweaker]: Shiv.zs} as we are currently loading with a different loader
 [PREINITIALIZATION][SERVER][INFO] [contenttweaker | SIDE_SERVER]: Skipping file {[0:crafttweaker]: Shiv2.zs} as we are currently loading with a different loader
 [PREINITIALIZATION][SERVER][INFO] [contenttweaker | SIDE_SERVER]: Loading Script: {[0:contenttweaker]: why.zs}
-[PREINITIALIZATION][SERVER][INFO] Completed script loading in: 58ms
+[PREINITIALIZATION][SERVER][INFO] Completed script loading in: 43ms
 [INITIALIZATION][SERVER][INFO] CraftTweaker: Building registry
 [INITIALIZATION][SERVER][INFO] CraftTweaker: Successfully built item registry
 [INITIALIZATION][SERVER][INFO] Current loaders after merging: [[preinit], [contenttweaker], [recipeevent | crafttweaker]]
@@ -1551,7 +1551,7 @@ If you want to support the mod, checkout https://patreon.com/jaredlll08?s=crtmod
 [INITIALIZATION][SERVER][INFO] Altering Cauldron Brewing Recipe(s) for "rlmixins:curse_break"
 [INITIALIZATION][SERVER][INFO] Script ending!
 [INITIALIZATION][SERVER][INFO] [crafttweaker | SIDE_SERVER]: Skipping file {[0:contenttweaker]: why.zs} as we are currently loading with a different loader
-[INITIALIZATION][SERVER][INFO] Completed script loading in: 735ms
+[INITIALIZATION][SERVER][INFO] Completed script loading in: 514ms
 [POSTINITIALIZATION][SERVER][INFO] Removing recipes for various outputs
 [POSTINITIALIZATION][SERVER][INFO] Removing recipe with name "minecraft:bread"
 [POSTINITIALIZATION][SERVER][INFO] Removing recipe with name "minecraft:stone_brick_slab"
@@ -2605,59 +2605,3 @@ If you want to support the mod, checkout https://patreon.com/jaredlll08?s=crtmod
 [SERVER_ABOUT_TO_START][SERVER][INFO] Added new pool builder to table loottweaker:buildertable
 [SERVER_ABOUT_TO_START][SERVER][INFO] Added new pool basement to table loottweaker:lostcitybasement
 [SERVER_ABOUT_TO_START][SERVER][INFO] Added new pool common to table loottweaker:lostcitycommon
-[SERVER_STARTED][SERVER][ERROR] Index: 0, Size: 0
-java.lang.IndexOutOfBoundsException: Index: 0, Size: 0
-	at java.util.ArrayList.rangeCheck(ArrayList.java:659)
-	at java.util.ArrayList.get(ArrayList.java:435)
-	at CrafttweakerDregora7.handle(Dregora.zs:630)
-	at CrafttweakerDregora7.handle(Dregora.zs)
-	at crafttweaker.util.EventList.publish(EventList.java:51)
-	at crafttweaker.api.event.MTEventManager.publishEntityLivingDeath(MTEventManager.java:653)
-	at crafttweaker.mc1120.events.CommonEventHandler.onEntityLivingDeathEvent(CommonEventHandler.java:308)
-	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_502_CommonEventHandler_onEntityLivingDeathEvent_LivingDeathEvent.invoke(.dynamic)
-	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90)
-	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182)
-	at net.minecraftforge.common.ForgeHooks.onLivingDeath(ForgeHooks.java:615)
-	at net.minecraft.entity.EntityLivingBase.func_70645_a(EntityLivingBase.java:1168)
-	at net.minecraft.entity.EntityLivingBase.func_70097_a(EntityLivingBase.java:1023)
-	at net.minecraft.entity.passive.EntityBat.func_70097_a(SourceFile:203)
-	at c4.champions.common.entity.EntityCinderSpark.bulletHit(EntityCinderSpark.java:43)
-	at c4.champions.common.entity.AbstractEntitySpark.func_70071_h_(AbstractEntitySpark.java:273)
-	at net.minecraft.world.World.func_72866_a(World.java:1996)
-	at net.minecraft.world.WorldServer.func_72866_a(WorldServer.java:832)
-	at net.minecraft.world.World.func_72870_g(World.java:1958)
-	at net.minecraft.world.World.func_72939_s(World.java:1762)
-	at net.minecraft.world.WorldServer.func_72939_s(WorldServer.java:613)
-	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:767)
-	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:397)
-	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668)
-	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526)
-	at java.lang.Thread.run(Thread.java:750)
-[SERVER_STARTED][SERVER][ERROR] Index: 0, Size: 0
-java.lang.IndexOutOfBoundsException: Index: 0, Size: 0
-	at java.util.ArrayList.rangeCheck(ArrayList.java:659)
-	at java.util.ArrayList.get(ArrayList.java:435)
-	at CrafttweakerDregora9.handle(Dregora.zs:870)
-	at CrafttweakerDregora9.handle(Dregora.zs)
-	at crafttweaker.util.EventList.publish(EventList.java:51)
-	at crafttweaker.api.event.MTEventManager.publishEntityLivingDeath(MTEventManager.java:653)
-	at crafttweaker.mc1120.events.CommonEventHandler.onEntityLivingDeathEvent(CommonEventHandler.java:308)
-	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_502_CommonEventHandler_onEntityLivingDeathEvent_LivingDeathEvent.invoke(.dynamic)
-	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90)
-	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182)
-	at net.minecraftforge.common.ForgeHooks.onLivingDeath(ForgeHooks.java:615)
-	at net.minecraft.entity.EntityLivingBase.func_70645_a(EntityLivingBase.java:1168)
-	at net.minecraft.entity.EntityLivingBase.func_70097_a(EntityLivingBase.java:1023)
-	at net.minecraft.entity.passive.EntityBat.func_70097_a(SourceFile:203)
-	at c4.champions.common.entity.EntityCinderSpark.bulletHit(EntityCinderSpark.java:43)
-	at c4.champions.common.entity.AbstractEntitySpark.func_70071_h_(AbstractEntitySpark.java:273)
-	at net.minecraft.world.World.func_72866_a(World.java:1996)
-	at net.minecraft.world.WorldServer.func_72866_a(WorldServer.java:832)
-	at net.minecraft.world.World.func_72870_g(World.java:1958)
-	at net.minecraft.world.World.func_72939_s(World.java:1762)
-	at net.minecraft.world.WorldServer.func_72939_s(WorldServer.java:613)
-	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:767)
-	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:397)
-	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668)
-	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526)
-	at java.lang.Thread.run(Thread.java:750)
