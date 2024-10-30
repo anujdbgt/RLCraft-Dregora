@@ -1,1 +1,7 @@
 StonePlantMound3,-2089,-2078,3086,3095
+StonePlantBoulder,-2308,-2298,3096,3106
+MeteorSite,-2199,-2169,3155,3170
+StonePlantMound4,-2265,-2258,3196,3203
+StoneLeafMound,-2188,-2179,3249,3256
+RLCraft_LargeUndergroundTown,-2272,-2159,3113,3250
+RLCraft_SmallUndergroundSkeleton,-2059,-2051,3187,3195
