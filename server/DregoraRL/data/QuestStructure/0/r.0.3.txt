@@ -1,3 +1,11 @@
 StonePlantMound4,-323,-316,1537,1544
 StonePlantMound,-252,-247,1556,1561
 StonePlantMound2,-304,-292,1537,1550
+StonePlantMound1,198,204,1722,1728
+StonePlantMound2,184,196,1720,1733
+ShrineSmallFire,142,152,1641,1651
+RLCraft_DecentCaveSpider,-296,-296,1847,1847
+RLCraft_UndergroundRuin3,-301,-293,1845,1853
+StoneLeafMound,-319,-312,1692,1701
+StonePlantMound,-330,-325,1773,1778
+RLCraft_SmallUndergroundSkeleton,10,18,1838,1846
