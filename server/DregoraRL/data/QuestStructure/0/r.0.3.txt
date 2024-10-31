@@ -10,3 +10,4 @@ StoneLeafMound,-319,-312,1692,1701
 StonePlantMound,-330,-325,1773,1778
 RLCraft_SmallUndergroundSkeleton,10,18,1838,1846
 SmallWoodenCottage,-382,-374,1604,1615
+WoodThornBig,-410,-397,1721,1734
