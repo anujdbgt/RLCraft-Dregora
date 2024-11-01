@@ -17,3 +17,7 @@ StonePlantMound2,-2167,-2154,1389,1401
 StonePlantMound1,-2124,-2118,1366,1372
 StonePlantMound,-2135,-2130,1485,1490
 StonePlantMound3,-2176,-2165,1342,1351
+StoneBoulder,-2054,-2045,1464,1473
+StoneLeafMound,-2105,-2096,1314,1321
+StonePlantMound4,-2077,-2070,1292,1299
+AbandonedWoodTower,-2147,-2111,1272,1302
