@@ -1,0 +1,14 @@
+StonePlantMound1,1770,1776,-148,-142
+WoodWallRemains,1665,1693,-88,-80
+StoneBoulder,1768,1777,-176,-167
+StoneLeafMound,1691,1698,-65,-56
+StonePlantMound,1795,1800,-123,-118
+StoneLeafMound,1785,1792,-182,-173
+StoneLeafMound,1574,1581,-184,-175
+StonePlantMound1,1794,1800,-73,-67
+DinosaurSkeleton,1584,1593,-82,-36
+WoodWallRemains,1642,1670,-293,-285
+StonePlantMound1,1665,1671,-304,-298
+StonePlantMound1,1770,1776,-273,-267
+StonePlantMound3,1804,1815,-50,-41
+WoodThorn,1643,1654,-348,-337

@@ -1,0 +1,4 @@
+StonePlantMound3,528,537,981,992
+P_WizardTower,576,606,942,972
+RLCraft_DecentWitch,522,522,889,889
+RLCraft_UndergroundRuin2,517,524,884,894

@@ -1,0 +1,14 @@
+StoneBoulder,520,529,1048,1057
+StonePlantMound1,531,537,1212,1218
+StonePlantBoulder,519,529,1148,1158
+StonePlantBoulder,524,534,1107,1117
+StonePlantBoulder,560,570,1035,1045
+StonePlantMound1,579,585,1117,1123
+StonePlantMound,589,594,1277,1282
+StonePlantBoulder,601,611,1079,1089
+StonePlantBoulder,619,629,1237,1247
+StonePlantMound,641,646,1243,1248
+StonePlantBoulder,660,670,1200,1210
+StonePlantBoulder,715,725,1183,1193
+RLCraft_SmallUndergroundSkeleton,720,728,1189,1197
+StonePlantMound,738,743,1198,1203

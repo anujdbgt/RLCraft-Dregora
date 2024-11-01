@@ -1,0 +1,2 @@
+StonePlantBoulder,1682,1692,-917,-907
+RLCraft_4Towers,1762,1822,-992,-940

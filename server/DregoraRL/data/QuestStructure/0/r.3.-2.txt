@@ -1,0 +1,4 @@
+StonePlantMound3,1743,1754,-1104,-1095
+StonePlantMound4,1787,1794,-1043,-1036
+RLCraft_SmallUndergroundSkeleton,1782,1790,-1122,-1114
+WoodWallRemains,1808,1816,-1159,-1131

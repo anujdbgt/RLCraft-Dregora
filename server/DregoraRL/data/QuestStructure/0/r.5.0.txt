@@ -95,3 +95,17 @@ StonePlantMound,2720,2725,-179,-174
 StonePlantMound3,2707,2718,-205,-196
 StonePlantMound2,2752,2764,-211,-198
 RLCraft_LargeUndergroundTown,2622,2759,-215,-102
+CorruptedEnderTree,2979,2990,74,87
+StonePlantMound,2967,2972,27,32
+StoneBoulder,3008,3017,70,79
+P_VillageHouse,3046,3057,129,138
+VillageHouseRich,3061,3076,101,120
+VillageTriplets,3064,3078,129,143
+StoneLeafMound,3009,3018,-55,-48
+StonePlantMound2,3010,3022,220,233
+StonePlantMound3,3003,3012,-93,-82
+StonePlantMound3,2968,2979,-100,-91
+BrickHenge,2986,3002,-98,-82
+StonePlantMound3,2927,2938,-112,-103
+RLCraft_DecentSpider,2980,2980,-114,-114
+RLCraft_UndergroundRuin2,2975,2982,-119,-109

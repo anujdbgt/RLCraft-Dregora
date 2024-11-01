@@ -276,3 +276,11 @@ StonePlantMound4,-488,-481,956,963
 StonePlantMound4,-336,-329,997,1004
 StonePlantMound4,-495,-488,1017,1024
 StoneBoulder,-515,-506,989,998
+StonePlantMound2,80,92,992,1005
+SmallWoodenCottage2,302,310,1005,1013
+ShrineSmallFire,331,341,980,990
+RLCraft_BasicZombie,458,458,991,991
+RLCraft_UndergroundRuin1,455,464,988,997
+RLCraft_SmallUndergroundSkeleton,379,387,926,934
+SmallWoodenCottage1,484,490,909,920
+StonePlantMound,470,475,903,908
