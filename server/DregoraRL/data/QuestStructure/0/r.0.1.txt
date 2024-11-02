@@ -284,3 +284,7 @@ RLCraft_UndergroundRuin1,455,464,988,997
 RLCraft_SmallUndergroundSkeleton,379,387,926,934
 SmallWoodenCottage1,484,490,909,920
 StonePlantMound,470,475,903,908
+StonePlantMound,477,482,881,886
+DinosaurSkull,458,469,852,871
+StonePlantMound,394,399,869,874
+StonePlantBoulder,375,385,807,817

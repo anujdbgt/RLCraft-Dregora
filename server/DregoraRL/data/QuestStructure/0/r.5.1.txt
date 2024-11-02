@@ -1,0 +1,3 @@
+DinosaurSkull,2605,2624,603,614
+RLCraft_LargeUndergroundTown,2496,2633,758,871
+MeteorSite,2599,2614,896,926

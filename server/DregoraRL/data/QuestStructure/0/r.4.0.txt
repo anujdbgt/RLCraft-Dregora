@@ -66,3 +66,14 @@ BlazeSpawnerCrystal,2322,2328,-400,-394
 StonePlantMound4,2323,2330,-258,-251
 RLCraft_SmallUndergroundSkeleton,2313,2321,-134,-126
 StonePlantMound3,2357,2368,-484,-475
+RLCraft_SmallUndergroundSkeleton,2514,2522,334,342
+StonePlantMound1,2432,2438,150,156
+StonePlantMound4,2416,2423,274,281
+StonePlantMound4,2400,2407,154,161
+RLCraft_BasicSkeleton,2387,2387,263,263
+RLCraft_UndergroundRuin1,2381,2390,260,269
+StonePlantMound,2369,2374,238,243
+RLCraft_SmallUndergroundSkeleton,2305,2313,410,418
+StonePlantMound2,2060,2073,-204,-192
+RLCraft_DecentZombie,2079,2079,-235,-235
+RLCraft_UndergroundRuin2,2074,2084,-240,-233

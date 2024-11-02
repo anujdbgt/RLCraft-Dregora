@@ -1,0 +1,7 @@
+RLCraft_UndergroundFarm,-3709,-3666,-1425,-1383
+RLCraft_DecentZombie,-3799,-3799,-1477,-1477
+RLCraft_UndergroundRuin2,-3804,-3794,-1479,-1472
+RLCraft_DecentSkeleton,-3799,-3799,-1283,-1283
+RLCraft_UndergroundRuin2,-3804,-3794,-1285,-1278
+RLCraft_BasicSkeleton,-3925,-3925,-1365,-1365
+RLCraft_UndergroundRuin1,-3931,-3922,-1371,-1362

@@ -1,1 +1,5 @@
 StonePlantMound2,-14,-2,-2549,-2536
+StonePlantMound2,19,32,-2558,-2546
+ShrineSmallFire,-124,-114,-2504,-2494
+StoneLeafMound,-218,-211,-2526,-2517
+P_WitchDungeon,-114,-80,-2518,-2501

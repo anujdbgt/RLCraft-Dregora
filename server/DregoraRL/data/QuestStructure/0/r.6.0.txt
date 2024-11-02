@@ -29,3 +29,10 @@ StoneBoulder,3160,3169,-234,-225
 StoneLeafMound,3171,3180,-297,-290
 RLCraft_PlainsWindmill,3115,3186,-300,-215
 P_WitchDungeon,3481,3515,-132,-115
+RLCraft_DecentZombie,3108,3108,-294,-294
+RLCraft_UndergroundRuin2,3106,3113,-299,-289
+BlazeSpawnerCrystal,3226,3232,314,320
+WoodThornBig,3255,3268,322,335
+RLCraft_DecentZombie,3404,3404,364,364
+RLCraft_UndergroundRuin2,3399,3409,362,369
+MysticalTree2,3284,3294,393,403

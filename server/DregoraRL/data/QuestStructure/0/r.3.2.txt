@@ -1,0 +1,15 @@
+RLCraft_SmallUndergroundSkeleton,1931,1939,1240,1248
+RLCraft_SmallUndergroundSkeleton,1970,1978,1437,1445
+DinosaurSkeleton,1814,1860,1340,1349
+P_WizardTower,1822,1852,1330,1360
+BlazeSpawnerCrystal,2036,2042,1524,1530
+SmallWoodenCottage2,1689,1697,1513,1521
+RLCraft_DecentSkeleton,1764,1764,1169,1169
+RLCraft_UndergroundRuin2,1762,1769,1164,1174
+PeacefulCrypt,1668,1692,1109,1125
+P_SnowTemple,1871,1890,1066,1082
+RLCraft_DecentCaveSpider,1620,1620,1185,1185
+RLCraft_UndergroundRuin3,1618,1626,1182,1190
+RLCraft_SmallUndergroundSkeleton,1561,1569,1069,1077
+RLCraft_4Towers,1555,1615,1020,1072
+ShrineSmallFire,1648,1658,1529,1539

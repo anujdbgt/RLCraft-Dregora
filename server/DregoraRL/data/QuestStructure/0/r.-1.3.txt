@@ -2,3 +2,7 @@ RLCraft_SmallUndergroundSkeleton,-1005,-997,1613,1621
 RLCraft_DecentZombie,-962,-962,1619,1619
 RLCraft_UndergroundRuin3,-964,-956,1614,1622
 RLCraft_SmallUndergroundSkeleton,-909,-901,1711,1719
+RLCraft_DecentCaveSpider,-671,-671,1560,1560
+RLCraft_UndergroundRuin3,-674,-666,1554,1562
+RLCraft_DecentSpider,-989,-989,1941,1941
+RLCraft_UndergroundRuin2,-994,-984,1936,1943

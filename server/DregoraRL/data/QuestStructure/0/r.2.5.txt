@@ -1,0 +1,3 @@
+DinosaurSkull,1147,1158,2859,2878
+ShrineSmallFire,1265,1275,2720,2730
+RLCraft_SmallUndergroundSkeleton,1173,1181,2569,2577

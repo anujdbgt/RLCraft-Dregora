@@ -33,3 +33,10 @@ StonePlantMound1,-250,-244,-2650,-2644
 StoneBoulder,-410,-401,-2879,-2870
 WoodThorn,-410,-399,-2870,-2859
 StonePlantMound4,-441,-434,-3075,-3068
+StonePlantMound2,-206,-193,-2622,-2610
+StonePlantMound,-296,-291,-2587,-2582
+StoneLeafMound,-287,-280,-2636,-2627
+StonePlantMound4,-379,-372,-2607,-2600
+StonePlantMound2,-393,-381,-2681,-2668
+AbandonedWoodTower,-397,-367,-2714,-2678
+StonePlantMound4,-393,-386,-2728,-2721

@@ -7,3 +7,4 @@ P_VillageFarmhouse,-2943,-2931,-938,-926
 StoneBoulder,-2689,-2680,-936,-927
 ShrineSmallFire,-2973,-2963,-703,-693
 RLCraft_UndergroundFarm,-2603,-2561,-1038,-995
+P_SmallShip,-3025,-3019,-827,-807

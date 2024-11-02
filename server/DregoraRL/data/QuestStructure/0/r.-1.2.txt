@@ -53,3 +53,10 @@ StonePlantBoulder,-607,-597,1269,1279
 StonePlantMound1,-646,-640,1291,1297
 ClayWaterMound,-710,-703,1306,1314
 P_WitchDungeon,-733,-716,1327,1361
+StonePlantMound,-887,-882,1369,1374
+RLCraft_PlainsCampRuined,-911,-866,1368,1407
+StonePlantMound,-772,-767,1456,1461
+StoneLeafMound,-766,-757,1494,1501
+P_RuinedHouse,-772,-747,1433,1450
+StonePlantMound2,-759,-747,1499,1512
+P_WitchDungeon,-745,-711,1494,1511

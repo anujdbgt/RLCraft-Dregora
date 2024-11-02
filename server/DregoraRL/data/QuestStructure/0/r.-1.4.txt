@@ -1,0 +1,3 @@
+RLCraft_SmallUndergroundSkeleton,-1023,-1015,2378,2386
+RLCraft_SmallUndergroundSkeleton,-1014,-1006,2162,2170
+SmallClockworkSite,-1019,-1000,2417,2439

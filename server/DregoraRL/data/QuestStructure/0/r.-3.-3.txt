@@ -1,0 +1,3 @@
+P_SmallShip,-1598,-1592,-1831,-1811
+ShrineSmallAir,-1671,-1663,-1977,-1969
+ShrineSmallFire,-1624,-1614,-2014,-2004

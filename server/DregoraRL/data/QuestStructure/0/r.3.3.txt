@@ -2,3 +2,15 @@ RLCraft_DecentSpider,1548,1548,1990,1990
 RLCraft_UndergroundRuin3,1542,1550,1985,1993
 RLCraft_SmallUndergroundSkeleton,1581,1589,2003,2011
 RLCraft_UndergroundFarm,1580,1623,2015,2057
+RLCraft_SmallUndergroundSkeleton,1797,1805,1549,1557
+RLCraft_DecentZombie,2038,2038,1639,1639
+RLCraft_UndergroundRuin2,2033,2043,1634,1641
+SmallWoodenCottage2,1996,2004,1590,1598
+RLCraft_FriendlyOutpost,1876,1915,1556,1624
+DinosaurSkull,1884,1903,1670,1681
+RLCraft_SmallUndergroundSkeleton,1860,1868,1721,1729
+RLCraft_DecentCaveSpider,1708,1708,1631,1631
+RLCraft_UndergroundRuin2,1706,1713,1626,1636
+RLCraft_DecentCaveSpider,1918,1918,1776,1776
+RLCraft_UndergroundRuin2,1913,1923,1771,1778
+SmallWoodenCottage1,1909,1915,1862,1873

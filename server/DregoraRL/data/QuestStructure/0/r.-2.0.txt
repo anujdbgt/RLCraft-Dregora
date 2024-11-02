@@ -11,3 +11,4 @@ RLCraft_UndergroundRuin2,-1351,-1341,316,323
 ShrineSmallAir,-1283,-1275,427,435
 RLCraft_DecentWitch,-1280,-1280,-50,-50
 RLCraft_UndergroundRuin3,-1282,-1274,-53,-45
+DinosaurSkeleton,-1205,-1159,-489,-480

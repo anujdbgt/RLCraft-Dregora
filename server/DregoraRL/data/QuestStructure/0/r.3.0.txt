@@ -24,3 +24,17 @@ RLCraft_UndergroundRuin2,1607,1617,110,117
 StonePlantMound1,1643,1649,143,149
 StonePlantBoulder,1639,1649,193,203
 FallenPalmTree,1647,1657,279,283
+DinosaurSkeleton,1960,2006,-49,-40
+RLCraft_SmallUndergroundSkeleton,1890,1898,-121,-113
+StonePlantMound4,1887,1894,-60,-53
+StonePlantMound,1996,2001,-151,-146
+StoneLeafMound,2011,2020,-5,2
+StonePlantMound2,1988,2000,-10,3
+P_MayanTemple3,1876,1929,-8,36
+RLCraft_UndergroundFarm,1992,2035,-203,-161
+ClayWaterMound1,1928,1939,47,57
+RLCraft_DecentSpider,1790,1790,15,15
+RLCraft_UndergroundRuin2,1785,1792,10,20
+StonePlantMound,1833,1838,-19,-14
+StonePlantMound3,1883,1894,-216,-207
+StonePlantMound1,1875,1881,-217,-211

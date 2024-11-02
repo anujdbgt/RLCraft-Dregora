@@ -2,3 +2,4 @@ RLCraft_BasicSpider,-2606,-2606,-1299,-1299
 RLCraft_UndergroundRuin1,-2609,-2600,-1305,-1296
 RLCraft_DecentCaveSpider,-2608,-2608,-1448,-1448
 RLCraft_UndergroundRuin2,-2613,-2603,-1450,-1443
+P_SmallShip,-2748,-2728,-1372,-1366

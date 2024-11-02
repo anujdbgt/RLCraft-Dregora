@@ -13,3 +13,6 @@ RLCraft_SmallUndergroundSkeleton,2358,2366,1880,1888
 RLCraft_BasicCaveSpider,2490,2490,1898,1898
 RLCraft_UndergroundRuin1,2487,2496,1895,1904
 RLCraft_LargeUndergroundTown,2391,2504,1919,2056
+BrickHenge,2167,2183,1692,1708
+RLCraft_DecentSpider,2064,2064,1695,1695
+RLCraft_UndergroundRuin2,2062,2069,1690,1700

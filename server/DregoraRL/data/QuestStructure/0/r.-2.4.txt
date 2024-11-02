@@ -20,3 +20,7 @@ RLCraft_UndergroundRuin1,-1400,-1391,2246,2255
 FallenPalmTree,-1392,-1382,2096,2100
 StoneLeafMound,-1406,-1397,2287,2294
 StonePlantBoulder,-1514,-1504,2331,2341
+StonePlantMound,-1327,-1322,2410,2415
+RLCraft_DecentWitch,-1041,-1041,2103,2103
+RLCraft_UndergroundRuin2,-1043,-1036,2098,2108
+StonePlantMound2,-1340,-1327,2476,2488

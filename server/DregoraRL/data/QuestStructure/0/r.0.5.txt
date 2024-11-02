@@ -19,3 +19,11 @@ ClayWaterMound1,174,185,2911,2921
 StoneBoulder,208,217,2956,2965
 StonePlantMound,158,163,2661,2666
 StonePlantBoulder,162,172,2780,2790
+StoneLeafMound,145,154,2812,2819
+StoneLeafMound,252,259,2655,2664
+ThreeTowers,495,526,2838,2870
+StoneBoulder,416,425,3001,3010
+StonePlantMound,402,407,3005,3010
+StonePlantBoulder,366,376,3005,3015
+StoneLeafMound,384,391,3034,3043
+RLCraft_ForestStronghold,364,487,2959,3081

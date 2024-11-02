@@ -118,3 +118,13 @@ ShrineSmallAir,3066,3074,-150,-142
 SmallWoodenCottage1,2946,2952,-191,-180
 StonePlantBoulder,2871,2881,-200,-190
 DinosaurSkull,2996,3007,244,263
+StonePlantMound4,2830,2837,-454,-447
+StonePlantMound2,2848,2860,-383,-370
+StonePlantMound2,2807,2819,-341,-328
+StoneLeafMound,2905,2914,-294,-287
+RLCraft_BasicWitch,2993,2993,-275,-275
+RLCraft_UndergroundRuin1,2987,2996,-281,-272
+ClayWaterMound,3016,3024,-298,-291
+SmallWoodenCottage2,3021,3029,-284,-276
+StoneLeafMound,3033,3040,-395,-386
+StonePlantBoulder,2832,2842,357,367

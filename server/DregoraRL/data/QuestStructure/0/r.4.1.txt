@@ -16,3 +16,6 @@ SmallWoodenCottage2,2340,2348,946,954
 RLCraft_DecentZombie,2323,2323,969,969
 RLCraft_UndergroundRuin3,2317,2325,964,972
 RLCraft_SmallUndergroundSkeleton,2083,2091,975,983
+UndergroundCrypt,2462,2476,581,609
+IceThorn4,2379,2395,650,676
+P_WitchDungeon,2430,2464,740,757

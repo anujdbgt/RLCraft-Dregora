@@ -60,3 +60,7 @@ RLCraft_UndergroundFarm,-1847,-1804,216,258
 StonePlantMound2,-2045,-2032,398,410
 RLCraft_DecentSkeleton,-1888,-1888,-466,-466
 RLCraft_UndergroundRuin2,-1893,-1883,-471,-464
+RLCraft_UndergroundFarm,-1992,-1950,-140,-97
+StonePlantMound1,-1834,-1828,-100,-94
+StonePlantBoulder,-1842,-1832,-171,-161
+StonePlantMound4,-1737,-1730,-68,-61

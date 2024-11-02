@@ -43,3 +43,13 @@ StoneMazePath,572,574,-233,-231
 StoneMazeEndChest,575,577,-233,-231
 StoneMazeSmall,572,595,-254,-231
 SmallWoodenCottage2,600,608,155,163
+StonePlantMound,1018,1023,315,320
+StonePlantMound3,989,998,316,327
+MysticalTree,991,1006,337,353
+PeacefulCrypt,979,1003,425,441
+StoneBoulder,1005,1014,134,143
+ShrineSmallFire,958,968,406,416
+StonePlantMound2,925,937,327,340
+StonePlantMound3,768,779,366,375
+WoodThornBig,756,769,346,359
+IceThorn,674,700,429,444

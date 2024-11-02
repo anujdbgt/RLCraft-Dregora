@@ -1,2 +1,15 @@
 RLCraft_BasicSpider,2514,2514,1497,1497
 RLCraft_UndergroundRuin1,2508,2517,1491,1500
+UndergroundCrypt,2081,2095,1254,1282
+RLCraft_SmallUndergroundSkeleton,2091,2099,1239,1247
+RLCraft_BasicWitch,2106,2106,1323,1323
+RLCraft_UndergroundRuin1,2103,2112,1320,1329
+ShrineSmallAir,2127,2135,1226,1234
+RLCraft_BasicSkeleton,2140,2140,1493,1493
+RLCraft_UndergroundRuin1,2134,2143,1490,1499
+RLCraft_DecentZombie,2552,2552,1190,1190
+RLCraft_UndergroundRuin3,2546,2554,1185,1193
+ShrineSmallFire,2497,2507,1345,1355
+RLCraft_SmallUndergroundSkeleton,2378,2386,1183,1191
+MysticalTree,2290,2306,1154,1169
+RLCraft_SmallUndergroundSkeleton,2389,2397,1435,1443

@@ -6,3 +6,4 @@ RLCraft_UndergroundRuin1,-2429,-2420,-1301,-1292
 ShrineSmallWater,-2536,-2528,-1367,-1359
 RLCraft_DecentWitch,-2159,-2159,-1423,-1423
 RLCraft_UndergroundRuin2,-2161,-2154,-1428,-1418
+ShrineSmallFire,-2518,-2508,-1463,-1453

@@ -135,3 +135,13 @@ StoneBoulder,-1726,-1717,1378,1387
 RLCraft_BasicSkeleton,-1724,-1724,1390,1390
 RLCraft_UndergroundRuin1,-1727,-1718,1384,1393
 StonePlantMound4,-1595,-1588,1070,1077
+BrickHenge,-1908,-1892,1294,1310
+SpiderPit,-1907,-1897,1369,1378
+RLCraft_DecentSpider,-1892,-1892,1447,1447
+RLCraft_UndergroundRuin3,-1898,-1890,1444,1452
+RLCraft_UndergroundFarm,-1901,-1859,1344,1387
+StonePlantMound3,-1853,-1844,1428,1439
+MeteorSite,-1828,-1813,1446,1476
+StoneLeafMound,-1809,-1802,1293,1302
+StonePlantMound1,-1831,-1825,1271,1277
+RLCraft_SmallUndergroundSkeleton,-1765,-1757,1510,1518
