@@ -12,3 +12,8 @@ StonePlantBoulder,660,670,1200,1210
 StonePlantBoulder,715,725,1183,1193
 RLCraft_SmallUndergroundSkeleton,720,728,1189,1197
 StonePlantMound,738,743,1198,1203
+StoneIceBoulder2,731,740,1516,1525
+StonePlantMound1,584,590,1461,1467
+IceThorn4,918,934,1471,1497
+RLCraft_DecentZombie,776,776,1451,1451
+RLCraft_UndergroundRuin2,771,781,1446,1453

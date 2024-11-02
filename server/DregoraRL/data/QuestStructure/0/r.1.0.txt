@@ -42,3 +42,4 @@ StoneMazePath,572,574,-248,-246
 StoneMazePath,572,574,-233,-231
 StoneMazeEndChest,575,577,-233,-231
 StoneMazeSmall,572,595,-254,-231
+SmallWoodenCottage2,600,608,155,163

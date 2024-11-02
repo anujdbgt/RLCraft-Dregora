@@ -5,3 +5,8 @@ RLCraft_UndergroundFarm,-1315,-1273,701,744
 RLCraft_BasicZombie,-1525,-1525,741,741
 RLCraft_UndergroundRuin1,-1528,-1519,735,744
 StonePlantBoulder,-1100,-1090,946,956
+StonePlantBoulder,-1443,-1433,1003,1013
+StonePlantMound3,-1390,-1379,1010,1019
+StonePlantMound1,-1353,-1347,1010,1016
+TribalJungleHead,-1401,-1391,887,897
+P_WitchDungeon,-1341,-1324,997,1031

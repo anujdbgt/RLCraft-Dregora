@@ -1,0 +1,4 @@
+ShrineSmallWater,-730,-722,179,187
+StonePlantMound3,-558,-549,131,142
+RLCraft_BasicWitch,-952,-952,-283,-283
+RLCraft_UndergroundRuin1,-955,-946,-286,-277

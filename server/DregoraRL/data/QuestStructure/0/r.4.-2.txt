@@ -1,0 +1,10 @@
+DinosaurSkeleton,2329,2338,-1214,-1168
+DinosaurSkull,2410,2421,-1208,-1189
+StonePlantMound4,2083,2090,-1232,-1225
+StonePlantMound3,2091,2102,-1098,-1089
+StonePlantMound4,2178,2185,-1091,-1084
+StonePlantMound2,2116,2128,-1073,-1060
+RLCraft_SmallUndergroundSkeleton,2167,2175,-1076,-1068
+StonePlantMound,2161,2166,-1058,-1053
+RLCraft_DecentWitch,2224,2224,-1054,-1054
+RLCraft_UndergroundRuin3,2219,2227,-1056,-1048

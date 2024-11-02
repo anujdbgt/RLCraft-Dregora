@@ -12,3 +12,15 @@ StonePlantMound1,1665,1671,-304,-298
 StonePlantMound1,1770,1776,-273,-267
 StonePlantMound3,1804,1815,-50,-41
 WoodThorn,1643,1654,-348,-337
+RLCraft_DecentZombie,2025,2025,-414,-414
+RLCraft_UndergroundRuin3,2022,2030,-420,-412
+StonePlantBoulder,1967,1977,-352,-342
+StonePlantMound2,2030,2043,-292,-280
+StonePlantMound4,1998,2005,-292,-285
+RLCraft_DecentWitch,1883,1883,-353,-353
+RLCraft_UndergroundRuin3,1880,1888,-359,-351
+RLCraft_DecentZombie,1612,1612,112,112
+RLCraft_UndergroundRuin2,1607,1617,110,117
+StonePlantMound1,1643,1649,143,149
+StonePlantBoulder,1639,1649,193,203
+FallenPalmTree,1647,1657,279,283

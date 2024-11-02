@@ -1,0 +1,2 @@
+RLCraft_DecentSpider,1024,1024,-3136,-3136
+SmallAbandonedOutpost,1087,1109,-3225,-3195

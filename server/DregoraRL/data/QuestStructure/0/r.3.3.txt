@@ -1,0 +1,4 @@
+RLCraft_DecentSpider,1548,1548,1990,1990
+RLCraft_UndergroundRuin3,1542,1550,1985,1993
+RLCraft_SmallUndergroundSkeleton,1581,1589,2003,2011
+RLCraft_UndergroundFarm,1580,1623,2015,2057

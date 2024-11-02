@@ -1,0 +1,4 @@
+RLCraft_DecentSpider,1013,1013,-2612,-2612
+RLCraft_UndergroundRuin3,1011,1019,-2617,-2609
+SmallAbandonedMine,926,951,-2967,-2952
+PeacefulCrypt,981,1005,-3054,-3038

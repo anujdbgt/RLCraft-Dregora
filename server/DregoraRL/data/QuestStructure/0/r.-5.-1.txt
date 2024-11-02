@@ -1,2 +1,9 @@
 RLCraft_DecentCaveSpider,-2673,-2673,-667,-667
 RLCraft_UndergroundRuin3,-2675,-2667,-670,-662
+StonePlantMound4,-2839,-2832,-811,-804
+UndergroundCultChamber,-2746,-2714,-919,-877
+MeteorSite,-2688,-2658,-828,-813
+P_VillageFarmhouse,-2943,-2931,-938,-926
+StoneBoulder,-2689,-2680,-936,-927
+ShrineSmallFire,-2973,-2963,-703,-693
+RLCraft_UndergroundFarm,-2603,-2561,-1038,-995

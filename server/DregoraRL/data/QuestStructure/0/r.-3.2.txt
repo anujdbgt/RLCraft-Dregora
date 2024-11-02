@@ -127,3 +127,11 @@ StoneMazePath,-1945,-1943,1428,1430
 StoneMazePath,-1900,-1898,1440,1442
 StoneMazeEndChest,-1900,-1898,1437,1439
 StoneMazePagoda,-1945,-1898,1428,1475
+RLCraft_BasicCaveSpider,-1716,-1716,1251,1251
+RLCraft_UndergroundRuin1,-1719,-1710,1248,1257
+StonePlantMound3,-1660,-1651,1132,1143
+SmallFortRuinsJapanese,-1709,-1663,1331,1377
+StoneBoulder,-1726,-1717,1378,1387
+RLCraft_BasicSkeleton,-1724,-1724,1390,1390
+RLCraft_UndergroundRuin1,-1727,-1718,1384,1393
+StonePlantMound4,-1595,-1588,1070,1077

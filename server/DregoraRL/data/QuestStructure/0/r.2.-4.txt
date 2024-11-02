@@ -1,0 +1,3 @@
+ShrineSmallFire,1085,1095,-2398,-2388
+RLCraft_SmallUndergroundSkeleton,1051,1059,-2521,-2513
+PeacefulCrypt,1441,1457,-2521,-2497

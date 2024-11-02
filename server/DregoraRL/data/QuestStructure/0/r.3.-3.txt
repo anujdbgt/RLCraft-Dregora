@@ -1,1 +1,2 @@
 RLCraft_SmallUndergroundSkeleton,1849,1857,-1775,-1767
+P_AncientTeleporter,1768,1803,-1707,-1674

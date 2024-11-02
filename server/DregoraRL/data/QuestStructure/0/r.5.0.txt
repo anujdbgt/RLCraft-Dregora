@@ -109,3 +109,12 @@ BrickHenge,2986,3002,-98,-82
 StonePlantMound3,2927,2938,-112,-103
 RLCraft_DecentSpider,2980,2980,-114,-114
 RLCraft_UndergroundRuin2,2975,2982,-119,-109
+StonePlantBoulder,2659,2669,-227,-217
+RLCraft_BasicSkeleton,2583,2583,-178,-178
+RLCraft_UndergroundRuin1,2577,2586,-181,-172
+ShrineSmallAir,2772,2780,-225,-217
+StonePlantMound,2956,2961,-159,-154
+ShrineSmallAir,3066,3074,-150,-142
+SmallWoodenCottage1,2946,2952,-191,-180
+StonePlantBoulder,2871,2881,-200,-190
+DinosaurSkull,2996,3007,244,263

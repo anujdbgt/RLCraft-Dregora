@@ -1,1 +1,8 @@
 DinosaurSkull,-2279,-2268,-1503,-1484
+RLCraft_DecentWitch,-2551,-2551,-1099,-1099
+RLCraft_UndergroundRuin3,-2554,-2546,-1101,-1093
+RLCraft_BasicSkeleton,-2423,-2423,-1295,-1295
+RLCraft_UndergroundRuin1,-2429,-2420,-1301,-1292
+ShrineSmallWater,-2536,-2528,-1367,-1359
+RLCraft_DecentWitch,-2159,-2159,-1423,-1423
+RLCraft_UndergroundRuin2,-2161,-2154,-1428,-1418

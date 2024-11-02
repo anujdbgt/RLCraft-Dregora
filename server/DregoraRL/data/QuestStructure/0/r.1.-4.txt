@@ -1,0 +1,2 @@
+SmallOutpost,975,1005,-2439,-2417
+RLCraft_SmallUndergroundSkeleton,987,995,-2521,-2513

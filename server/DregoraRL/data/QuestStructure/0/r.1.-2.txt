@@ -1,0 +1,9 @@
+RLCraft_SmallUndergroundSkeleton,978,986,-1087,-1079
+PeacefulCrypt,965,989,-1200,-1184
+P_WitchDungeon,782,799,-1185,-1151
+SmallAbandonedMine,794,809,-1461,-1436
+RLCraft_BasicZombie,768,768,-1460,-1460
+RLCraft_UndergroundRuin1,765,774,-1466,-1457
+P_WitchDungeon,744,778,-1282,-1265
+RLCraft_DecentSpider,732,732,-1277,-1277
+RLCraft_UndergroundRuin2,727,737,-1279,-1272

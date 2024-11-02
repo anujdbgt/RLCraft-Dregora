@@ -1,0 +1,9 @@
+SmallAbandonedMine,1486,1501,1986,2011
+RLCraft_BasicCaveSpider,1421,1421,1880,1880
+RLCraft_UndergroundRuin1,1415,1424,1877,1886
+RLCraft_SmallUndergroundSkeleton,1040,1048,1869,1877
+RLCraft_BasicZombie,1125,1125,1773,1773
+RLCraft_UndergroundRuin1,1119,1128,1767,1776
+RLCraft_BasicSkeleton,1124,1124,1720,1720
+RLCraft_UndergroundRuin1,1121,1130,1714,1723
+ElvenPond,1120,1149,1606,1636

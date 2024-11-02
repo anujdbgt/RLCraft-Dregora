@@ -1,1 +1,5 @@
 SmallOutpost,1663,1685,-2104,-2074
+RLCraft_DecentCaveSpider,1595,1595,-2535,-2535
+RLCraft_UndergroundRuin3,1589,1597,-2538,-2530
+RLCraft_DecentSkeleton,1623,1623,-2557,-2557
+RLCraft_UndergroundRuin2,1618,1625,-2562,-2552

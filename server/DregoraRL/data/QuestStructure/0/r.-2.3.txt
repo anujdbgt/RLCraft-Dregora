@@ -9,3 +9,9 @@ ShrineSmallAir,-1152,-1144,2041,2049
 P_MayanTemple4,-1499,-1401,1936,2034
 P_WitchDungeon,-1407,-1373,1899,1916
 StonePlantMound1,-1508,-1502,1603,1609
+RLCraft_DecentCaveSpider,-1026,-1026,1673,1673
+RLCraft_UndergroundRuin2,-1031,-1024,1668,1678
+RLCraft_DecentSkeleton,-1036,-1036,1636,1636
+RLCraft_UndergroundRuin2,-1041,-1031,1634,1641
+ShrineSmallFire,-1043,-1033,1852,1862
+P_MayanTemple2,-1142,-1043,1853,1921

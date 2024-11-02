@@ -85,3 +85,4 @@ StoneMazePath,-1055,-1053,1343,1345
 StoneMazePath,-1055,-1053,1346,1348
 StoneMazePagoda,-1055,-1008,1319,1366
 StoneBoulder,-1127,-1118,1032,1041
+StoneLeafMound,-1453,-1446,1188,1197

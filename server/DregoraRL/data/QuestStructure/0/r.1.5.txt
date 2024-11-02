@@ -1,0 +1,5 @@
+StoneIceBoulder,821,831,2571,2580
+WoodWallRemains,874,902,2654,2662
+StoneIceBoulder3,800,810,2588,2598
+RLCraft_DecentSpider,805,805,2686,2686
+RLCraft_UndergroundRuin3,800,808,2684,2692
