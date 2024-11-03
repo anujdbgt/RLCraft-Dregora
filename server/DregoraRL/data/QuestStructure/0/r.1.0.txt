@@ -53,3 +53,14 @@ StonePlantMound2,925,937,327,340
 StonePlantMound3,768,779,366,375
 WoodThornBig,756,769,346,359
 IceThorn,674,700,429,444
+StonePlantMound,860,865,-25,-20
+StoneBoulder,812,821,16,25
+DinosaurSkull,1003,1014,87,106
+BrickHenge,933,949,64,80
+StonePlantMound4,705,712,-187,-180
+StonePlantMound2,973,985,-4,9
+StonePlantMound1,915,921,61,67
+RLCraft_DecentCaveSpider,680,680,116,116
+RLCraft_UndergroundRuin3,675,683,114,122
+StonePlantMound4,986,993,-122,-115
+StoneLeafMound,1000,1007,-25,-16

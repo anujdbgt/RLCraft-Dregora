@@ -77,3 +77,4 @@ RLCraft_SmallUndergroundSkeleton,2305,2313,410,418
 StonePlantMound2,2060,2073,-204,-192
 RLCraft_DecentZombie,2079,2079,-235,-235
 RLCraft_UndergroundRuin2,2074,2084,-240,-233
+P_WizardTower,2156,2186,438,468

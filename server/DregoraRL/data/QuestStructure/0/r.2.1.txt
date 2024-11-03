@@ -21,3 +21,5 @@ MonolythHoly,1527,1541,759,773
 RLCraft_DecentSpider,1338,1338,523,523
 RLCraft_UndergroundRuin2,1336,1343,518,528
 StonePlantMound3,1226,1235,579,590
+RLCraft_DecentWitch,1097,1097,634,634
+RLCraft_UndergroundRuin2,1092,1102,632,639
